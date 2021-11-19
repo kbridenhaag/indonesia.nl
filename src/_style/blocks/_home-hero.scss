@@ -1,3 +1,5 @@
+$app-home-hero-button-shade: 25%;
+
 .app-home-hero {
   position: relative;
   margin-bottom: govuk-spacing(7);
@@ -19,12 +21,24 @@
   border-radius: 10px;
 }
 
+.app-home-hero__button-item:hover {
+  background-color: govuk-shade($app-brand-colour, $app-home-hero-button-shade);
+}
+
 .app-home-hero__button-item--turquoise {
   background-color: #1e8088;
 }
 
+.app-home-hero__button-item--turquoise:hover {
+  background-color: govuk-shade(#1e8088, $app-home-hero-button-shade);
+}
+
 .app-home-hero__button-item--green {
   background-color: #1d715f;
+}
+
+.app-home-hero__button-item--green:hover {
+  background-color: govuk-shade(#1d715f, $app-home-hero-button-shade);
 }
 
 .app-home-hero__button-link {
