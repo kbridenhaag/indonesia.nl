@@ -1,5 +1,6 @@
 .app-header {
-  color: govuk-colour("black");
+  background-color: govuk-colour("black");
+  color: govuk-colour("white");
   position: relative;
   @include govuk-typography-common;
 }
@@ -18,7 +19,7 @@
 }
 
 .app-header__title {
-  color: govuk-colour("black");
+  color: govuk-colour("white");
   text-decoration: none;
   display: flex;
   margin-right: govuk-spacing(2);
@@ -78,12 +79,11 @@
   border-radius: 0;
   border: 0;
   background: none;
-  color: govuk-colour("black");
+  color: govuk-colour("white");
   min-width: max-content;
   padding: govuk-spacing(1);
 
   @include govuk-media-query($from: desktop) {
-    border-left: 1px solid $govuk-border-colour;
     height: 100%;
     padding: 0 govuk-spacing(4);
   }
@@ -99,7 +99,7 @@
 }
 
 .app-header__menu-button:not(.app-header__menu-button--is-open):before {
-  background-image: url("data:image/svg+xml,%3Csvg width='19' height='13' viewBox='0 0 19 13' fill='none' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath d='M2 2L9.5 10L17 2' stroke='%230B0C0C' stroke-width='3'/%3E%3C/svg%3E");
+  background-image: url("data:image/svg+xml,%3Csvg width='19' height='13' viewBox='0 0 19 13' fill='none' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath d='M2 2L9.5 10L17 2' stroke='white' stroke-width='3'/%3E%3C/svg%3E");
 }
 
 .app-header__menu-button--is-open {
