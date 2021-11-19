@@ -14,12 +14,12 @@
         <div class="kbrinl-grid-column-one-third">
           <h3 class="kbrinl-promo">
             <a class="kbrinl-link kbrinl-promo__link" href="https://kemlu.go.id/thehague/en/pages/hari_libur/215/etc-menu">
-              <span class="kbrinl-promo__content">Public holidays</span>
+              <span class="kbrinl-promo__content">{{ 'home.openingHoursAndHolidays.sideContent.title' | i18n }}</span>
             </a>
           </h3>
-          <p class="kbrinl-body">
-            The Embassy is closed on Dutch and Indonesian public holidays. <a class="kbrinl-link" href="/p">Check to see when the Embassy is closed</a>.
-          </p>
+          <div class="app-cms-content">
+            {{ 'home.openingHoursAndHolidays.sideContent.content' | i18n | safe }}
+          </div>
         </div>
       </div>
 

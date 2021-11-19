@@ -64,6 +64,7 @@
   @extend %govuk-body-m;
 }
 
+.app-cms-content a,
 .app-prose a {
   @extend %govuk-link;
 }

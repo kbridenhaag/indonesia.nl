@@ -36,6 +36,10 @@
     "visa": {
       "title": "Visa services",
       "content": "<p><strong>Tuesday and Thursday</strong><br>Service hours: 10:00 - 12:00 (by appointment only)<br>Document collection: 14:00 - 15:00</p>"
+    },
+    "sideContent": {
+      "title": "Important information",
+      "content": "<p>The Embassy is closed on Dutch and Indonesian public holidays. <a href='/'>Check to see when the Embassy is closed</a>.</p>"
     }
   },
   "moreLinks": {

@@ -36,6 +36,10 @@
     "visa": {
       "title": "Layanan visa",
       "content": "<p><strong>Selasa dan Kamis</strong><br>Jam pengajuan: 10:00 - 12:00 (dengan janji)<br>Jam pengambilan dokumen: 14:00 - 15:00</p>"
+    },
+    "sideContent": {
+      "title": "Informasi penting",
+      "content": "<p>KBRI tutup pada hari libur nasional Indonesia dan Belanda. <a href='/'>Check to see when the Embassy is closed</a>.</p>"
     }
   },
   "moreLinks": {
