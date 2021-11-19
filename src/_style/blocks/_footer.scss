@@ -29,7 +29,12 @@
 
 .app-footer__address {
   font-style: normal;
+  margin-bottom: govuk-spacing(3);
   @include govuk-font($size: 16);
+
+  @include govuk-media-query($from: desktop) {
+    margin-bottom: govuk-spacing(4);
+  }
 }
 
 .app-footer__address-item {
