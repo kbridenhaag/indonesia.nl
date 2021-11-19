@@ -1,0 +1,42 @@
+{% from 'macros/accordion.njk' import appAccordion %}
+
+{{ appAccordion({
+  id: "opening-hours-accordion",
+  headingLevel: 3,
+  classes: 'app-cms-content',
+  items: [
+    {
+      heading: {
+        text: 'home.openingHoursAndHolidays.general.title' | i18n
+      },
+      content: {
+        html: 'home.openingHoursAndHolidays.general.content' | i18n
+      },
+      expanded: true
+    },
+    {
+      heading: {
+        text: 'home.openingHoursAndHolidays.consular.title' | i18n
+      },
+      content: {
+        html: 'home.openingHoursAndHolidays.consular.content' | i18n
+      }
+    },
+      {
+      heading: {
+        text: 'home.openingHoursAndHolidays.passport.title' | i18n
+      },
+      content: {
+        html: 'home.openingHoursAndHolidays.passport.content' | i18n
+      }
+    },
+      {
+      heading: {
+        text: 'home.openingHoursAndHolidays.visa.title' | i18n
+      },
+      content: {
+        html: 'home.openingHoursAndHolidays.visa.content' | i18n
+      }
+    }
+  ]
+}) }}

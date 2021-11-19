@@ -1,0 +1,80 @@
+@import "header";
+@import "home-hero";
+@import "footer";
+@import "promo";
+@import "page-heading";
+@import "home-news";
+@import "menu-card";
+
+.app-img__3-2-container {
+  display: block;
+  padding-top: 66.6666666667%;
+  width: 100%;
+  position: relative;
+  background-color: orange;
+  overflow: hidden;
+}
+
+.app-img__3-2-container img {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+}
+
+.app-main-wrapper {
+  @include govuk-main-wrapper;
+}
+
+.app-main-wrapper--home {
+  @include govuk-media-query($from: tablet) {
+    margin-top: govuk-spacing(9);
+  }
+}
+
+.app-divider {
+  margin: govuk-spacing(6) 0;
+  border: 5px solid govuk-colour("black");
+  border-width: 5px 0 0;
+}
+
+.app-prose {
+  margin-top: govuk-spacing(9);
+}
+
+.app-prose h1 {
+  @extend %govuk-heading-xl;
+}
+
+.app-prose h2 {
+  @extend %govuk-heading-l;
+}
+
+.app-prose h3 {
+  @extend %govuk-heading-m;
+}
+
+.app-prose h4,
+.app-prose h5,
+.app-prose h6 {
+  @extend %govuk-heading-s;
+}
+
+.app-prose p,
+.app-cms-content p {
+  @extend %govuk-body-m;
+}
+
+.app-prose a {
+  @extend %govuk-link;
+}
+
+.app-prose ul {
+  @extend %govuk-list;
+  @extend %govuk-list--bullet;
+}
+
+.app-prose ol {
+  @extend %govuk-list;
+  @extend %govuk-list--number;
+}

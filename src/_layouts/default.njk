@@ -1,0 +1,37 @@
+{% extends './_base.njk' %}
+{% from 'macros/breadcrumbs.njk' import appBreadcrumbs %}
+
+{% if eleventyNavigation %}
+  {% set navPages = collections.all | eleventyNavigationBreadcrumb(eleventyNavigation.key, { includeSelf: true }) %}
+  {% set breadcrumbItems = [] %}
+  {% for page in navPages %}
+    {% set breadcrumbItems = (breadcrumbItems.push({
+      text: page.title,
+      href: page.url
+    }), breadcrumbItems) %}
+{% endfor %}
+
+{% endif %}
+
+{% block main %}
+  <main id="main-content" class="app-main-wrapper kbrinl-!-padding-top-0">
+    <div class="app-page-heading">
+      <div class="kbrinl-width-container">
+        <h1 class="kbrinl-heading-xl">
+          {{ title }}
+        </h1>
+      </div>
+    </div>
+
+    <div class="kbrinl-width-container">
+      {% if eleventyNavigation %}
+        {{ appBreadcrumbs({
+          items: breadcrumbItems
+        }) }}
+      {% endif %}
+
+      {% block content %}
+      {% endblock %}
+    </div>
+  </main>
+{% endblock %}

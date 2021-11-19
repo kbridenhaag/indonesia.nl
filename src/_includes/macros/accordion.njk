@@ -1,0 +1,31 @@
+{% macro appAccordion(params) %}
+  {% set id = params.id %}
+  {% set headingLevel = params.headingLevel if params.headingLevel else 2 %}
+
+  <div class="kbrinl-accordion {%- if params.classes %} {{ params.classes }}{% endif -%}" data-module="kbrinl-accordion" id="{{ id }}"
+  {%- for attribute, value in params.attributes %} {{attribute}}="{{value}}"{% endfor %}>
+    {% for item in params.items %}
+      {% if item %}
+        <div class="kbrinl-accordion__section {% if item.expanded %}kbrinl-accordion__section--expanded{% endif %}">
+          <div class="kbrinl-accordion__section-header">
+            <h{{ headingLevel }} class="kbrinl-accordion__section-heading">
+              <span class="kbrinl-accordion__section-button" id="{{ id }}-heading-{{ loop.index }}">
+                {{ item.heading.html | safe if item.heading.html else item.heading.text }}
+              </span>
+            </h{{ headingLevel }}>
+            {% if item.summary.html or item.summary.text %}
+              <div class="kbrinl-accordion__section-summary kbrinl-body" id="{{ id }}-summary-{{ loop.index }}">
+                {{ item.summary.html | safe if item.summary.html else item.summary.text }}
+              </div>
+            {% endif %}
+          </div>
+          <div id="{{ id }}-content-{{ loop.index }}" class="kbrinl-accordion__section-content" aria-labelledby="{{ id }}-heading-{{ loop.index }}">
+            {{ item.content.html | safe if item.content.html else item.content.text }}
+          </div>
+        </div>
+      {% endif %}
+    {% endfor %}
+  </div>
+
+{% endmacro %}
+

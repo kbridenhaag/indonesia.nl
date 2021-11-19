@@ -1,0 +1,44 @@
+<header class="app-header" data-module='app-header'>
+  <div class="app-header__container">
+    <a href="/{{ locale }}" class="app-header__title">
+      <img src="/assets/images/kbrinl-logo.png" alt="Indonesian Embassy The Hague" class="app-header__title-logo">
+      <div>
+        <span class="kbrinl-!-font-weight-bold">{{ 'common.embassy' | i18n }}</span><br>
+        <span>{{ 'common.embassyLocation' | i18n }}</span>
+      </div>
+    </a>
+    <a class="app-header__logo-link" href="/{{locale}}" tabindex="-1">
+      <img src="/assets/images/kbrinl-logo.png" alt="Indonesian Embassy The Hague" class="app-header__logo">
+    </a>
+  <nav class="app-header__nav">
+    <button class="app-header__menu-button kbrinl-!-font-weight-bold" aria-controls="main-menu">Menu</button>
+    <div class="app-header__menu" id="main-menu">
+      <div class="kbrinl-width-container">
+        <div class="kbrinl-grid-row">
+          <div class="kbrinl-grid-column-one-third">
+            <p class="kbrinl-body-l">{{ 'menu.lead' | i18n }}</p>
+          </div>
+          <ul class="app-header__menu-list">
+            <div class="kbrinl-grid-column-one-third">
+              <li class="app-header__menu-item">
+                <a class="app-header__menu-link" href="">{{ 'menu.policy.title' | i18n }}</a>
+              </li>
+              <li class="app-header__menu-item">
+                <a class="app-header__menu-link" href="">{{ 'menu.about.title' | i18n }}</a>
+              </li>
+            </div>
+            <div class="kbrinl-grid-column-one-third">
+              <li class="app-header__menu-item">
+                <a class="app-header__menu-link" href="">{{ 'menu.services.title' | i18n }}</a>
+              </li>
+              <li class="app-header__menu-item">
+                <a class="app-header__menu-link" href="/eh">{{ 'menu.publications.title' | i18n }}</a>
+              </li>
+            </div>
+          </ul>
+        </div>
+      </div>
+    </div>
+  </nav>
+  </div>
+</header>

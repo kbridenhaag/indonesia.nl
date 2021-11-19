@@ -1,0 +1,43 @@
+  <div class="app-home-hero">
+    <div class="kbrinl-width-container">
+      <img class="app-home-hero__indonesia-vector-map" src="/assets/images/indonesia-vector-map.svg">
+      <div class="kbrinl-grid-row">
+        <div class="kbrinl-grid-column-two-thirds">
+          <div class="kbrinl-grid-row kbrinl-!-margin-bottom-6">
+            <div class="kbrinl-grid-column-one-half">
+              <div class="app-!-border-bottom kbrinl-!-padding-bottom-2">
+                {% if (locale == 'id') %}
+                  <span class="kbrinl-body-s kbrinl-!-margin-right-2">Bahasa Indonesia</span>
+                  <a href="/en" class="kbrinl-body-s kbrinl-link">English</a>
+                {% else %}
+                  <span class="kbrinl-body-s kbrinl-!-margin-right-2">English</span>
+                  <a href="/id" class="kbrinl-body-s kbrinl-link">Bahasa Indonesia</a>
+                {% endif %}
+              </div>
+            </div>
+          </div>
+          <h1 class="kbrinl-heading-xl kbrinl-!-margin-bottom-0">{{ 'home.heroTitle' | i18n }}</h1>
+          <span class="kbrinl-heading-l kbrinl-!-font-weight-regular">{{ 'home.heroSubtitle' | i18n }}</span>
+
+        </div>
+      </div>
+
+      <div class="kbrinl-grid-row kbrinl-!-margin-top-6">
+        <div class="kbrinl-grid-column-two-thirds">
+          {% include "home-hero-buttons.njk" %}
+        </div>
+        <div class="kbrinl-grid-column-one-third">
+          <h3 class="kbrinl-heading-s app-home-hero__emergency-hotline">
+            {{ 'home.emergencyHotline.title' | i18n }}
+          </h3>
+          <p class="kbrinl-body">
+            {{ 'home.emergencyHotline.text' | i18n }}
+            <br><br>
+            <a href="tel:+31628860509" class="kbrinl-link">+31 62 88 60 509</a><br>
+            <a href="tel:+31682640665" class="kbrinl-link">+31 68 26 40 665</a>
+          </p>
+        </div>
+      </div>
+    </div>
+
+  </div>

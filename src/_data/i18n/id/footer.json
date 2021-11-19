@@ -1,0 +1,33 @@
+{
+  "about": {
+    "title": "Tentang situs ini",
+    "accessibility": {
+      "title": "Aksesibilitas"
+    },
+    "colophon": {
+      "title": "Colofon"
+    },
+    "cookies": {
+      "title": "Cookies"
+    },
+    "privacy": {
+      "title": "Pribadi"
+    }
+  },
+  "address": {
+    "title": "Alamat",
+    "map": {
+      "title": "Lihat di peta Google Maps"
+    },
+    "9292": {
+      "title": "Rencanakan perjalanan di 9292"
+    }
+  },
+  "contact": {
+    "title": "Kontak"
+  },
+  "logo": {
+    "theEmbassyOf": "Kedutaan Besar",
+    "republicOfIndonesia": "Republik Indonesia"
+  }
+}

@@ -1,0 +1,7 @@
+dist/
+node_modules/
+.env
+.log
+.cache
+cache
+.vscode

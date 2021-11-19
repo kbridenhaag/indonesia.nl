@@ -1,0 +1,33 @@
+{
+  "about": {
+    "title": "About this site",
+    "accessibility": {
+      "title": "Accessibility"
+    },
+    "colophon": {
+      "title": "Colophon"
+    },
+    "cookies": {
+      "title": "Cookies"
+    },
+    "privacy": {
+      "title": "Privacy"
+    }
+  },
+  "address": {
+    "title": "Alamat",
+    "map": {
+      "title": "View on Google Maps"
+    },
+    "9292": {
+      "title": "Plan trip on 9292"
+    }
+  },
+  "contact": {
+    "title": "Contact"
+  },
+  "logo": {
+    "theEmbassyOf": "The Embassy of",
+    "republicOfIndonesia": "the Republic of Indonesia"
+  }
+}

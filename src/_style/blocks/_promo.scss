@@ -1,0 +1,22 @@
+.kbrinl-promo {
+  margin: 0;
+}
+
+.kbrinl-promo__link {
+  border-radius: 10px;
+  background-color: $app-brand-colour;
+  display: block;
+  margin-bottom: govuk-spacing(4);
+  padding: govuk-spacing(9) govuk-spacing(4);
+  text-align: center;
+  text-decoration: none;
+}
+
+.kbrinl-promo__content {
+  color: govuk-colour("white");
+  @include govuk-font(36, bold);
+}
+
+.kbrinl-promo__link:focus .kbrinl-promo__content {
+  color: govuk-colour("black");
+}

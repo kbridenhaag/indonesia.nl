@@ -1,0 +1,19 @@
+{
+  "lead": "Access Embassy services and information",
+  "policy": {
+    "title": "Policy",
+    "href": "bbc.co.uk"
+  },
+  "about": {
+    "title": "About",
+    "href": "bbc.co.uk"
+  },
+  "services": {
+    "title": "Services",
+    "href": "bbc.co.uk"
+  },
+  "publications": {
+    "title": "Publications",
+    "href": "bbc.co.uk"
+  }
+}

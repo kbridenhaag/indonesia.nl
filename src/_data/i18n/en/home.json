@@ -1,0 +1,60 @@
+{
+  "heroTitle": "How can we help?",
+  "heroSubtitle": "Apa yang bisa kami bantu?",
+  "emergencyHotline": {
+    "title": "Emergency hotline",
+    "text": "For Indonesian citizens with emergencies, please call:"
+  },
+  "services": {
+    "visa": {
+      "title": "Visa services",
+      "subtitle": "For foreign nationals"
+    },
+    "passport": {
+      "title": "Passport services",
+      "subtitle": "For Indonesian nationals"
+    },
+    "consular": {
+      "title": "Consular services",
+      "subtitle": "Other Embassy services"
+    }
+  },
+  "openingHoursAndHolidays": {
+    "title": "Opening hours and holidays",
+    "general": {
+      "title": "General office hours",
+      "content": "<p><strong>Monday - Friday</strong><br>10:00 - 17:00</p>"
+    },
+    "consular": {
+      "title": "Consular services",
+      "content": "<p><strong>Monday, Wednesday and Friday</strong><br>Service hours: 10:00 - 12:00 (by appointment only)<br>Document collection: 14:00 - 15:00</p>"
+    },
+    "passport": {
+      "title": "Passport services",
+      "content": "<p><strong>Monday - Friday</strong><br>Service hours: 09:00 - 12:00 (by appointment only)<br>Document collection: 14:00 - 15:00</p>"
+    },
+    "visa": {
+      "title": "Visa services",
+      "content": "<p><strong>Tuesday and Thursday</strong><br>Service hours: 10:00 - 12:00 (by appointment only)<br>Document collection: 14:00 - 15:00</p>"
+    }
+  },
+  "moreLinks": {
+    "title": "More links",
+    "ourWebsites": {
+      "title": "Our websites",
+      "mofa": {
+        "title": "Ministry of Foreign Affairs",
+        "href": "https://kemlu.go.id/thehague/en"
+      },
+      "visa": {
+        "title":  "Visa services website"
+      },
+      "passport": {
+        "title": "Passport services website"
+      }
+    },
+    "socialMedia": {
+      "title": "Follow us on social media"
+    }
+  }
+}

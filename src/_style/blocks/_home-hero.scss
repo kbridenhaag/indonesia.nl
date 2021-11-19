@@ -1,0 +1,68 @@
+.app-home-hero {
+  position: relative;
+  margin-bottom: govuk-spacing(7);
+}
+
+.app-home-hero__buttons {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+
+.app-home-hero__button-link {
+  display: flex;
+}
+
+.app-home-hero__button-item {
+  background-color: $app-brand-colour;
+  margin-bottom: govuk-spacing(4);
+  border-radius: 10px;
+}
+
+.app-home-hero__button-item--turquoise {
+  background-color: #309DA6;
+}
+
+.app-home-hero__button-item--green {
+  background-color: #2D9C85;
+}
+
+.app-home-hero__button-link {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  text-decoration: none;
+  border-radius: 10px;
+  padding: govuk-spacing(3) govuk-spacing(3);
+  color: govuk-colour("white");
+
+  @include govuk-media-query($from: desktop) {
+    padding: govuk-spacing(4) govuk-spacing(6);
+  }
+}
+
+.app-home-hero__button-link:focus {
+  @include govuk-focused-text;
+}
+
+.app-home-hero__button-text {
+  @include govuk-typography-common;
+}
+
+.app-home-hero__button-title {
+  margin-top: 0;
+  margin-bottom: 0;
+  @include govuk-font(24, bold);
+}
+
+.app-home-hero__emergency-hotline {
+  border-top: 4px solid govuk-colour("red");
+  padding-top: govuk-spacing(3);
+}
+
+.app-home-hero__indonesia-vector-map {
+  position: absolute;
+  right: 0;
+  z-index: -1;
+  top: govuk-spacing(4);
+}

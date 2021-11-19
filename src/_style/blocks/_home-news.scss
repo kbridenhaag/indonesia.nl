@@ -1,0 +1,34 @@
+.app-home-news {
+  margin-bottom: govuk-spacing(2);
+}
+
+.app-home-news__list {
+  @extend %govuk-list;
+}
+
+.app-home-news__list > li {
+  padding-bottom: govuk-spacing(2);
+}
+
+.app-home-news__list > li:first-child {
+  @include govuk-media-query($until: desktop) {
+    padding-top: govuk-spacing(2);
+    border-top: 1px solid $govuk-border-colour;
+  }
+}
+
+.app-home-news__list > li:not(:last-child) {
+  border-bottom: 1px solid $govuk-border-colour;
+}
+
+.app-home-news__list > * > a {
+  @extend %govuk-link;
+}
+
+.app-home-news__read-more {
+  @include govuk-typography-weight-bold;
+}
+
+.app-home-news__img-container {
+  margin-bottom: govuk-spacing(2);
+}
