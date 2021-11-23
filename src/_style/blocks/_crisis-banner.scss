@@ -1,0 +1,31 @@
+.app-crisis-banner {
+  padding: govuk-spacing(4) 0;
+  margin-top: calc(govuk-spacing(4) * -1);
+  margin-bottom: govuk-spacing(8);
+  background-color: #fd0;
+  background-image: url("data:image/svg+xml;charset=utf-8,%3Csvg xmlns='http://www.w3.org/2000/svg' width='250' height='250' viewBox='0 0 20 20'%3E%3Cg fill='%23fff'%3E%3Cpath d='M20 10L10 0H0l20 20zM0 10v10h10z'/%3E%3C/g%3E%3C/svg%3E");
+
+  @include govuk-media-query($from: desktop) {
+    padding: govuk-spacing(8) 0;
+    margin-top: calc(calc(govuk-spacing(9) + govuk-spacing(7)) * -1);
+    padding-top: calc(govuk-spacing(9) + govuk-spacing(6));
+  }
+}
+
+.app-crisis-banner__content {
+  padding: govuk-spacing(4) govuk-spacing(4);
+  background-color: govuk-colour("white");
+}
+
+.app-crisis-banner__title {
+  @extend %govuk-heading-m;
+}
+
+.app-crisis-banner a {
+  @include govuk-typography-weight-bold;
+}
+
+.app-crisis-banner__updated {
+  @extend %govuk-body-m;
+  color: govuk-colour("dark-grey");
+}

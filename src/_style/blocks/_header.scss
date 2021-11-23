@@ -11,7 +11,6 @@
   justify-content: space-between;
   overflow-x: hidden;
   flex-wrap: wrap;
-  border-bottom: 1px solid $govuk-border-colour;
 
   @include govuk-media-query($from: desktop) {
     padding: govuk-spacing(4) govuk-spacing(3);
