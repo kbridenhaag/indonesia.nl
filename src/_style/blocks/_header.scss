@@ -192,6 +192,10 @@
   fill: govuk-colour("black");
 }
 
+.app-header__emergency-hotline:active svg {
+  fill: govuk-colour("white");
+}
+
 .app-header__emergency-hotline-container {
   display: flex;
   flex-direction: column;
