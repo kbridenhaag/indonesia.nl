@@ -64,9 +64,12 @@
 
 .app-header__nav {
   margin-top: govuk-spacing(2);
-  margin-left: auto;
+  display: flex;
+  justify-content: space-between;
+  width: 100%;
 
   @include govuk-media-query($from: desktop) {
+    width: initial;
     margin-left: 0;
     margin-right: calc( -1 * govuk-spacing(4));
     margin-top: calc(-1 * #{govuk-spacing(4)});
@@ -174,4 +177,28 @@
 
 .app-header__footer {
   padding-top: govuk-spacing(6);
+}
+
+.app-header__emergency-hotline {
+  margin: 0;
+}
+
+.app-header__emergency-hotline svg {
+  fill: govuk-colour("white");
+  margin-right: 0.5ex;
+}
+
+.app-header__emergency-hotline:focus svg {
+  fill: govuk-colour("black");
+}
+
+.app-header__emergency-hotline-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  margin-right: govuk-spacing(2);
+
+  @include govuk-media-query($until: desktop) {
+    flex: 1 0;
+  }
 }
