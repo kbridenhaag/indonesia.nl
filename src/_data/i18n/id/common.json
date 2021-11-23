@@ -3,5 +3,9 @@
   "embassyLocation": "Den Haag, Belanda",
   "readMore": "Baca lebih lanjut",
   "skipLink": "Lanjut ke konten utama",
-  "description": "Website layanan Kedutaan Besar Republik Indonesia di Den Haag, Belanda. "
+  "description": "Website layanan Kedutaan Besar Republik Indonesia di Den Haag, Belanda. ",
+  "emergencyHotline": {
+    "title": "Kontak darurat",
+    "href": "/id/kontak-darurat"
+  }
 }

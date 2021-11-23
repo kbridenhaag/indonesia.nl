@@ -3,5 +3,9 @@
   "embassyLocation": "The Hague, the Netherlands",
   "readMore": "Read more",
   "skipLink": "Skip to main content",
-  "description": "The official landing page of the Embassy of the Republic of Indonesia in The Hague, the Netherlands."
+  "description": "The official landing page of the Embassy of the Republic of Indonesia in The Hague, the Netherlands.",
+  "emergencyHotline": {
+    "title": "Emergency hotline",
+    "href": "/en/emergency-hotline"
+  }
 }
