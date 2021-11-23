@@ -9,6 +9,7 @@ $app-home-hero-button-shade: 25%;
   margin: 0;
   padding: 0;
   list-style: none;
+  margin-bottom: govuk-spacing(4);
 }
 
 .app-home-hero__button-link {
@@ -17,8 +18,12 @@ $app-home-hero-button-shade: 25%;
 
 .app-home-hero__button-item {
   background-color: $app-brand-colour;
-  margin-bottom: govuk-spacing(4);
+  margin-bottom: govuk-spacing(2);
   border-radius: 10px;
+
+  @include govuk-media-query($from: desktop) {
+    margin-bottom: govuk-spacing(4);
+  }
 }
 
 .app-home-hero__button-item:hover {
@@ -39,6 +44,14 @@ $app-home-hero-button-shade: 25%;
 
 .app-home-hero__button-item--green:hover {
   background-color: govuk-shade(#1d715f, $app-home-hero-button-shade);
+}
+
+.app-home-hero__button-item--violet {
+  background-color: #2D3D9C;
+}
+
+.app-home-hero__button-item--violet:hover {
+  background-color: govuk-shade(#2D3D9C, $app-home-hero-button-shade);
 }
 
 .app-home-hero__button-link {
@@ -79,4 +92,11 @@ $app-home-hero-button-shade: 25%;
   right: 0;
   z-index: -1;
   top: govuk-spacing(4);
+  display: none;
+  visibility: hidden;
+
+  @include govuk-media-query($from: desktop) {
+    display: block;
+    visibility: visible;
+  }
 }

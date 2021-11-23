@@ -17,6 +17,10 @@
     "consular": {
       "title": "Consular services",
       "subtitle": "Other Embassy services"
+    },
+    "business": {
+      "title": "Business services",
+      "subtitle": "For businesses"
     }
   },
   "openingHoursAndHolidays": {

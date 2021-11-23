@@ -17,6 +17,10 @@
     "consular": {
       "title": "Layanan Konsuler",
       "subtitle": "Layanan lainnya"
+    },
+    "business": {
+      "title": "Layanan Bisnis",
+      "subtitle": "Untuk bisnis"
     }
   },
   "openingHoursAndHolidays": {
