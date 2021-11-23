@@ -183,16 +183,8 @@
 }
 
 .app-header__emergency-hotline svg {
-  fill: govuk-colour("white");
+  fill: currentColor;
   margin-right: 0.5ex;
-}
-
-.app-header__emergency-hotline:focus svg {
-  fill: govuk-colour("black");
-}
-
-.app-header__emergency-hotline:active svg {
-  fill: govuk-colour("white");
 }
 
 .app-header__emergency-hotline-container {
