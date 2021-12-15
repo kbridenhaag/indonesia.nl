@@ -3,7 +3,6 @@
 
 {% block main %}
   <main class="app-main-wrapper app-main-wrapper--home" id="main-content">
-    {% include "crisis-banner.njk" %}
     {% include "home-hero.njk" %}
 
     <div class="kbrinl-width-container">
@@ -14,55 +13,12 @@
         </div>
         <div class="kbrinl-grid-column-one-third">
           <h3 class="kbrinl-promo">
-            <a class="kbrinl-link kbrinl-promo__link" href="https://kemlu.go.id/thehague/en/pages/hari_libur/215/etc-menu">
+            <a class="kbrinl-link kbrinl-promo__link" href="{{ 'home.openingHoursAndHolidays.sideContent.href' | i18n }}">
               <span class="kbrinl-promo__content">{{ 'home.openingHoursAndHolidays.sideContent.title' | i18n }}</span>
             </a>
           </h3>
           <div class="app-cms-content">
             {{ 'home.openingHoursAndHolidays.sideContent.content' | i18n | safe }}
-          </div>
-        </div>
-      </div>
-
-      <hr class="app-divider">
-
-      <h2 class="kbrinl-heading-l">Embassy updates</h2>
-
-      <div class="app-home-news">
-        <div class="kbrinl-grid-row">
-          <div class="kbrinl-grid-column-one-third">
-            <a href="/dsfsf" aria-hidden="true" tabindex="-1" class="app-img__3-2-container app-home-news__img-container">
-              <img src="https://en.indonesia.nl/media/k2/items/cache/75b44f26b45cdcf3e7750518b026a835_M.jpg"/>
-            </a>
-            <h3 class="kbrinl-heading-s">
-              <a href="/dsfsf" class="kbrinl-link">
-                Catching the rainbow over Meratus Mountains
-              </a>
-            </h3>
-          </div>
-          <div class="kbrinl-grid-column-one-third">
-            <a href="/dsfsf" aria-hidden="true" tabindex="-1" class="app-img__3-2-container app-home-news__img-container">
-              <img src="https://en.indonesia.nl/media/k2/items/cache/3d105248b10b0d962a881701f9482c8d_M.jpg"/>
-            </a>
-            <h3 class="kbrinl-heading-s">
-              <a href="/dsfsf" class="kbrinl-link">
-                Tracing tempe's appeal in Indonesian culinary history
-              </a>
-            </h3>
-          </div>
-          <div class="kbrinl-grid-column-one-third">
-              <ul class="app-home-news__list">
-                <li>
-                  <a href="/">5 Spectacular Sights in Raja Ampat That You Will Remember for Life </a>
-                </li>
-                <li><a href="/">
-                  A sneak peek into rengkam paradise Amat Belanda Island
-                </a></li>
-                <li><a href="/">
-                  Um Island, A Unique Environment for Relaxing Getaway
-                </a></li>
-              </ul>
-              <a href="/eho" class="kbrinl-link app-home-news__read-more">{{ 'common.readMore' | i18n }}</a>
           </div>
         </div>
       </div>

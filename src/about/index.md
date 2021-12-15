@@ -5,5 +5,3 @@ eleventyNavigation:
   key: About
   parent: Home
 ---
-
-oi

@@ -16,7 +16,8 @@
     },
     "consular": {
       "title": "Consular services",
-      "subtitle": "Other Embassy services"
+      "subtitle": "Other Embassy services",
+      "href": "https://kemlu.go.id/thehague/en/pages/layanan_konsuler_kbri_den_haag/4938/etc-menu"
     },
     "business": {
       "title": "Business services",
@@ -42,8 +43,9 @@
       "content": "<p><strong>Tuesday and Thursday</strong><br>Service hours: 10:00 - 12:00 (by appointment only)<br>Document collection: 14:00 - 15:00</p>"
     },
     "sideContent": {
-      "title": "Important information",
-      "content": "<p>The Embassy is closed on Dutch and Indonesian public holidays. <a href='/'>Check to see when the Embassy is closed</a>.</p>"
+      "title": "Public holidays",
+      "href": "https://kemlu.go.id/thehague/en/pages/hari_libur/215/etc-menu",
+      "content": "<p>The Embassy is closed on Dutch and Indonesian public holidays. <a href='https://kemlu.go.id/thehague/en/pages/hari_libur/215/etc-menu'>Check to see when the Embassy is closed</a>.</p>"
     }
   },
   "moreLinks": {

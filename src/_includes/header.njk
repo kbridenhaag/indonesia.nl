@@ -26,23 +26,23 @@
           <ul class="app-header__menu-list">
             <div class="kbrinl-grid-column-one-third">
               <li class="app-header__menu-item">
-                <a class="app-header__menu-link" href="">{{ 'menu.policy.title' | i18n }}</a>
+                <a class="app-header__menu-link" href="{{ 'menu.policy.href' | i18n }}">{{ 'menu.policy.title' | i18n }}</a>
               </li>
               <li class="app-header__menu-item">
-                <a class="app-header__menu-link" href="">{{ 'menu.about.title' | i18n }}</a>
+                <a class="app-header__menu-link" href="{{ 'menu.about.href' | i18n }}">{{ 'menu.about.title' | i18n }}</a>
               </li>
               {% if (locale == 'id') %}
                 <li class="app-header__menu-item">
-                  <a class="app-header__menu-link" href="">Pelindungan WNI</a>
+                  <a class="app-header__menu-link" href="https://kemlu.go.id/thehague/id">Pelindungan WNI</a>
                 </li>
               {% endif %}
             </div>
             <div class="kbrinl-grid-column-one-third">
               <li class="app-header__menu-item">
-                <a class="app-header__menu-link" href="">{{ 'menu.services.title' | i18n }}</a>
+                <a class="app-header__menu-link" href="{{ 'menu.services.href' | i18n }}">{{ 'menu.services.title' | i18n }}</a>
               </li>
               <li class="app-header__menu-item">
-                <a class="app-header__menu-link" href="/eh">{{ 'menu.publications.title' | i18n }}</a>
+                <a class="app-header__menu-link" href="{{ 'menu.publications.href' | i18n }}">{{ 'menu.publications.title' | i18n }}</a>
               </li>
             </div>
           </ul>
