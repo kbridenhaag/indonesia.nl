@@ -1,0 +1,30 @@
+{
+  "readMore": {
+    "text": "Read more",
+    "href": "https://kemlu.go.id/thehague/en/index-berita"
+  },
+  "items": [
+    {
+      "title": "Indonesian Spice Workshop with Dutch Influencers",
+      "href": "https://kemlu.go.id/thehague/en/news/17455/indonesian-spice-workshop-with-dutch-influencers",
+      "img": "1.jpg"
+    },
+    {
+      "title": "The Success Story of the 25 Years' Sister City Cooperation between Ambon and Vlissingen",
+      "href": "https://kemlu.go.id/thehague/en/news/17452/the-success-story-of-the-25-years-sister-city-cooperation-between-ambon-and-vlissingen",
+      "img": "2.jpg"
+    },
+    {
+      "title": "Sharing Information on Job Opportunities and Internships in International Organizations",
+      "href": "https://kemlu.go.id/thehague/en/news/17021/sharing-information-on-job-opportunities-and-internships-in-international-organizations"
+    },
+    {
+      "title": "The Indonesian Embassy in The Hague Supports the Promotion and Empowerment of Women in Science",
+      "href": "https://kemlu.go.id/thehague/en/news/16576/the-indonesian-embassy-in-the-hague-supports-the-promotion-and-empowerment-of-women-in-science"
+    },
+    {
+      "title": "Indonesia Promotes 36 Specialty Coffee Varieties in the Netherlands",
+      "href": "https://kemlu.go.id/thehague/en/news/15782/indonesia-promotes-36-specialty-coffee-varieties-in-the-netherlands"
+    }
+  ]
+}

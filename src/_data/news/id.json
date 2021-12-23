@@ -1,0 +1,35 @@
+{
+  "readMore": {
+    "text": "Baca lebih lanjut",
+    "href": "https://kemlu.go.id/thehague/id/index-berita"
+  },
+  "items": [
+    {
+      "title": "Kopi Indonesia Terima Pengakuan Internasional",
+      "href": "https://kemlu.go.id/thehague/id/news/18004/kopi-indonesia-terima-pengakuan-internasional",
+      "img": "1.png"
+    },
+    {
+      "title": "Pengurangan Emisi Melalui Pajak Karbon akan Diperkenalkan di Indonesia, Bagaimana Dengan Belanda?",
+      "href": "https://kemlu.go.id/thehague/id/news/17971/pengurangan-emisi-melalui-pajak-karbon-akan-diperkenalkan-di-indonesia-bagaimana-dengan-belanda",
+      "img": "2.jpeg"
+    },
+    {
+      "title": "POROS JAKARTA-DEN HAAG UNTUK SOLUSI BANJIR KAWASAN METROPOLITAN JAKARTA",
+      "href": "https://kemlu.go.id/thehague/id/news/17738/poros-jakarta-den-haag-untuk-solusi-banjir-kawasan-metropolitan-jakarta",
+      "img": "3.jpeg"
+    },
+    {
+      "title": "Workshop Rempah Indonesia Manjakan Lidah Influencer Belanda",
+      "href": "https://kemlu.go.id/thehague/id/news/17455/workshop-rempah-indonesia-manjakan-lidah-influencer-belanda"
+    },
+    {
+      "title": "Dubes RI Den Haag dan Walikota Vlisinggen Bahas 25 Tahun Sister City Ambon - Vlissingen",
+      "href": "https://kemlu.go.id/thehague/id/news/17452/dubes-ri-den-haag-dan-walikota-vlisinggen-bahas-25-tahun-sister-city-ambon-vlissingen"
+    },
+    {
+      "title": "KBRI Den Haag Adakan Pertemuan Dengan Para Indonesianis Asing di Belanda",
+      "href": "https://kemlu.go.id/thehague/id/news/17304/kbri-den-haag-adakan-pertemuan-dengan-para-indonesianis-asing-di-belanda"
+    }
+  ]
+}

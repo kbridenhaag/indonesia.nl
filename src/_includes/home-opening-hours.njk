@@ -1,10 +1,6 @@
 {% from 'macros/accordion.njk' import appAccordion %}
 
-{{ appAccordion({
-  id: "opening-hours-accordion",
-  headingLevel: 3,
-  classes: 'app-cms-content',
-  items: [
+{% set accordionItems = [
     {
       heading: {
         text: 'home.openingHoursAndHolidays.general.title' | i18n
@@ -39,4 +35,24 @@
       }
     }
   ]
+%}
+
+{% if (locale == 'id') %}
+  {% set accordionItems = (accordionItems.push(
+      {
+      heading: {
+        text: 'Pembuatan NIT'
+      },
+      content: {
+        html: '<p><strong>Kamis</strong><br>10:00 - 12:00 (dengan janji)</p>'
+      }
+    }
+), accordionItems) %}
+{% endif %}
+
+{{ appAccordion({
+  id: "opening-hours-accordion",
+  headingLevel: 3,
+  classes: 'app-cms-content',
+  items: accordionItems
 }) }}

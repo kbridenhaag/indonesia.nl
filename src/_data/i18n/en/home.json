@@ -32,7 +32,7 @@
     },
     "consular": {
       "title": "Consular services",
-      "content": "<p><strong>Monday, Wednesday and Friday</strong><br>Service hours: 10:00 - 12:00 (by appointment only)<br>Document collection: 14:00 - 15:00</p>"
+      "content": "<p><strong>Monday, Tuesday and Wednesday</strong><br>Service hours: 10:00 - 12:00 (by appointment only)<br>Document collection: 14:00 - 15:00</p>"
     },
     "passport": {
       "title": "Passport services",
@@ -43,8 +43,8 @@
       "content": "<p><strong>Tuesday and Thursday</strong><br>Service hours: 10:00 - 12:00 (by appointment only)<br>Document collection: 14:00 - 15:00</p>"
     },
     "sideContent": {
-      "title": "Public holidays",
-      "href": "https://kemlu.go.id/thehague/en/pages/hari_libur/215/etc-menu",
+      "title": "Important information",
+      "href": "https://kemlu.go.id/thehague/id/lists/informasi_penting/15/category-important-information",
       "content": "<p>The Embassy is closed on Dutch and Indonesian public holidays. <a href='https://kemlu.go.id/thehague/en/pages/hari_libur/215/etc-menu'>Check to see when the Embassy is closed</a>.</p>"
     }
   },
@@ -54,6 +54,10 @@
       "title": "Our websites",
       "mofa": {
         "title": "Ministry of Foreign Affairs",
+        "href": "https://kemlu.go.id"
+      },
+      "embassyPortal": {
+        "title": "Embassy portal",
         "href": "https://kemlu.go.id/thehague/en"
       },
       "visa": {
