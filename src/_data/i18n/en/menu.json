@@ -1,19 +1,22 @@
-{
-  "lead": "Access Embassy services and information",
-  "policy": {
+[
+  {
     "title": "Policy",
+    "icon": "/assets/icons/checkmark.svg",
     "href": "https://kemlu.go.id/thehague/en"
   },
-  "about": {
+  {
     "title": "About",
+    "icon": "/assets/icons/gov-building.svg",
     "href": "https://kemlu.go.id/thehague/en"
   },
-  "services": {
+  {
     "title": "Services",
+    "icon": "/assets/icons/services.svg",
     "href": "https://kemlu.go.id/thehague/en"
   },
-  "publications": {
+  {
     "title": "Publications",
+    "icon": "/assets/icons/documents.svg",
     "href": "https://kemlu.go.id/thehague/en"
   }
-}
+]

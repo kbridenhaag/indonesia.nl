@@ -1,19 +1,189 @@
-{
-  "lead": "Akses layanan dan informasi KBRI",
-  "policy": {
+[
+  {
     "title": "Kebijakan",
-    "href": "https://kemlu.go.id/thehague/id"
+    "icon": "/assets/icons/checkmark.svg",
+    "href": "https://kemlu.go.id/thehague/id",
+    "items": [
+      {
+        "title": "COVID-19",
+        "href": "https://kemlu.go.id/thehague/id/lists/covid-19/792/etc-category-menu"
+      },
+      {
+        "title": "Hubungan bilateral",
+        "href": "https://kemlu.go.id/thehague/id/lists/covid-19/792/etc-category-menu",
+        "items": [
+          {
+            "title": "Belanda",
+            "href": "https://kemlu.go.id/thehague/id/pages/belanda/204/etc-menu"
+          },
+          {
+            "title": "Profil negara dan kerjasama",
+            "href": "https://kemlu.go.id/thehague/id/pages/profil_negara_dan_kerjasama/203/etc-menu"
+          }
+        ]
+      }
+    ]
   },
-  "about": {
+  {
+    "title": "Pelindungan WNI",
+    "icon": "/assets/icons/user.svg",
+    "href": "https://kemlu.go.id/portal/id/page/27/perlindungan_wni"
+  },
+  {
     "title": "Tentang perwakilan",
-    "href": "https://kemlu.go.id/thehague/id"
+    "icon": "/assets/icons/gov-building.svg",
+    "href": "https://kemlu.go.id/thehague/id",
+    "items": [
+      {
+        "title": "Kontak kami",
+        "href": "https://kemlu.go.id/thehague/id/pages/kontak_kami/3026/etc-menu"
+      },
+      {
+        "title": "Hari libur",
+        "href": "https://kemlu.go.id/thehague/id/pages/hari_libur/215/etc-menu"
+      },
+      {
+        "title": "Peta lokasi",
+        "href": "https://kemlu.go.id/thehague/id/pages/peta_lokasi/212/etc-menu"
+      },
+      {
+        "title": "Jam buka",
+        "href": "https://kemlu.go.id/thehague/id/pages/jam_buka/214/etc-menu"
+      },
+      {
+        "title": "Daftar dan pejabat staf",
+        "href": "https://kemlu.go.id/thehague/id/lists/daftar_pejabat_dan_staf/category-official-and-staff"
+      },
+      {
+        "title": "Duta Besar",
+        "href": "https://kemlu.go.id/thehague/id/pages/duta_besar/211/etc-menu"
+      },
+      {
+        "title": "Sekolah Indonesia Den Haag (SIDH)",
+        "href": "https://kemlu.go.id/thehague/id/pages/sekolah_indonesia_den_haag__sidh_/4451/etc-menu"
+      }
+    ]
   },
-  "services": {
+  {
     "title": "Pelayanan perwakilan",
-    "href": "https://kemlu.go.id/thehague/id"
+    "icon": "/assets/icons/services.svg",
+    "href": "https://kemlu.go.id/thehague/id",
+    "items": [
+      {
+        "title": "Imigrasi",
+        "href": "https://kemlu.go.id/thehague/id",
+        "items": [
+          {
+            "title": "Layanan Paspor",
+            "href": "https://kemlu.go.id/thehague/id/pages/layanan_paspor/3268/etc-menu"
+          },
+          {
+            "title": "Visa",
+            "href": "https://kemlu.go.id/thehague/id/pages/visa/205/etc-menu"
+          }
+        ]
+      },
+      {
+        "title": "Konsuler",
+        "href": "https://kemlu.go.id/thehague/id/pages/pelayanan_kekonsuleran/3081/etc-menu",
+        "items": [
+          {
+            "title": "Janji temu layanan konsuler",
+            "href": "https://kemlu.go.id/thehague/id/pages/janji_temu_layanan_konsuler/4211/etc-menu"
+          },
+          {
+            "title": "Pelayanan kekonsuleran",
+            "href": "https://kemlu.go.id/thehague/id/pages/pelayanan_kekonsuleran/3081/etc-menu"
+          },
+          {
+            "title": "Lapor diri & perpanjangan paspor",
+            "href": "https://kemlu.go.id/thehague/id/pages/lapor_diri___perpanjangan_paspor/3268/etc-menu"
+          },
+          {
+            "title": "Legalisasi dokumen & surat",
+            "href": "https://kemlu.go.id/thehague/id/pages/legalisasi_dokumen___surat/3269/etc-menu"
+          },
+          {
+            "title": "Konsultasi dan pendampingan WNI/BHI",
+            "href": "https://kemlu.go.id/thehague/id/pages/konsultasi_dan_pendampingan_wni_bhi/3270/etc-menu"
+          },
+          {
+            "title": "Surat Keterangan Catatan Kepolisian",
+            "href": "https://kemlu.go.id/thehague/id/pages/surat_catatan_kepolisian_ri/3271/etc-menu"
+          },
+          {
+            "title": "Perkawinan & perceraian",
+            "href": "https://kemlu.go.id/thehague/id/pages/perkawinan___perceraian/3272/etc-menu"
+          },
+          {
+            "title": "Pengiriman barang sumbangan atau hibah",
+            "href": "https://kemlu.go.id/thehague/id/pages/perkawinan___perceraian/3272/etc-menu"
+          },
+          {
+            "title": "Membawa binatang peliharaan",
+            "href": "https://kemlu.go.id/thehague/id/pages/membawa_binatang_peliharaan/3275/etc-menu"
+          },
+          {
+            "title": "Membawa obat-obatan pribadi",
+            "href": "https://kemlu.go.id/thehague/id/pages/membawa_obat-obatan_pribadi/4468/etc-menu"
+          },
+          {
+            "title": "Pembuatan nomor induk tunggal (NIT)",
+            "href": "https://kemlu.go.id/thehague/id/pages/pembuatan_nomor_induk_tunggal__nit__/4929/etc-menu"
+          }
+        ]
+      }
+    ]
   },
-  "publications": {
+  {
     "title": "Publikasi",
-    "href": "https://kemlu.go.id/thehague/id"
+    "icon": "/assets/icons/documents.svg",
+    "href": "https://kemlu.go.id/thehague/id",
+    "items": [
+      {
+        "title": "Beasiswa",
+        "href": "https://kemlu.go.id/thehague/id/lists/beasiswa/832/etc-category-menu"
+      },
+      {
+        "title": "Unduh",
+        "href": "https://kemlu.go.id/thehague/id/pages/unduh/4440/etc-menu"
+      },
+      {
+        "title": "Informasi publik akuntabilitas kinerja KBRI Den Haag",
+        "href": "https://kemlu.go.id/thehague/id/pages/informasi_publik_akuntabilitas_kinerja_kbri_den_haag/4134/etc-menu"
+      },
+      {
+        "title": "Buku",
+        "href": "https://kemlu.go.id/thehague/id/pages/buku/210/etc-menu"
+      },
+      {
+        "title": "Majalah",
+        "href": "https://kemlu.go.id/thehague/id/pages/majalah_/209/etc-menu"
+      },
+      {
+        "title": "Tabloid",
+        "href": "https://kemlu.go.id/thehague/id/pages/tabloid/208/etc-menu"
+      },
+      {
+        "title": "Lembar informasi",
+        "href": "https://kemlu.go.id/thehague/id/lists/lembar_informasi/8/category-information-sheet"
+      },
+      {
+        "title": "Audio/video",
+        "href": "https://kemlu.go.id/thehague/id/lists/lembar_informasi/8/category-information-sheet"
+      },
+      {
+        "title": "Foto",
+        "href": "https://kemlu.go.id/thehague/id/galeri/photo/"
+      },
+      {
+        "title": "Agenda kegiatan",
+        "href": "https://kemlu.go.id/thehague/id/agenda/"
+      },
+      {
+        "title": "Informasi penting",
+        "href": "https://kemlu.go.id/thehague/id/lists/informasi_penting/15/category-important-information"
+      }
+    ]
   }
-}
+]

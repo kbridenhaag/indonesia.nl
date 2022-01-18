@@ -31,7 +31,7 @@ module.exports = (eleventyConfig) => {
   eleventyConfig.addPlugin(i18n, {
     translations: getLanguageDictionaries(),
     fallbackLocales: {
-      '*': 'en'
+      '*': 'id'
     }
   });
 
