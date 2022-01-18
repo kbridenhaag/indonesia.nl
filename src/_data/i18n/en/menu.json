@@ -2,21 +2,162 @@
   {
     "title": "Policy",
     "icon": "/assets/icons/checkmark.svg",
-    "href": "https://kemlu.go.id/thehague/en"
+    "href": "https://kemlu.go.id/thehague/en",
+    "items": [
+      {
+        "title": "COVID-19",
+        "href": "https://kemlu.go.id/thehague/en/lists/covid-19/792/etc-category-menu"
+      },
+      {
+        "title": "Bilateral relations",
+        "href": "https://kemlu.go.id/thehague/en",
+        "items": [
+          {
+            "title": "Netherlands",
+            "href": "https://kemlu.go.id/thehague/en/pages/belanda/204/etc-menu"
+          },
+          {
+            "title": "Country profile and cooperation",
+            "href": "https://kemlu.go.id/thehague/en/pages/profil_negara_dan_kerjasama/203/etc-menu"
+          }
+        ]
+      }
+    ]
   },
   {
-    "title": "About",
+    "title": "About us",
     "icon": "/assets/icons/gov-building.svg",
-    "href": "https://kemlu.go.id/thehague/en"
+    "href": "https://kemlu.go.id/thehague/en",
+    "items": [
+      {
+        "title": "Contact us",
+        "href": "https://kemlu.go.id/thehague/en/pages/kontak_kami/3026/etc-menu"
+      },
+      {
+        "title": "Holidays",
+        "href": "https://kemlu.go.id/thehague/en/pages/hari_libur/215/etc-menu"
+      },
+      {
+        "title": "Location map",
+        "href": "https://kemlu.go.id/thehague/en/pages/peta_lokasi/212/etc-menu"
+      },
+      {
+        "title": "Opening hours",
+        "href": "https://kemlu.go.id/thehague/en/pages/jam_buka/214/etc-menu"
+      },
+      {
+        "title": "List of officials and staff",
+        "href": "https://kemlu.go.id/thehague/en/lists/daftar_pejabat_dan_staf/category-official-and-staff"
+      },
+      {
+        "title": "The Ambassador",
+        "href": "https://kemlu.go.id/thehague/en/pages/duta_besar/211/etc-menu"
+      },
+      {
+        "title": "The Indonesian School of The Hague",
+        "href": "https://kemlu.go.id/thehague/en/pages/sekolah_indonesia_den_haag__sidh_/4451/etc-menu"
+      }
+    ]
   },
   {
     "title": "Services",
     "icon": "/assets/icons/services.svg",
-    "href": "https://kemlu.go.id/thehague/en"
+    "href": "https://kemlu.go.id/thehague/en",
+    "items": [
+      {
+        "title": "Immigration",
+        "href": "https://kemlu.go.id/thehague/en",
+        "items": [
+          {
+            "title": "Passport services",
+            "href": "https://kemlu.go.id/thehague/en/pages/layanan_paspor/3268/etc-menu"
+          },
+          {
+            "title": "Visa services",
+            "href": "https://kemlu.go.id/thehague/en/pages/visa/205/etc-menu"
+          }
+        ]
+      },
+      {
+        "title": "Consular services",
+        "items": [
+          {
+            "title": "Book an appointment",
+            "href": "https://kemlu.go.id/thehague/en/pages/janji_temu_layanan_konsuler/4211/etc-menu"
+          },
+          {
+            "title": "Consular fees",
+            "href": "https://kemlu.go.id/thehague/en/pages/pelayanan_kekonsuleran/3081/etc-menu"
+          },
+          {
+            "title": "Legalization",
+            "href": "https://kemlu.go.id/thehague/en/pages/legalisasi_dokumen___surat/3269/etc-menu"
+          },
+          {
+            "title": "Mixed marriage & divorce",
+            "href": "https://kemlu.go.id/thehague/en/pages/perkawinan___perceraian/3272/etc-menu"
+          },
+          {
+            "title": "Transporting pets to Indonesia",
+            "href": "https://kemlu.go.id/thehague/en/pages/membawa_binatang_peliharaan/3275/etc-menu"
+          },
+          {
+            "title": "Travelling to Indonesian with prescribed medication",
+            "href": "https://kemlu.go.id/thehague/en/pages/membawa_obat-obatan_pribadi/4468/etc-menu"
+          }
+        ]
+      }
+    ]
   },
   {
     "title": "Publications",
     "icon": "/assets/icons/documents.svg",
-    "href": "https://kemlu.go.id/thehague/en"
+    "href": "https://kemlu.go.id/thehague/en",
+    "items": [
+      {
+        "title": "Scholarship",
+        "href": "https://kemlu.go.id/thehague/en/lists/beasiswa/832/etc-category-menu"
+      },
+      {
+        "title": "Download",
+        "href": "https://kemlu.go.id/thehague/en/pages/unduh/4440/etc-menu"
+      },
+      {
+        "title": "Accountability",
+        "href": "https://kemlu.go.id/thehague/en/pages/informasi_publik_akuntabilitas_kinerja_kbri_den_haag/4134/etc-menu"
+      },
+      {
+        "title": "Book",
+        "href": "https://kemlu.go.id/thehague/en/pages/buku/210/etc-menu"
+      },
+      {
+        "title": "Magazine",
+        "href": "https://kemlu.go.id/thehague/en/pages/majalah_/209/etc-menu"
+      },
+      {
+        "title": "Tabloid",
+        "href": "https://kemlu.go.id/thehague/en/pages/tabloid/208/etc-menu"
+      },
+      {
+        "title": "Information sheet",
+        "href": "https://kemlu.go.id/thehague/en/lists/lembar_informasi/8/category-information-sheet"
+      },
+      {
+        "title": "Audio/video",
+        "href": "https://kemlu.go.id/thehague/en/galeri/video/"
+      },
+      {
+        "title": "Photo",
+        "href": "https://kemlu.go.id/thehague/en/galeri/photo/"
+      },
+      {
+        "title": "Agenda",
+        "href": "https://kemlu.go.id/thehague/en/agenda/"
+      },
+      {
+        "title": "Important information",
+        "href": "https://kemlu.go.id/thehague/en/lists/informasi_penting/15/category-important-information"
+      }
+    ]
   }
 ]
