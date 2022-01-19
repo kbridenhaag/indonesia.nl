@@ -20,3 +20,11 @@
 .kbrinl-promo__link:focus .kbrinl-promo__content {
   color: govuk-colour("black");
 }
+
+.kbrinl-promo--warning .kbrinl-promo__link {
+  background-color: govuk-colour("red");
+}
+
+.kbrinl-promo__link:focus {
+  @include govuk-focused-text;
+}
