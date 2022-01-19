@@ -1,6 +1,5 @@
   <div class="app-home-hero">
     <div class="kbrinl-width-container">
-      {% include 'indonesia-vector-map.njk' %}
       <div class="kbrinl-grid-row">
         <div class="kbrinl-grid-column-two-thirds">
           <div class="kbrinl-grid-row kbrinl-!-margin-bottom-6">
@@ -25,20 +24,12 @@
       <div class="kbrinl-grid-row kbrinl-!-margin-top-6">
         <div class="kbrinl-grid-column-two-thirds">
           {% include "home-hero-buttons.njk" %}
-        </div>
-        <div class="kbrinl-grid-column-one-third">
-          <h3 class="kbrinl-heading-s app-home-hero__emergency-hotline">
-            {{ 'home.emergencyHotline.title' | i18n }}
-          </h3>
-          <p class="kbrinl-body">
-            {{ 'home.emergencyHotline.text' | i18n }}
-            <br><br>
-            <a href="tel:+31628860509" class="kbrinl-link">+31 62 88 60 509</a><br>
-            <a href="tel:+31682636298" class="kbrinl-link">+31 68 26 36 298</a><br>
-            <a href="tel:+31682640665" class="kbrinl-link">+31 68 26 40 665</a>
-          </p>
-        </div>
+        </div> 
       </div>
+    </div>
+
+    <div class="app-home-hero__image-container">
+      <div class="app-home-hero__image-overlay"></div>
     </div>
 
   </div>

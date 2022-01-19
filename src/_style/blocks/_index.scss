@@ -28,9 +28,8 @@
 }
 
 .app-main-wrapper--home {
-  @include govuk-media-query($from: tablet) {
-    margin-top: govuk-spacing(9);
-  }
+  margin-top: 0;
+  padding-top: 0;
 }
 
 .app-divider {
