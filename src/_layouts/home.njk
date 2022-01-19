@@ -1,11 +1,29 @@
 {% extends './_base.njk' %}
 {% from 'macros/accordion.njk' import appAccordion %}
 
+{% if 'home.alert.enabled' | i18n == "true" %}
+  {% set alertText = 'home.alert.text' | i18n %}
+  {% set alertHref = 'home.alert.href' | i18n %}
+{% endif %}
+
 {% block main %}
   <main class="app-main-wrapper app-main-wrapper--home" id="main-content">
     {% include "home-hero.njk" %}
 
     <div class="kbrinl-width-container">
+    {% if alertText %}
+        <div class="kbrinl-warning-text kbrinl-!-margin-bottom-8">
+          <span class="kbrinl-warning-text__icon" aria-hidden="true">!</span>
+          <strong class="kbrinl-warning-text__text cms-content">
+            <span class="kbrinl-warning-text__assistive">Note</span>
+            {{ alertText }}
+            {% if alertHref %}
+              <a href="{{alerthref}}">{{ 'home.alert.moreInformation' | i18n }}</a>
+            {% endif %}
+          </strong>
+        </div>
+      {% endif %}
+
       <h2 class="kbrinl-heading-l">{{ 'home.openingHoursAndHolidays.title' | i18n }}</h2>
       <div class="kbrinl-grid-row">
         <div class="kbrinl-grid-column-two-thirds">
@@ -27,7 +45,7 @@
 
       {% include "home-news-static.njk" %}
 
-      <hr class="app-divider"> 
+      <hr class="app-divider">
 
       {% include "home-links.njk" %}
 
