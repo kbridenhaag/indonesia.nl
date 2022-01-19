@@ -1,4 +1,4 @@
-{% set locale = locale | default('en') %}
+{% set locale = locale | default('id') %}
 
 <!DOCTYPE html>
 <html lang={{ locale }}>
@@ -17,6 +17,7 @@
   <meta name="msapplication-TileColor" content="#da532c">
   <meta name="msapplication-config" content="/assets/favicons/browserconfig.xml">
   <meta name="theme-color" content="#ffffff">
+  <script src="/assets/scripts/svg-inject.min.js"></script>
 </head>
 <body class="kbrinl-template__body">
   <a href="#main-content" class="kbrinl-skip-link">{{ 'common.skipLink' | i18n }}</a>

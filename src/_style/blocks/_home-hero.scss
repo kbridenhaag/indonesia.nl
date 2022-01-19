@@ -3,13 +3,20 @@ $app-home-hero-button-shade: 25%;
 .app-home-hero {
   position: relative;
   margin-bottom: govuk-spacing(7);
+  border-bottom: 1px solid $govuk-border-colour;
+  padding-top: govuk-spacing(6);
+
+  @include govuk-media-query($from: desktop) {
+    padding-bottom: govuk-spacing(7);
+    padding-top: calc(govuk-spacing(9) + govuk-spacing(4));
+  }
 }
 
 .app-home-hero__buttons {
   margin: 0;
   padding: 0;
   list-style: none;
-  margin-bottom: govuk-spacing(4);
+  margin-bottom: govuk-spacing(6);
 }
 
 .app-home-hero__button-link {
@@ -98,5 +105,35 @@ $app-home-hero-button-shade: 25%;
   @include govuk-media-query($from: desktop) {
     display: block;
     visibility: visible;
+  }
+}
+
+.app-home-hero__image-container {
+  z-index: -1;
+  background-image: url('/assets/images/indonesia-map.jpg');
+  background-size: cover;
+  background-repeat: no-repeat;
+  min-height: 200px;
+  width: 100%;
+  border-top: 1px solid $govuk-border-colour;
+
+  @include govuk-media-query($from: desktop) {
+    border-top: none;
+    position: absolute;
+    height: 100%;
+    right: 0;
+    width: 50%;
+    top: 0;
+  }
+}
+
+.app-home-hero__image-overlay {
+  @include govuk-media-query($from: desktop) {
+    position: absolute;
+    left: 0;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    background: linear-gradient(90deg, rgba(255,255,255,1) 0%, rgba(31,119,209,0) 80%); 
   }
 }

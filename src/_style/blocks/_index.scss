@@ -6,6 +6,7 @@
 @import "home-news";
 @import "menu-card";
 @import "crisis-banner";
+@import "dropdown";
 
 .app-img__3-2-container {
   display: block;
@@ -27,9 +28,8 @@
 }
 
 .app-main-wrapper--home {
-  @include govuk-media-query($from: tablet) {
-    margin-top: govuk-spacing(9);
-  }
+  margin-top: 0;
+  padding-top: 0;
 }
 
 .app-divider {
