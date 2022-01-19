@@ -25,6 +25,10 @@
   @include govuk-link-style-no-underline;
 }
 
+.app-header__link:hover {
+  text-decoration: none;
+}
+
 .app-header__link:focus-visible {
   @include govuk-focused-text;
 }
@@ -108,6 +112,8 @@
 
 .app-header__menu-item--is-open {
   background-color: $app-brand-colour;
+  border-top-left-radius: 10px;
+  border-top-right-radius: 10px;
 }
 
 .app-header__menu-item--is-open .app-header__menu-link {
