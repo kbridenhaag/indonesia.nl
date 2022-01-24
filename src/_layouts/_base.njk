@@ -17,6 +17,10 @@
   <meta name="msapplication-TileColor" content="#da532c">
   <meta name="msapplication-config" content="/assets/favicons/browserconfig.xml">
   <meta name="theme-color" content="#ffffff">
+  <meta property="og:title" content="{{ title }} - {{ site.title }}">
+  <meta property="og:description" content="{{ description | default('common.description' | i18n)}}">
+  <meta property="og:type" content="website">
+  <link rel="canonical" href="{{ site.url + page.url }}">
   <script src="/assets/scripts/svg-inject.min.js"></script>
 </head>
 <body class="kbrinl-template__body">
