@@ -111,6 +111,7 @@ $app-home-hero-button-shade: 25%;
 .app-home-hero__image-container {
   z-index: -1;
   background-image: url('/assets/images/indonesia-map.jpg');
+  background-position-y: 70%;
   background-size: cover;
   background-repeat: no-repeat;
   min-height: 200px;
@@ -119,6 +120,7 @@ $app-home-hero-button-shade: 25%;
 
   @include govuk-media-query($from: desktop) {
     background-position-x: 100px;
+    background-position-y: inherit;
     border-top: none;
     position: absolute;
     height: 100%;
