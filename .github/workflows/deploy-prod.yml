@@ -28,3 +28,4 @@ jobs:
             --exclude='node_modules/'
           REMOTE_HOST: ${{ secrets.REMOTE_HOST_PROD }}
           REMOTE_USER: ${{ secrets.REMOTE_USER }}
+          TARGET: /home/${{ secrets.REMOTE_USER }}/deployments/indonesia.nl
