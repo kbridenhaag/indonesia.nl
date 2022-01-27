@@ -1,0 +1,30 @@
+name: Deploy Indonesia.nl to prod
+on:
+  push:
+    branches:
+      - main
+
+jobs:
+  deploy:
+    name: Deploying Indonesia.nl to prod
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - name: Install Node.js
+        uses: actions/setup-node@v1
+        with:
+          node-version: '14.x'
+      - name: Installing NPM dependencies
+        run: cd deployments/indonesia.nl && npm install
+      - name: Building site
+        run: cd deployments/indonesia.nl && npm run build
+      - name: Deploying
+        uses: easingthemes/ssh-deploy@main
+        env:
+          SSH_PRIVATE_KEY: ${{ secrets.SSH_PRIVATE_KEY }}
+          ARGS: >-  
+            -rltgoDzvO
+            --exclude='.git'
+            --exclude='node_modules/'
+          REMOTE_HOST: ${{ secrets.REMOTE_HOST_PROD }}
+          REMOTE_USER: ${{ secrets.REMOTE_USER }}
