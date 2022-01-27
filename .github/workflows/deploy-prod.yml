@@ -15,9 +15,9 @@ jobs:
         with:
           node-version: '14.x'
       - name: Installing NPM dependencies
-        run: cd deployments/indonesia.nl && npm install
+        run: npm install
       - name: Building site
-        run: cd deployments/indonesia.nl && npm run build
+        run: npm run build
       - name: Deploying
         uses: easingthemes/ssh-deploy@main
         env:
