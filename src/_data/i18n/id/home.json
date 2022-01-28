@@ -2,7 +2,7 @@
   "heroTitle": "Apa yang bisa kami bantu?",
   "heroSubtitle": "Temukan layanan kami di Indonesia.nl",
   "alert": {
-    "enabled": "true",
+    "enabled": "false",
     "text": "Perubahan sementara alamat email KBRI Den Haag ke denhaag.kbri@kemlu.go.id",
     "href": "https://kemlu.go.id/thehague/id/read/temporary-changes-of-the-email-address-of-the-indonesian-embassy-to-denhaagkbrikemlugoid/1712/important-information",
     "moreInformation": "Informasi lebih lanjut"

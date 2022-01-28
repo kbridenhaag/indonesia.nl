@@ -6,7 +6,7 @@
     "text": "For Indonesian citizens with emergencies, please call:"
   },
   "alert": {
-    "enabled": "true",
+    "enabled": "false",
     "text": "Temporary changes of the email address of the Indonesian Embassy to denhaag.kbri@kemlu.go.id.",
     "href": "https://kemlu.go.id/thehague/en/read/temporary-changes-of-the-email-address-of-the-indonesian-embassy-to-denhaagkbrikemlugoid/1712/important-information",
     "moreInformation": "More information"
