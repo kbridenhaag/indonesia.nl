@@ -12,6 +12,11 @@ $app-home-hero-button-shade: 25%;
   }
 }
 
+.app-home-hero__content {
+  z-index: 1;
+  position: inherit;
+}
+
 .app-home-hero__buttons {
   margin: 0;
   padding: 0;
@@ -109,7 +114,6 @@ $app-home-hero-button-shade: 25%;
 }
 
 .app-home-hero__image-container {
-  z-index: -1;
   background-image: url('/assets/images/indonesia-map.jpg');
   background-position-y: 70%;
   background-size: cover;
