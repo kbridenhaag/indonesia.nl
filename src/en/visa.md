@@ -26,7 +26,7 @@ A visit visa will be granted to foreigners with the following purposes:
 
 #### B211A
 
-- tourism (Bali and Riau provinces only) \*;
+- tourism \*;
 - an emergency and essential work;
 - a business meeting;
 - purchase of goods;
@@ -45,7 +45,12 @@ A visit visa will be granted to foreigners with the following purposes:
 submit a visa application through an Indonesian visa agent, to the Directorate
 General of Immigration – Jakarta via:
 [https://visa-online.imigrasi.go.id/](https://visa-online.imigrasi.go.id/) They
-must enter the country through Ngurah Rai International Airport, Denpasar.
+must enter the country through:
+
+- Soekarno Hatta International Airport (Jakarta)
+- Ngurah Rai International Airport (Bali)
+- Hang Nadim International Airport (Batam)
+- Raja Haji Fisabillah International Airport (Tanjung Pinang)       
 
 ### Temporary stay visa (12 months)
 
