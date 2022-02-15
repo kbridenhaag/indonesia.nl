@@ -41,12 +41,6 @@ A visit visa will be granted to foreigners with the following purposes:
 
 - journalism/making a movie
 
-\* Foreigners who wish to travel to Bali and/or Riau Province for tourism must
-submit a visa application through an Indonesian visa agent, to the Directorate
-General of Immigration – Jakarta via:
-[https://visa-online.imigrasi.go.id/](https://visa-online.imigrasi.go.id/) They
-must enter the country through:
-
 - Soekarno Hatta International Airport (Jakarta)
 - Ngurah Rai International Airport (Bali)
 - Hang Nadim International Airport (Batam)
@@ -80,6 +74,14 @@ activity and/or non-work activity:
 #### C317
 
 - family Reunification (Indonesian spouse, dependents of a foreigner who holds KITAS/KITAP, children from mixed marriage.
+
+## Travellers to Bali and/or Riau Province
+
+\* Foreigners who wish to travel to Bali and/or Riau Province for tourism must
+submit a visa application through an Indonesian visa agent, to the Directorate
+General of Immigration – Jakarta via:
+[https://visa-online.imigrasi.go.id/](https://visa-online.imigrasi.go.id/) They
+must enter the country through:
 
 ## Travel protocol
 
