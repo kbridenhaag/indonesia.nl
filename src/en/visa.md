@@ -17,8 +17,8 @@ are allowed to enter the country.
 
 The Indonesian sponsor has to submit a visa application through the website of
 the Directorate General of Immigration - Jakarta, via:
-[https://visa-online.imigrasi.go.id/](https://visa-online.imigrasi.go.id/) Tourist visa applications must be submitted
-by an Indonesian visa/travel agent or hotel.
+[https://visa-online.imigrasi.go.id/](https://visa-online.imigrasi.go.id/). **Tourist visa applications must be submitted
+by an Indonesian visa/travel agent or hotel**.
 
 Due to the covid-19 pandemic the Embassy of the Republic of Indonesia in The
 Hague is not authorized to issue regular visas until the pandemic is declared
@@ -102,19 +102,25 @@ vaccination dose should be received at least 14 days prior to your arrival
 3. Undergo a PCR test on arrival and follow the mandatory quarantine procedures at
 one of the designated hotels near your point of entry, under the following
 conditions: 
-- Quarantine for 5 x 24 hours for foreign travellers who have received
-the second dose of vaccine;
-- Quarantine for 3 x 24 hours for foreign travellers
-who have received the third dose of vaccine; or 
-- For foreign travellers under 18 years of age the duration of quarantine follows provisions that apply to parents
-or caregiver/travel companion.  
+
+#### Quarantine for 7 x 24 hours for foreign travellers who have received one dose of the vaccine. 
+
+If the foreign traveller does not have received the second dose, they will receive a vaccination at the quarantine location after the results of the second PCR test, under the following conditions:
+- Foreigners between 12 – 17 years
+- Holders of diplomatic/service residence permits
+- Holders of Limited and Permanent Residence Permits (KITAS/KITAP)
+
+#### Quarantine for 5 x 24 hours for foreign travellers who have received the second dose of vaccine;
+
+#### Quarantine for 3 x 24 hours for foreign travellers who have received the third dose of vaccine; or
+
+#### For foreign travellers under 18 years of age the duration of quarantine follows provisions that apply to parents or caregiver/travel companion.
+
 4. A second PCR test must be carried out, under the
 following conditions: 
-- On the 4th day of quarantine for foreign travellers who
-quarantine with a duration of 5 x 24 hours; or 
-- On the morning of the 3rd day of
-quarantine for foreign travellers who quarantine with a duration of 3 x 24
-hours.
+- On the 6th day of quarantine for foreign travellers who quarantine with a duration of 7 x 24 hours; or
+- On the 4th day of quarantine for foreign travellers who quarantine with a duration of 5 x 24 hours; or
+- On the morning of the 3rd day of quarantine for foreign travellers who quarantine with a duration of 3 x 24 hours.
 5. It is recommended to register your vaccination you have received abroad
 through the following website of the Indonesian Ministry of Health:
 [https://vaksinln.dto.kemkes.go.id/sign/in](https://vaksinln.dto.kemkes.go.id/sign/in)
