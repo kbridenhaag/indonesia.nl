@@ -20,6 +20,15 @@
         <h1 class="kbrinl-heading-xl">
           {{ title }}
         </h1>
+        {% if updated %}
+          <div class="kbrinl-body-s kbrinl-!-margin-bottom-0 kbrinl-!-margin-top-2">{{ 'common.lastUpdated' | i18n }} 
+            {% if locale == "en" %}
+              {{ updated | formatDateEn }} 
+            {% else %}
+              {{ updated | formatDateId }} 
+            {% endif %}
+          </div>
+        {% endif %}
       </div>
     </div>
 

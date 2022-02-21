@@ -10,10 +10,13 @@ const selectorReplace = require('postcss-replace')
 const merge = require('deepmerge')
 const rollup = require('rollup')
 const { nodeResolve } = require('@rollup/plugin-node-resolve');
+const dateFns = require('date-fns')
+const { idLocale } = require('date-fns/locale/id')
 
 module.exports = (eleventyConfig) => {
   eleventyConfig.setUseGitIgnore(false)
   eleventyConfig.addPassthroughCopy({ './src/_assets': 'assets' });
+  eleventyConfig.addPassthroughCopy({ './src/_public': 'public' });
   eleventyConfig.addWatchTarget('./src/_style');
   eleventyConfig.addWatchTarget('./src/_script');
 
@@ -33,6 +36,16 @@ module.exports = (eleventyConfig) => {
     fallbackLocales: {
       '*': 'id'
     }
+  });
+
+  eleventyConfig.addNunjucksFilter("formatDateEn", (date) => {
+    return dateFns.format(new Date(date), "dd MMMM yyyy")
+  });
+
+  eleventyConfig.addNunjucksFilter("formatDateId", (date) => {
+    return dateFns.format(new Date(date), "dd MMMM yyyy", {
+      locale: idLocale
+    })
   });
 
   return {
