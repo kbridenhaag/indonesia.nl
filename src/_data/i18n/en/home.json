@@ -6,9 +6,9 @@
     "text": "For Indonesian citizens with emergencies, please call:"
   },
   "alert": {
-    "enabled": "false",
-    "text": "Temporary changes of the email address of the Indonesian Embassy to denhaag.kbri@kemlu.go.id.",
-    "href": "https://kemlu.go.id/thehague/en/read/temporary-changes-of-the-email-address-of-the-indonesian-embassy-to-denhaagkbrikemlugoid/1712/important-information",
+    "enabled": "true",
+    "text": "Read the latest health protocols due to COVID-19 before travelling to Indonesia.",
+    "href": "/en/the-latest-health-protocol-on-international-travel-to-indonesia-during-covid-19-pandemic/",
     "moreInformation": "More information"
   },
   "services": {
