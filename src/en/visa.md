@@ -1,60 +1,101 @@
 ---
 title: Travel restrictions due to COVID-19
 layout: "single.njk"
+updated: 2022-03-22
 eleventyNavigation:
   key: Travel restrictions due to COVID-19
   parent: Home
 ---
 
 At the moment there are still travel restrictions for foreign nationals into the
-territory of the Republic of Indonesia. Visa on Arrival and Visa Exemption
-services are still suspended until further notice. 
-
-Those who are in the possession of a valid Indonesian residence permit (KITAS /
-KITAP), or who have received an Electronic Visa (E-Visa) for a Visit Visa (B211)
-or Temporary Stay Visa from the Directorate General of Immigration in Jakarta,
-are allowed to enter the country. 
-
-The Indonesian sponsor has to submit a visa application through the website of
-the Directorate General of Immigration - Jakarta, via:
-[https://visa-online.imigrasi.go.id/](https://visa-online.imigrasi.go.id/). **Tourist visa applications must be submitted
-by an Indonesian visa/travel agent or hotel**.
+territory of the Republic of Indonesia. Those who are in the possession of a
+valid Indonesian residence permit (KITAS / KITAP), or who have received an
+Electronic Visa (E-Visa) for a Visit Visa (B211) or Temporary Stay Visa from the
+Directorate General of Immigration in Jakarta, are allowed to enter the country.
 
 Due to the covid-19 pandemic the Embassy of the Republic of Indonesia in The
 Hague is not authorized to issue regular visas until the pandemic is declared
 over. However, the Indonesian Embassy can issue a humanitarian/emergency visa
 due to sickness/death of a family member in the first degree. For inquiries,
-please send an email to: [imigrasi@indonesia.nl](mailto:imigrasi.indonesia.nl)
+please send an email to: [imigrasi@indonesia.nl](mailto:imigrasi@indonesia.nl)
 
-An E-Visa will only be issued for the following purposes:
+## Visa on Arrival (VOA) for foreign travellers visiting Bali
 
-## Visit Visa (B211 - 60 days) 
+From 7 March 2022, the Indonesian Government has reopened its Visa on Arrival
+services at I Gusti Ngurah Rai International Airport (Bali). Citizens from the
+following  23 countries can buy a Visa On Arrival __at this airport only__:
 
-A visit visa will be granted to foreigner for the following purposes:
+1. Australia
+2. Brunei Darussalam
+3. Cambodia
+4. Canada
+5. France
+6. Germany
+7. Italy
+8. Japan
+9. Laos
+10. Malaysia
+11. Myanmar
+12. Netherlands
+13. New Zealand
+14. Philippines
+15. Qatar
+16. Singapore
+17. South Korea
+18. Thailand
+19. Turkiye (Turkey)
+20. United Arab Emirates
+21. United Kingdom
+22. United States of America
+23. Vietnam
 
-### (B211A)
+The Visa on Arrival costs Rp. 500.000 and is valid for 30 days. The Visa on
+Arrival can get extended once, with 30 days, at a local Immigration Office in
+Indonesia. The Visa on Arrival cannot be converted into another type of stay
+permit. Your national passport has to be valid for at least 6 months from the
+date of entry. While it is only possible to enter the country with a Visa On
+Arrival through I Gusti Ngurah Rai International Airport (Bali), the foreigner
+can exit the Indonesia through other airports.
 
-- tourism; 
+<div class="kbrinl-inset-text">
+  The Visa Exemption (Free Visa for max. 30 days) services are still suspended until further notice.
+</div>
+
+## Electronic Visa (eVisa) from the Directorate General of Immigration – Jakarta
+
+If you are not eligible for a Visa on Arrival, your Indonesian sponsor has to
+submit a visa application through the website of the Directorate General of
+Immigration - Jakarta, via:
+[https://visa-online.imigrasi.go.id/](https://visa-online.imigrasi.go.id/).
+Tourist visa applications must be submitted by an Indonesian visa/travel agent
+or hotel.  An E-Visa will be issued for the following purposes:
+
+### Visit Visa (B211 - 60 days; extendable up to 4 times (30 days/extension)
+
+#### B211A
+
+- tourism;
 - an emergency and essential work;
 - a business meeting;
 - purchase of goods;
 - a medical, food, and humanitarian aid worker; and
 - a crew member who joins the vessel in Indonesia;
 
-### (B211B)    
+#### B211B
 
 - a probationary period for foreign workers;
 
-### (B211C)    
+#### B211C
+
 - journalism / making a movie
 
-## Temporary stay visa (12 months) 
+### Temporary stay visa (12 months)
 
 A temporary stay visa will be granted to foreigners for a work activity and/or
 non-work activity. This visa can be converted into an Indonesian Temporary
-Residence Permit (KITAS). 
+Residence Permit (KITAS).
 
-## Temporary stay visa for the work activity is granted to a foreign worker (C312)
+#### Temporary stay visa for the work activity is granted to a foreign worker (C312)
 
 - as a professional or expert;
 - who joins to work on ships, on vessels, or installations operating in the Indonesian maritime zone, territorial sea, continental shelf, and Indonesian Exclusive Economic Zone;
@@ -65,68 +106,99 @@ Residence Permit (KITAS).
 - with a non-permanent work in constructions;
 - with a probationary period for skilled works.
 
-## Temporary stay visa for the non-work activity is granted to a foreigner for:
+#### Temporary stay visa for the non-work activity is granted to a foreigner for:
 
-### (C313 – C314)
+##### C313 – C314
 
 - foreign investment (1 year);
 - foreign investment (2 years);
 
-### (C316)
+##### C316
 
-- Study;
+- study;
 
-### (C317)
+##### C317
 
-- Family Reunification (Indonesian spouse, dependents of a foreigner who holds KITAS/KITAP, children from mixed marriage 
+- Family Reunification (Indonesian spouse, dependents of a foreigner who holds
+KITAS/KITAP, children from mixed marriage
 
-International travellers can enter the territory of the Republic of Indonesia through the following airports:
+## Point of Entry
 
-- Soekarno Hatta International Airport (Jakarta)
-- Ngurah Rai International Airport (Bali)
-- Juanda International Airport (Surabaya)
-- Hang Nadim International Airport (Batam)
-- Raja Haji Fisabillah International Airport (Tanjung Pinang) 
-- Sam Ratulangi International Airport (Manado)
-- Zainuddin Abdul Madjid International Airport (Lombok)       
+International travellers in the possession of an eVisa can enter the territory of the Republic of Indonesia through:
+
+### Airports
+
+1. Soekarno Hatta, Banten;
+2. Juanda, Jawa Timur;
+3. Ngurah Rai, Bali;
+4. Hang Nadim, Kepulauan Riau;
+5. Raja Haji Fisabilillah, Kepulauan Riau;
+6. Sam Ratulangi, Sulawesi Utara; dan
+7. Zainuddin Abdul Madjid, Nusa Tenggara Barat.
+
+### Sea ports
+
+1. Tanjung Benoa, Bali;
+2. Batam, Kepulauan Riau;
+3. Tanjung Pinang, Kepulauan Riau;
+4. Bintan, Kepulauan Riau; dan
+5. Nunukan, Kalimantan Utara
+
+### Cross-border posts
+
+1. Aruk, Kalimantan Barat;
+2. Entikong, Kalimantan Barat; dan
+3. Motaain, Nusa Tenggara Timur
+
+## Indonesian Health Protocol
 
 All international travellers who are allowed to enter Indonesia must follow
-Indonesian Health Protocol. Upon arrival the traveller must: 
+Indonesian Health Protocol. Upon arrival the traveller must:
 
-1. Show proof of a negative PCR test result, taken in their country of origin prior to their
-departure. The test results are valid for 48 hours;
-2. Show proof of being fully vaccinated e.g., stamp in the yellow vaccination book and print out the
-international QR code from the CoronaCheck website:
-[https://coronacheck.nl/nl/print/](https://coronacheck.nl/nl/print/) Last
-vaccination dose should be received at least 14 days prior to your arrival
-3. Undergo a PCR test on arrival and follow the mandatory quarantine procedures at
-one of the designated hotels near your point of entry, under the following
-conditions: 
+1. Show a result of negative PCR Test that was taken maximum 48 hours before
+departure.
 
-#### Quarantine for 7 x 24 hours for foreign travellers who have received one dose of the vaccine. 
+2. Show proof/certificate of a full dose COVID-19 vaccination minimum
+14 days before the date of travel, e.g., stamp in the yellow vaccination book
+and print out the international QR code from the CoronaCheck website:
+[https://coronacheck.nl/nl/print/](https://coronacheck.nl/nl/print/) 
 
-If the foreign traveller does not have received the second dose, they will receive a vaccination at the quarantine location after the results of the second PCR test, under the following conditions:
-- Foreigners between 12 – 17 years
-- Holders of diplomatic/service residence permits
-- Holders of Limited and Permanent Residence Permits (KITAS/KITAP)
+3. Show proof of booking for quarantine
+accommodation.  
 
-#### Quarantine for 5 x 24 hours for foreign travellers who have received the second dose of vaccine;
+4. Undergo a PCR test on arrival.  
 
-#### Quarantine for 3 x 24 hours for foreign travellers who have received the third dose of vaccine; or
-
-#### For foreign travellers under 18 years of age the duration of quarantine follows provisions that apply to parents or caregiver/travel companion.
-
-4. A second PCR test must be carried out, under the
+5. Follow the mandatory quarantine
+procedures at one of the designated hotels near your point of entry, under the
 following conditions: 
-- On the 6th day of quarantine for foreign travellers who quarantine with a duration of 7 x 24 hours; or
-- On the 4th day of quarantine for foreign travellers who quarantine with a duration of 5 x 24 hours; or
-- On the morning of the 3rd day of quarantine for foreign travellers who quarantine with a duration of 3 x 24 hours.
-5. It is recommended to register your vaccination you have received abroad
+
+* __quarantine for 3 days__ for those who have received 2 doses
+of COVID-19 Vaccines and/or  booster vaccines; 
+* __quarantine for 7 days__ for those who have only received 1 dose of COVID-19 Vaccines 
+* For foreign travellers under
+18 years the duration of quarantine follows provisions that apply to parents or
+caregiver/travel companion.
+
+6. During quarantine, the travellers will have a PCR Test on the third day (for
+3 days quarantine) or on the sixth day (for 7 days quarantine). If the PCR test
+is negative, the travellers can continue their journey. If the PCR test was
+positive, travellers with mild or no symptoms have to continue the quarantine in
+the accommodation and it is recommended to continue with the self-quarantine for
+14 days. The travellers with severe symptoms will be treated in the hospital.
+The hospital cost for foreign citizens will be borne by themselves, and for
+Indonesian citizens will be borne by the Indonesian Government.
+
+7. It is recommended to register your vaccination you have received abroad
 through the following website of the Indonesian Ministry of Health:
 [https://vaksinln.dto.kemkes.go.id/sign/in](https://vaksinln.dto.kemkes.go.id/sign/in)
 and upload this data in the Peduli Lindungi app. You will receive a QR Code
 which can be scanned, for example if you want to enter malls, restaurants and
-other public places. 
+other public places.
+
+Detailed explanation of the Indonesian health protocol can be viewed
+[https://kemlu.go.id/thehague/en/lists/covid-19/792/etc-category-menu](https://kemlu.go.id/thehague/en/lists/covid-19/792/etc-category-menu)
+
+## KITAS/KITAP Extension
 
 Bearers of an Indonesian Residence Permit (KITAS / KITAP) which has expired
 while abroad, can submit an extension request through their Indonesian sponsor
@@ -134,4 +206,3 @@ at the immigration office that issued the document for you. Another possibility
 for the sponsor is to submit an online request for extension through the website
 of the Directorate General of Immigration - Jakarta, via:
 [https://izintinggal-online.imigrasi.go.id/](https://izintinggal-online.imigrasi.go.id/)
-
