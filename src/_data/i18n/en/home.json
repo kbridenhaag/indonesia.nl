@@ -6,7 +6,7 @@
     "text": "For Indonesian citizens with emergencies, please call:"
   },
   "alert": {
-    "enabled": "true",
+    "enabled": "false",
     "text": "Read the latest health protocols due to COVID-19 before travelling to Indonesia.",
     "href": "/en/the-latest-health-protocol-on-international-travel-to-indonesia-during-covid-19-pandemic/",
     "moreInformation": "More information"
