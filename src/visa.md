@@ -1,7 +1,7 @@
 ---
 title: Travel restrictions due to COVID-19
 layout: "single.njk"
-updated: 2022-03-07
+updated: 2022-03-08
 eleventyNavigation:
   key: Travel restrictions due to COVID-19
   parent: Home
@@ -23,7 +23,7 @@ please send an email to: [imigrasi@indonesia.nl](mailto:imigrasi@indonesia.nl)
 
 From 7 March 2022, the Indonesian Government has reopened its Visa on Arrival
 services at I Gusti Ngurah Rai International Airport (Bali). Citizens from the
-following  23 countries can buy a Visa On Arrival __at this airport only__:
+following 23 countries can buy a Visa On Arrival __at this airport only__:
 
 1. Australia
 2. Brunei Darussalam
@@ -55,7 +55,7 @@ Indonesia. The Visa on Arrival cannot be converted into another type of stay
 permit. Your national passport has to be valid for at least 6 months from the
 date of entry. While it is only possible to enter the country with a Visa On
 Arrival through I Gusti Ngurah Rai International Airport (Bali), the foreigner
-can exit the Indonesia through other airports.
+can exit Indonesia through other airports.
 
 <div class="kbrinl-inset-text">
   The Visa Exemption (Free Visa for max. 30 days) services are still suspended until further notice.
@@ -155,16 +155,15 @@ International travellers in the possession of an eVisa can enter the territory o
 All international travellers who are allowed to enter Indonesia must follow
 Indonesian Health Protocol. Upon arrival the traveller must:
 
-1. Show a result of negative PCR Test that was taken maximum 48 hours before
-departure.
+1. Show a result of negative PCR Test that was taken maximum __48 hours before
+departure__.
 
-2. Show proof/certificate of a full dose COVID-19 vaccination minimum
+2. Show proof/certificate of a __full dose COVID-19 vaccination__ minimum
 14 days before the date of travel, e.g., stamp in the yellow vaccination book
 and print out the international QR code from the CoronaCheck website:
 [https://coronacheck.nl/nl/print/](https://coronacheck.nl/nl/print/) 
 
-3. Show proof of booking for quarantine
-accommodation.  
+3. Show proof of __booking for quarantine accommodation__. 
 
 4. Undergo a PCR test on arrival.  
 
@@ -180,13 +179,14 @@ of COVID-19 Vaccines and/or  booster vaccines;
 caregiver/travel companion.
 
 6. During quarantine, the travellers will have a PCR Test on the third day (for
-3 days quarantine) or on the sixth day (for 7 days quarantine). If the PCR test
-is negative, the travellers can continue their journey. If the PCR test was
-positive, travellers with mild or no symptoms have to continue the quarantine in
-the accommodation and it is recommended to continue with the self-quarantine for
-14 days. The travellers with severe symptoms will be treated in the hospital.
-The hospital cost for foreign citizens will be borne by themselves, and for
-Indonesian citizens will be borne by the Indonesian Government.
+3 days quarantine) or on the sixth day (for 7 days quarantine). If the __PCR
+test is negative__, the travellers can continue their journey. __If the PCR test
+was positive__, travellers with mild or no symptoms have to continue the
+quarantine in the accommodation and it is recommended to continue with the
+self-quarantine for 14 days. The travellers with severe symptoms will be treated
+in the hospital.  The hospital cost for foreign citizens will be borne by
+themselves, and for Indonesian citizens will be borne by the Indonesian
+Government.
 
 7. It is recommended to register your vaccination you have received abroad
 through the following website of the Indonesian Ministry of Health:
