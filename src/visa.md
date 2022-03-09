@@ -2,6 +2,7 @@
 title: Travel restrictions due to COVID-19
 layout: "single.njk"
 updated: 2022-03-09
+includeToc: True
 eleventyNavigation:
   key: Travel restrictions due to COVID-19
   parent: Home

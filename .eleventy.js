@@ -12,6 +12,9 @@ const rollup = require('rollup')
 const { nodeResolve } = require('@rollup/plugin-node-resolve');
 const dateFns = require('date-fns')
 const { idLocale } = require('date-fns/locale/id')
+const pluginTOC = require('eleventy-plugin-toc')
+const markdownIt = require('markdown-it')
+const markdownItAnchor = require('markdown-it-anchor')
 
 module.exports = (eleventyConfig) => {
   eleventyConfig.setUseGitIgnore(false)
@@ -19,6 +22,12 @@ module.exports = (eleventyConfig) => {
   eleventyConfig.addPassthroughCopy({ './src/_public': 'public' });
   eleventyConfig.addWatchTarget('./src/_style');
   eleventyConfig.addWatchTarget('./src/_script');
+  eleventyConfig.setLibrary(
+    'md',
+    markdownIt({
+      html: true
+    }).use(markdownItAnchor)
+  )
 
   eleventyConfig.on('beforeBuild', () => {
     processSass('./src/_style/index.scss')
@@ -36,6 +45,11 @@ module.exports = (eleventyConfig) => {
     fallbackLocales: {
       '*': 'id'
     }
+  });
+
+  eleventyConfig.addPlugin(pluginTOC, {
+    tags: ['h2'],
+    wrapperClass: 'app-toc__nav'
   });
 
   eleventyConfig.addNunjucksFilter("formatDateEn", (date) => {
