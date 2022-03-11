@@ -1,7 +1,7 @@
 ---
 title: Travel restrictions due to COVID-19
 layout: "single.njk"
-updated: 2022-03-09
+updated: 2022-03-11
 includeToc: True
 eleventyNavigation:
   key: Travel restrictions due to COVID-19
@@ -71,9 +71,9 @@ Immigration - Jakarta, via:
 Tourist visa applications must be submitted by an Indonesian visa/travel agent
 or hotel. An E-Visa will be issued for the following purposes:
 
-### Visit Visa (B211 - 60 days; extendable up to 4 times (30 days/extension)
+## Visit Visa (B211 - 60 days; extendable up to 4 times (30 days/extension)
 
-#### B211A
+### B211A
 
 - tourism;
 - an emergency and essential work;
@@ -82,21 +82,21 @@ or hotel. An E-Visa will be issued for the following purposes:
 - a medical, food, and humanitarian aid worker; and
 - a crew member who joins the vessel in Indonesia;
 
-#### B211B
+### B211B
 
 - a probationary period for foreign workers;
 
-#### B211C
+### B211C
 
 - journalism / making a movie
 
-### Temporary stay visa (12 months)
+## Temporary stay visa (12 months)
 
 A temporary stay visa will be granted to foreigners for a work activity and/or
 non-work activity. This visa can be converted into an Indonesian Temporary
 Residence Permit (KITAS).
 
-#### Temporary stay visa for the work activity is granted to a foreign worker (C312)
+### Temporary stay visa for the work activity is granted to a foreign worker (C312)
 
 - as a professional or expert;
 - who joins to work on ships, on vessels, or installations operating in the Indonesian maritime zone, territorial sea, continental shelf, and Indonesian Exclusive Economic Zone;
@@ -107,18 +107,18 @@ Residence Permit (KITAS).
 - with a non-permanent work in constructions;
 - with a probationary period for skilled works.
 
-#### Temporary stay visa for the non-work activity is granted to a foreigner for:
+### Temporary stay visa for the non-work activity is granted to a foreigner for:
 
-##### C313 – C314
+#### C313 – C314
 
 - foreign investment (1 year);
 - foreign investment (2 years);
 
-##### C316
+#### C316
 
 - study;
 
-##### C317
+#### C317
 
 - Family Reunification (Indonesian spouse, dependents of a foreigner who holds
   KITAS/KITAP, children from mixed marriage
@@ -166,7 +166,7 @@ out the international QR code from the CoronaCheck website:
 
 3. Show proof of being in the possession of health insurance that covers medical expenses and Covid-19 treatment with a minimum coverage of USD 25.000.
 
-4. Show proof of a _hotel booking_:
+4. Show proof of a __hotel booking__:
 
 * Indonesians and bearers of an Indonesian visa or residence permit (KITAS/P),
 who __do not domicile in Bali, Batam or Bintan__ must have a hotel booking for __at least 4 days & 3 nights stay__
@@ -219,7 +219,7 @@ Indonesian Health Protocol. Upon arrival the traveller must:
    procedures at one of the designated hotels near your point of entry, under the
    following conditions:
 
-- **quarantine for 3 days** for those who have received 2 doses
+- **quarantine for 1 days** for those who have received 2 doses
   of COVID-19 Vaccines and/or booster vaccines;
 - **quarantine for 7 days** for those who have only received 1 dose of COVID-19 Vaccines
 - For foreign travellers under

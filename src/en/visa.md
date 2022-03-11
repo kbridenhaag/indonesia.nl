@@ -1,7 +1,7 @@
 ---
 title: Travel restrictions due to COVID-19
 layout: "single.njk"
-updated: 2022-03-09
+updated: 2022-03-11
 includeToc: True
 eleventyNavigation:
   key: Travel restrictions due to COVID-19
@@ -166,7 +166,7 @@ out the international QR code from the CoronaCheck website:
 
 3. Show proof of being in the possession of health insurance that covers medical expenses and Covid-19 treatment with a minimum coverage of USD 25.000.
 
-4. Show proof of a _hotel booking_:
+4. Show proof of a __hotel booking__:
 
 * Indonesians and bearers of an Indonesian visa or residence permit (KITAS/P),
 who __do not domicile in Bali, Batam or Bintan__ must have a hotel booking for __at least 4 days & 3 nights stay__
@@ -219,7 +219,7 @@ Indonesian Health Protocol. Upon arrival the traveller must:
    procedures at one of the designated hotels near your point of entry, under the
    following conditions:
 
-- **quarantine for 3 days** for those who have received 2 doses
+- **quarantine for 1 days** for those who have received 2 doses
   of COVID-19 Vaccines and/or booster vaccines;
 - **quarantine for 7 days** for those who have only received 1 dose of COVID-19 Vaccines
 - For foreign travellers under
