@@ -219,7 +219,7 @@ Indonesian Health Protocol. Upon arrival the traveller must:
    procedures at one of the designated hotels near your point of entry, under the
    following conditions:
 
-- **quarantine for 1 days** for those who have received 2 doses
+- **quarantine for 1 day** for those who have received 2 doses
   of COVID-19 Vaccines and/or booster vaccines;
 - **quarantine for 7 days** for those who have only received 1 dose of COVID-19 Vaccines
 - For foreign travellers under
