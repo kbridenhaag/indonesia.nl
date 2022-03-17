@@ -22,7 +22,7 @@
         {% for menuItem in menuItems %}
           <li class="app-header__menu-item">
             <a class="app-header__menu-link app-header__link" href="{{ menuItem.href }}" {% if menuItem.items %} {% set parentLoopIndex = loop.index0 %} aria-controls="submenu-{{loop.index0}}" {% endif %}>
-              {% if menuItem.icon %}<img class="app-header__menu-item-icon" src="{{ menuItem.icon }}" onload="SVGInject(this)">{% endif %}
+              {% if menuItem.icon %}<img class="app-header__menu-item-icon" src="{{ menuItem.icon }}" onload="SVGInject(this)" alt="">{% endif %}
               {{ menuItem.title }}
             </a>
             {% if menuItem.items %}
