@@ -25,7 +25,7 @@
 }
 
 .app-main-wrapper {
-  @include govuk-main-wrapper;
+  @extend .govuk-main-wrapper;
 }
 
 .app-main-wrapper--home {

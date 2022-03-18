@@ -41,4 +41,4 @@ function initHeader (module) {
   })
 }
 
-export default initHeader
+module.exports = initHeader

@@ -19,4 +19,4 @@ function initDropdown (module) {
   })
 }
 
-export default initDropdown
+module.exports = initDropdown

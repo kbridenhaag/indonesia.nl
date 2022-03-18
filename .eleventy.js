@@ -16,6 +16,7 @@ const pluginTOC = require('eleventy-plugin-toc')
 const markdownIt = require('markdown-it')
 const markdownItAnchor = require('markdown-it-anchor')
 const criticalCss = require("eleventy-critical-css");
+const commonjs = require('@rollup/plugin-commonjs')
 
 module.exports = (eleventyConfig) => {
   eleventyConfig.setUseGitIgnore(false)
@@ -103,13 +104,13 @@ async function processJs (jsPath) {
   console.log('Compiling JS')
   const bundle = await rollup.rollup({
     input: jsPath,
-    plugins: [nodeResolve()]
+    plugins: [nodeResolve(), commonjs()]
   }) 
 
   await bundle.write({
     name: 'App',
     format: 'umd',
-    file: './dist/public/app.js',
+    file: './dist/public/app.js'
   })
   await bundle.close()
   // fs.outputFileSync('./dist/public/app.js', output.code)

@@ -50,9 +50,10 @@
 ), accordionItems) %}
 {% endif %}
 
-{{ appAccordion({
-  id: "opening-hours-accordion",
-  headingLevel: 3,
-  classes: 'app-cms-content',
-  items: accordionItems
-}) }}
+{% for item in accordionItems %}
+  <hr class="kbrinl-section-break kbrinl-section-break--visible">
+  <h3 class="kbrinl-heading-m kbrinl-!-margin-bottom-2 kbrinl-!-margin-top-3">
+    {{ item.heading.text }}
+  </h3>
+  <div class="app-cms-content">{{ item.content.html | safe }}</div>
+{% endfor%}

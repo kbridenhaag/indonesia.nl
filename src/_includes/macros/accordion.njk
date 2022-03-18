@@ -1,8 +1,9 @@
 {% macro appAccordion(params) %}
   {% set id = params.id %}
-  {% set headingLevel = params.headingLevel if params.headingLevel else 2 %}
+  {% set headingLevel = params.headingLevel if params.headingLevel else 
+    2 %}
 
-  <div class="kbrinl-accordion {%- if params.classes %} {{ params.classes }}{% endif -%}" data-module="kbrinl-accordion" id="{{ id }}"
+  <div class="kbrinl-accordion {%- if params.classes %} {{ params.classes }}{% endif -%}" data-module="app-accordion" id="{{ id }}"
   {%- for attribute, value in params.attributes %} {{attribute}}="{{value}}"{% endfor %}>
     {% for item in params.items %}
       {% if item %}
@@ -28,4 +29,3 @@
   </div>
 
 {% endmacro %}
-
