@@ -21,6 +21,7 @@ const commonjs = require('@rollup/plugin-commonjs')
 module.exports = (eleventyConfig) => {
   eleventyConfig.setUseGitIgnore(false)
   eleventyConfig.addPassthroughCopy({ './src/_assets': 'assets' });
+  eleventyConfig.addPassthroughCopy({ './src/_redirects': '_redirects' });
   eleventyConfig.addPassthroughCopy({ './src/_public': 'public' });
   eleventyConfig.addWatchTarget('./src/_style');
   eleventyConfig.addWatchTarget('./src/_script');
