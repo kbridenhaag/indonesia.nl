@@ -40,13 +40,13 @@
     {% if locale == "id" %}
       {% set tocTitle = "Daftar isi" %}
     {% else %}
-      {% set tocTitle = "Contents" %}
+      {% set tocSkipContent = "Daftar isi" %}
     {% endif %}
 
     {% block aside %}
       {% if includeToc %}
         <div class="kbrinl-width-container">
-          <a class="kbrinl-skip-link kbrinl-!-display-none-print" href="#page-content">Skip to content</a>
+          <a class="kbrinl-skip-link kbrinl-!-display-none-print" href="#page-content">{{ 'common.skipLink' | i18n }}</a>
         </div>
         <aside>
           <div class="app-toc">
