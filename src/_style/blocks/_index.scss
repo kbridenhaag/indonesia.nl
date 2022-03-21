@@ -67,7 +67,7 @@
 }
 
 .app-cms-content a,
-.app-prose a {
+.app-prose a:not(.govuk-button) {
   @extend %govuk-link;
 }
 
