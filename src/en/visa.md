@@ -1,7 +1,7 @@
 ---
 title: Travel restrictions due to COVID-19
 layout: "single.njk"
-updated: 2022-03-11
+updated: 2022-03-21
 includeToc: True
 eleventyNavigation:
   key: Travel restrictions due to COVID-19
@@ -22,41 +22,71 @@ please send an email to: [imigrasi@indonesia.nl](mailto:imigrasi@indonesia.nl)
 
 ## Visa on Arrival (VOA) for foreign travellers visiting Bali
 
-From 7 March 2022, the Indonesian Government has reopened its Visa on Arrival
-services at I Gusti Ngurah Rai International Airport (Bali). Citizens from the
-following 23 countries can buy a Visa On Arrival **at this airport only**:
+The Indonesian Government has reopened its Visa on Arrival services at __I Gusti
+Ngurah Rai International Airport__ (Bali) for tourism or governmental visit, under
+the following conditions:
 
-1. Australia
-2. Brunei Darussalam
-3. Cambodia
-4. Canada
-5. France
-6. Germany
-7. Italy
-8. Japan
-9. Laos
-10. Malaysia
-11. Myanmar
-12. Netherlands
-13. New Zealand
-14. Philippines
-15. Qatar
-16. Singapore
-17. South Korea
-18. Thailand
-19. Turkiye (Turkey)
-20. United Arab Emirates
-21. United Kingdom
-22. United States of America
-23. Vietnam
+### Eligible nationalities:
+
+- Argentina
+- Australia
+- Belgium
+- Brazil
+- Brunei Darussalam
+- Cambodia
+- Canada
+- China
+- Denmark
+- Finland
+- France
+- Germany
+- Hungary
+- India
+- Italy
+- Japan
+- Laos
+- Malaysia
+- Mexico
+- Myanmar
+- Netherlands
+- New Zealand
+- Norway
+- Philippines
+- Poland
+- Qatar
+- Saudi Arabia
+- Seychelles
+- Singapore
+- South Africa
+- South Korea
+- Spain
+- Sweden
+- Switzerland
+- Taiwan
+- Thailand
+- Tunisia
+- Turkiye (Turkey)
+- United Arab Emirates
+- United Kingdom
+- United States of America
+- Vietnam
 
 The Visa on Arrival costs Rp. 500.000 and is valid for 30 days. The Visa on
 Arrival can get extended once, with 30 days, at a local Immigration Office in
 Indonesia. The Visa on Arrival cannot be converted into another type of stay
-permit. Your national passport has to be valid for at least 6 months from the
-date of entry. While it is only possible to enter the country with a Visa On
-Arrival through I Gusti Ngurah Rai International Airport (Bali), the foreigner
-can exit Indonesia through other airports.
+permit. 
+
+### Requirements
+
+- Official national passport with a minimum validity of 6 months from the entry date
+- Copy of a return ticket, or ticket continuing the journey to another country
+- Documents required in accordance with the provisions of the Indonesian Health Protocol issued by the Covid-19 Task Force.
+  In case of a governmental visit, the traveller must also attach an invitation letter regarding the attending of a meeting / conference issued by the Indonesian Ministry / Department / Institutions concerned 
+
+While it is only possible to enter the country with a Visa On Arrival through I
+Gusti Ngurah Rai International Airport (Bali), the foreigner can exit the
+Indonesia through other airports.
+
 
 <div class="kbrinl-inset-text">
   The Visa Exemption (Free Visa for max. 30 days) services are still suspended until further notice.
@@ -71,9 +101,9 @@ Immigration - Jakarta, via:
 Tourist visa applications must be submitted by an Indonesian visa/travel agent
 or hotel. An E-Visa will be issued for the following purposes:
 
-## Visit Visa (B211 - 60 days; extendable up to 4 times (30 days/extension)
+### Visit Visa (B211 - 60 days; extendable up to 4 times (30 days/extension)
 
-### B211A
+#### B211A
 
 - tourism;
 - an emergency and essential work;
@@ -82,21 +112,21 @@ or hotel. An E-Visa will be issued for the following purposes:
 - a medical, food, and humanitarian aid worker; and
 - a crew member who joins the vessel in Indonesia;
 
-### B211B
+#### B211B
 
 - a probationary period for foreign workers;
 
-### B211C
+#### B211C
 
 - journalism / making a movie
 
-## Temporary stay visa (12 months)
+### Temporary stay visa (12 months)
 
 A temporary stay visa will be granted to foreigners for a work activity and/or
 non-work activity. This visa can be converted into an Indonesian Temporary
 Residence Permit (KITAS).
 
-### Temporary stay visa for the work activity is granted to a foreign worker (C312)
+#### Temporary stay visa for the work activity is granted to a foreign worker (C312)
 
 - as a professional or expert;
 - who joins to work on ships, on vessels, or installations operating in the Indonesian maritime zone, territorial sea, continental shelf, and Indonesian Exclusive Economic Zone;
@@ -107,23 +137,23 @@ Residence Permit (KITAS).
 - with a non-permanent work in constructions;
 - with a probationary period for skilled works.
 
-### Temporary stay visa for the non-work activity is granted to a foreigner for:
+#### Temporary stay visa for the non-work activity is granted to a foreigner for:
 
-#### C313 – C314
+##### C313 – C314
 
 - foreign investment (1 year);
 - foreign investment (2 years);
 
-#### C316
+##### C316
 
 - study;
 
-#### C317
+##### C317
 
 - Family Reunification (Indonesian spouse, dependents of a foreigner who holds
   KITAS/KITAP, children from mixed marriage
 
-## Point of Entry
+### Point of Entry
 
 International travellers in the possession of an eVisa can enter the territory of the Republic of Indonesia through:
 
@@ -150,6 +180,80 @@ International travellers in the possession of an eVisa can enter the territory o
 1. Aruk, Kalimantan Barat;
 2. Entikong, Kalimantan Barat; dan
 3. Motaain, Nusa Tenggara Timur
+
+## Visa On Arrival (VoA) and Visa Exemption (Free Visa) for foreign travellers visiting Batam or Bintan
+
+The Indonesian Government has reopened its Visa on Arrival and Visa Exemption
+(Free Visa) services for __tourism or governmental visit__ at multiple entry points
+in the Batam and Bintan region, under the following conditions:
+
+### Visa on Arrival (VoA)
+
+#### Eligible nationalities
+
+- Australia
+- Brunei Darussalam
+- Cambodia
+- Canada
+- China
+- France
+- Germany
+- India
+- Italy
+- Japan
+- Laos
+- Malaysia
+- Mexico
+- Myanmar
+- Netherlands
+- Philippines
+- Saudi Arabia
+- Singapore
+- South Korea
+- Spain
+- Taiwan
+- Thailand
+- United Kingdom
+- United States of America
+- Vietnam
+
+The Visa on Arrival costs Rp. 500.000 and is valid for 30 days. The Visa on
+Arrival can get extended once, with 30 days, at a local Immigration Office in
+Indonesia. The Visa on Arrival cannot be converted into another type of stay
+permit. 
+
+#### Requirements
+
+- Official national passport with a minimum validity of 6 months from the entry date
+- Copy of a return ticket, or ticket continuing the journey to another country
+- Documents required in accordance with the provisions of the Indonesian Health Protocol issued by the Covid-19 Task Force
+- Permanent Residence Permit in Singapore (except for Singapore nationals)
+- In case of a governmental visit, the traveller must also attach an invitation letter regarding the attending of a meeting / conference issued by 
+  the Indonesian Ministry Department / Institutions concerned
+
+### Visa Exemption (Free Visa)
+
+#### Eligible nationalities
+
+- Brunei Darussalam
+- Cambodia
+- Laos
+- Malaysia
+- Myanmar
+- Philippines
+- Singapore
+- Thailand
+- Vietnam
+
+Visa exemption (Free Visa) is valid for a __maximum of 14 days__ and cannot get
+extended nor converted into another type of stay permit.
+
+#### Requirements
+
+- Official national passport with a minimum validity of 6 months from the entry date
+- Copy of a return ticket, or ticket continuing the journey to another country
+- Documents required in accordance with the provisions of the Indonesian Health Protocol issued by the Covid-19 Task Force
+- Permanent Residence Permit in Singapore (except for Singapore nationals)
 
 ## Health protocols
 
