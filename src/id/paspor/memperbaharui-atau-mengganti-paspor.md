@@ -4,7 +4,7 @@
   eleventyNavigation:
     key: Memperbaharui atau mengganti paspor
     parent: Layanan Paspor
-    excerpt: Mengganti paspor yang masa berlakunya habis, rusak atau hilang
+    excerpt: Find out how to renew or replace a passport that is expiring/has expired, damaged, lost or stolen.
     order: 1
 ---
 
