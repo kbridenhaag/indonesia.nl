@@ -37,6 +37,12 @@
       {% endif %}
     </div>
 
+    {% if locale == "id" %}
+      {% set tocTitle = "Daftar isi" %}
+    {% else %}
+      {% set tocTitle = "Contents" %}
+    {% endif %}
+
     {% block aside %}
       {% if includeToc %}
         <div class="kbrinl-width-container">
@@ -47,7 +53,7 @@
             <div class="kbrinl-width-container">
               <div class="kbrinl-grid-row">
                 <div class="kbrinl-grid-column-two-thirds">
-                  <h2 class="app-toc__title">Contents</h2>
+                  <h2 class="app-toc__title">{{ tocTitle }}</h2>
                   {{ content | toc | safe }}
                 </div>
               </div>
