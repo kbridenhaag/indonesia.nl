@@ -8,5 +8,15 @@
     "title": "Kontak darurat",
     "href": "/id/kontak-darurat"
   },
-  "lastUpdated": "Terakhir diperbarui"
+  "lastUpdated": "Terakhir diperbarui",
+  "cookieBanner": {
+    "title": "Cookies on Indonesia.nl",
+    "html": "<p>We use essentials cookies for this website to work.</p><p>We would like your permission to use analytics cookies so we can understand how you use the service and make improvements.</p>",
+    "accept": "Accept analytics cookies",
+    "reject": "Reject analytics cookies",
+    "viewCookies": "View cookies",
+    "acceptConfirmation": "You have accepted analytics cookies.",
+    "rejectConfirmation": "You have rejected analytics cookies.",
+    "hide": "Hide this message"
+  }
 }

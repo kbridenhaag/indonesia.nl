@@ -1,0 +1,10 @@
+#cookie-consent-banner,
+#cookie-consent-confirmation {
+  display: none;
+  margin-bottom: govuk-spacing(2);
+}
+
+#cookie-consent-confirmation-accepted,
+#cookie-consent-confirmation-rejected {
+  display: none;
+}
