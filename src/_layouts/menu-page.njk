@@ -3,20 +3,18 @@
 {% set items = collections.all | eleventyNavigation(eleventyNavigation.key) %}
 
 {% block content %}
-  <div class="kbrinl-grid-row kbrinl-!-margin-top-9">
-    {% for item in items %}
-      <ul class="app-menu-cards">
-        <div class="kbrinl-grid-column-one-third">
-          <li class="app-menu-card">
-            <h2 class="kbrinl-heading-m">
-              <a class="app-menu-card__link" href="{{ item.url }}">
-                {{item.title}}
-              </a>
-            </h2>
-            <p class="app-menu-card__excerpt kbrinl-body">{{ item.excerpt }}</p>
-          </li>
-        </div>
-      </ul>
-    {% endfor %}
+  <div class="kbrinl-!-margin-top-9">
+    <ul class="app-menu-cards">
+      {% for item in items %}
+        <li class="app-menu-card">
+          <h2 class="kbrinl-heading-m">
+            <a class="app-menu-card__link" href="{{ item.url }}">
+              {{item.title}}
+            </a>
+          </h2>
+          <p class="app-menu-card__excerpt kbrinl-body">{{ item.excerpt }}</p>
+        </li>
+      {% endfor %}
+    </ul>
   </div>
 {% endblock %}
