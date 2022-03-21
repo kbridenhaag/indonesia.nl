@@ -6,7 +6,13 @@
 
   @include govuk-media-query($from: desktop) {
     grid-template-columns: 1fr 1fr 1fr;
-    grid-gap: $govuk-gutter;
+    grid-column-gap: $govuk-gutter;
+  }
+}
+
+.app-menu-cards--double {
+  @include govuk-media-query($from: desktop) {
+    grid-template-columns: 1fr 1fr;
   }
 }
 

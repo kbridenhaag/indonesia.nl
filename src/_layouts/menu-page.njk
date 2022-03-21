@@ -4,7 +4,7 @@
 
 {% block content %}
   <div class="kbrinl-!-margin-top-9">
-    <ul class="app-menu-cards">
+    <ul class="app-menu-cards {% if double == true %} app-menu-cards--double {% endif %}">
       {% for item in items %}
         <li class="app-menu-card">
           <h2 class="kbrinl-heading-m">
