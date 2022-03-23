@@ -1,0 +1,46 @@
+<div class="app-global-cookie-banner">
+  <div id="cookie-consent-banner" class="kbrinl-cookie-banner app-cookie-banner app-!-border-bottom" data-nosnippet role="region" aria-label="Cookies on Indonesia.nl" cookie-name="indonesia-nl-cookie-consent">
+    <div class="kbrinl-cookie-banner__message kbrinl-width-container">
+      <div class="kbrinl-grid-row">
+        <div class="kbrinl-grid-column-two-thirds">
+          <h2 class="kbrinl-cookie-banner__heading kbrinl-heading-m">{{'common.cookieBanner.title' | i18n }}</h2>
+
+          <div class="kbrinl-cookie-banner__content app-cms-content">
+            {{'common.cookieBanner.html' | i18n | safe }}
+          </div>
+        </div>
+      </div>
+
+      <div class="kbrinl-button-group">
+        <button id="accept-cookies-btn" value="accept" type="button" name="cookies" class="kbrinl-button" data-module="kbrinl-button">
+          {{'common.cookieBanner.accept' | i18n }}
+        </button>
+        <button id="reject-cookies-btn" value="reject" type="button" name="cookies" class="kbrinl-button" data-module="kbrinl-button">
+          {{'common.cookieBanner.reject' | i18n }}
+        </button>
+        <a class="kbrinl-link" href="/about/cookies">
+          {{'common.cookieBanner.viewCookies' | i18n }}
+        </a>
+      </div>
+    </div>
+  </div>
+  <div id="cookie-consent-confirmation" class="kbrinl-cookie-banner app-cookie-banner--confirmation app-!-border-bottom">
+    <div class="kbrinl-cookie-banner__message kbrinl-width-container">
+      <div class="kbrinl-grid-row">
+        <div class="kbrinl-grid-column-two-thirds">
+
+          <div class="kbrinl-cookie-banner__content">
+            <p class="kbrinl-body" id="cookie-consent-confirmation-accepted">{{ 'common.cookieBanner.acceptConfirmation' | i18n }}</p>
+            <p class="kbrinl-body" id="cookie-consent-confirmation-rejected">{{ 'common.cookieBanner.rejectConfirmation' | i18n }}</p>
+          </div>
+        </div>
+      </div>
+
+      <div class="kbrinl-button-group">
+        <button id="hide-cookie-consent-confirmation-btn" draggable="false" class="kbrinl-button" data-module="kbrinl-button">
+          {{ 'common.cookieBanner.hide' | i18n }}
+        </button>
+      </div>
+    </div>
+  </div>
+</div>
