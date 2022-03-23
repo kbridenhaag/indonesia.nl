@@ -4,27 +4,27 @@
   eleventyNavigation:
     key: Membuat paspor pertama untuk anak
     parent: Layanan Paspor
-    excerpt: Find out how to apply for a child's or newborn's first passport of the Republic of Indonesia
+    excerpt: Layanan ini ditunjukkan untuk WNI yang ingin membuat paspor baru untuk anak baru lahir. 
     order: 2
 ---
 
-This page is about applying for a child's first Indonesian passport.
+Halaman ini adalah mengenai membuat permohonan untuk paspor Indonesia pertama anak.
 
-## Fees
+## Biaya
 
-It costs &euro; 30 to apply for a child's first passport. The fee can only be paid by PIN card when you submit
-your application at the Embassy.
+Biaya yang dikenakan adalah sebesar € 30 untuk paspor pertama anak. Biaya hanya
+dapat dibayarkan melalui kartu dengan PIN saat pengiriman permohonan di Kedutan
+Besar Republik Indonesia.
 
-## How long it takes
+## Berapa lama waktu yang dibutuhkan
 
-Once your application has been submitted, it takes 10 working days until the child's new passport is ready to pick up at the Embassy.
-It can take longer if your application is not complete, for example if you are missing some [documents that you are required to submit](#required-documents).
+Setelah permohonan dikirimkan, proses akan membutuhkan 10 hari kerja sampai paspor baru anak siap untuk diambil di kedutaan. 
 
-## Required documents
+## Dokumen yang di butuhkan
 
-For us to process your application, you need to supply all the required documents alongside your application. These are:
+Anda perlu menyediakan semua dokumen yang diperlukan dalam permohonan Anda. Sebagai berikut:
 
-- The application form attached with one recent passport photo of the applicant
+- Formulir permohonan dilampirkan dengan satu lembar foto paspor pemohon
 - Fotocopy paspor kedua orang tua (Ayah dan Ibu)
 - Fotocopy akte perkawinan orang tua / surat pengakuan anak dari Gemeente/surat cerai kedua orang tua
 - Fotocopy verblijfsdocument kedua orang tua (izin tinggal di Belanda) yang masih berlaku
@@ -32,10 +32,9 @@ For us to process your application, you need to supply all the required document
 - Surat keterangan sebagai penduduk di suatu Gemeente (GBA)
 - Paspor asing anak jika memiliki kewarganegaraan ganda
 
+## Mulai permohonan Anda
 
-## Start your application
-
-You can use the online service to start applying for a new passport. 
+Layanan ini ditunjukkan untuk WNI yang ingin membuat paspor baru untuk anak baru lahir dan/atau penggantian paspor RI anak dibawah 17 tahun. 
 
 <a href="https://aplikasi.imigrasi.indonesia.nl/paspor" class="kbrinl-button kbrinl-button--start">Mulai permohonan <svg class="kbrinl-button__start-icon" xmlns="http://www.w3.org/2000/svg" width="17.5" height="19" viewBox="0 0 33 40" aria-hidden="true" focusable="false"> <path fill="currentColor" d="M0 0h13l20 20-20 20H0l20-20z" /> </svg>
 </a>
