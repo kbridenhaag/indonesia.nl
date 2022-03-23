@@ -20,8 +20,7 @@ Kedutaan Besar Republik Indonesia.
 ## Berapa lama waktu yang dibutuhkan
 
 Setelah permohonan dikirimkan, proses akan membutuhkan 10 hari kerja sampai
-paspor baru anak siap untuk diambil di kedutaan. Proses dapat berlangsung lebih
-lama jika permohonan Anda tidak lengkap, contohnya jika Anda melewatkan [beberapa dokumen yang seharusnya dikirimkan](#dokumen-yang-di-butuhkan).
+paspor baru anak siap untuk diambil di kedutaan. 
 
 ## Dokumen yang di butuhkan
 
