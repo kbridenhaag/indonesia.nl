@@ -29,7 +29,6 @@
       var _paq = window._paq = window._paq || [];
       /* tracker methods like "setCustomDimension" should be called before "trackPageView" */
       _paq.push(['trackPageView']);
-      _paq.push(['requireCookieConsent']);
       _paq.push(['enableLinkTracking']);
       (function () {
         var u = "https://analytics.opinionated.nl/";
@@ -53,7 +52,6 @@
   </head>
   <body class="kbrinl-template__body">
     <a href="#main-content" class="kbrinl-skip-link">{{ 'common.skipLink' | i18n }}</a>
-    {% include 'cookie-banner.njk' %}
     {% include 'header.njk' %}
     {% block main %}
       <main id="main-content" class="app-main-wrapper">
