@@ -1,7 +1,7 @@
 ---
 title: Travel restrictions due to COVID-19
 layout: "single.njk"
-updated: 2022-03-21
+updated: 2022-03-24
 includeToc: True
 eleventyNavigation:
   key: Travel restrictions due to COVID-19
@@ -273,39 +273,33 @@ out the international QR code from the CoronaCheck website:
 4. Show proof of a __hotel booking__:
 
 * Indonesians and bearers of an Indonesian visa or residence permit (KITAS/P),
-who __do not domicile in Bali, Batam or Bintan__ must have a hotel booking for __at least 4 days & 3 nights stay__
+who __do not domicile in Bali, Batam or Bintan__ must have a hotel booking for __at least 4 days & 3 nights stay__. You can find [a list of CHSE certified hotels in Bali here](https://www.welcomebacktobali.com/blog/travellers-info/chse-certified-hotels-in-bali)
 
 * Indonesians and bearers of an Indonesian residence permit (KITAS/P), who __do domicile in Bali, Batam or Bintan__, can go to their homes after their PCR test
 
-5. Undergo a PCR test on arrival. The traveller must stay inside the hotel room
-until receiving the PCR test result. If the __PCR test is negative__, the traveller
-is allowed to go outside of the hotel’s premises and travel within either the
-Bali, Batam or Bintan region. If the __PCR test was positive__, travellers with mild
-or no symptoms have to continue the quarantine in the accommodation and it is
-recommended to continue with the self-quarantine for 14 days. The travellers
-with severe symptoms will be treated in the hospital. The hospital cost for
-foreign citizens will be borne by themselves, and for Indonesian citizens will
-be borne by the Indonesian Government.
+5. Undergo a PCR test on arrival. The traveller must stay inside the hotel room until receiving the PCR test result. If the PCR test is negative, the traveller is allowed to go outside of the hotel’s premises and travel within either the Bali, Batam or Bintan region. If the PCR test was positive, travellers with mild or no symptoms have to continue the quarantine in the accommodation and it is recommended to continue with the self-quarantine for 14 days. The travellers with severe symptoms will be treated in the hospital. The hospital cost for foreign citizens will be borne by themselves, and for Indonesian citizens will be borne by the Indonesian Government.
 
 6. On the third day after the arrival, they must undergo another PCR test at the
 accommodation. If the PCR test is negative, the traveller can continue their
 activities on Bali, Batam or Bintan.
 
-7. On the fourth day after the arrival, and after receiving a negative test
+7.	On the fourth day after the arrival, and after receiving a negative test
 result on the third day, the traveller is allowed to travel to other islands
 outside of the Bali, Batam, or Bintan region.
 
-8. Register the vaccination received abroad through the following website of the
+8.	Register the vaccination received abroad through the following website of the
 Indonesian Ministry of Health:
 [https://vaksinln.dto.kemkes.go.id/sign/in](https://vaksinln.dto.kemkes.go.id/sign/in)
 and upload this data in the Peduli Lindungi app. You will receive a QR Code
 which can be scanned, for example if you want to enter malls, restaurants and
 other public places.
 
+
 ### Health protocol and quarantine regulations for other Indonesian regions
 
-All international travellers who are allowed to enter Indonesia must follow
-Indonesian Health Protocol. Upon arrival the traveller must:
+International travellers arriving through other entry points into the territory
+of the Republic of Indonesia, must follow the following health protocols and
+quarantine regulations. The international traveller must:
 
 1. Show a result of negative PCR Test that was taken maximum **48 hours before
    departure**.
@@ -315,37 +309,35 @@ Indonesian Health Protocol. Upon arrival the traveller must:
    and print out the international QR code from the CoronaCheck website:
    [https://coronacheck.nl/nl/print/](https://coronacheck.nl/nl/print/)
 
-3. Show proof of **booking for quarantine accommodation**.
+3. Show proof of hotel booking. You can find [a list of CHSE certified hotels here](https://quarantinehotelsjakarta.com/).
 
-4. Undergo a PCR test on arrival.
+4. Show proof of being in the possession of health insurance that covers medical expenses and Covid-19 treatment with a minimum coverage of USD 25.000.
 
-5. Follow the mandatory quarantine
-   procedures at one of the designated hotels near your point of entry, under the
-   following conditions:
+5. Undergo a PCR test on arrival. 
 
-- **quarantine for 1 day** for those who have received 2 doses
-  of COVID-19 Vaccines and/or booster vaccines;
-- **quarantine for 7 days** for those who have only received 1 dose of COVID-19 Vaccines
-- For foreign travellers under
-  18 years the duration of quarantine follows provisions that apply to parents or
-  caregiver/travel companion.
+6.	Follow the mandatory procedures at the hotel near your point of entry, under the following conditions:
+-	__Quarantine for 5 days__ for those who have only received 1 dose of COVID-19 Vaccines 
+-	Those who have received 2 and 3 doses of COVID-19 Vaccines must stay inside their hotel room until receiving the  PCR test result. If the PCR test result is negative the traveller can continue their journey;
+-	For foreign travellers under 18 years the duration of quarantine follows provisions that apply to parents or caregiver/travel companion.
 
-6. During quarantine, the travellers will have a PCR Test on the third day (for
-   3 days quarantine) or on the sixth day (for 7 days quarantine). If the **PCR
-   test is negative**, the travellers can continue their journey. **If the PCR test
-   was positive**, travellers with mild or no symptoms have to continue the
-   quarantine in the accommodation and it is recommended to continue with the
-   self-quarantine for 14 days. The travellers with severe symptoms will be treated
-   in the hospital. The hospital cost for foreign citizens will be borne by
-   themselves, and for Indonesian citizens will be borne by the Indonesian
-   Government.
 
-7. It is recommended to register your vaccination you have received abroad
-   through the following website of the Indonesian Ministry of Health:
-   [https://vaksinln.dto.kemkes.go.id/sign/in](https://vaksinln.dto.kemkes.go.id/sign/in)
-   and upload this data in the Peduli Lindungi app. You will receive a QR Code
-   which can be scanned, for example if you want to enter malls, restaurants and
-   other public places.
+7. The traveller must retake a PCR Test on the fourth day __(for 5 days
+quarantine)__. If the PCR test is negative, the traveller can continue their
+journey. 
+
+8. If the PCR test is positive, travellers with mild or no symptoms have to
+continue the quarantine in the accommodation and it is recommended to continue
+with the self-quarantine for 14 days. The travellers with severe symptoms will
+be treated in the hospital. The hospital cost for foreign citizens will be borne
+by themselves, and for Indonesian citizens will be borne by the Indonesian
+Government.
+
+9.Register the vaccination received abroad through the following website of the
+Indonesian Ministry of Health:
+[https://vaksinln.dto.kemkes.go.id/sign/in](https://vaksinln.dto.kemkes.go.id/sign/in)
+and upload this data in the Peduli Lindungi app. You will receive a QR Code
+which can be scanned, for example if you want to enter malls, restaurants and
+other public places.
 
 Detailed explanation of the Indonesian health protocol can be viewed
 [https://kemlu.go.id/thehague/en/lists/covid-19/792/etc-category-menu](https://kemlu.go.id/thehague/en/lists/covid-19/792/etc-category-menu)
