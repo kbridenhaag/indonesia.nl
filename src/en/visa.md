@@ -262,12 +262,14 @@ The Indonesian government has issued a special health protocol for international
 
 1. Show a result of negative PCR Test that was taken maximum __48 hours before departure__.
 
-2. Show proof/certificate of a __full dose COVID-19 vaccination__ minimum 14 days
-before the date of travel, e.g., stamp in the yellow vaccination book and print
-out the international QR code from the CoronaCheck website:
-[https://coronacheck.nl/nl/print/](https://coronacheck.nl/nl/print/)
+2. Show proof/certificate of a __full dose COVID-19 vaccination (at least 2
+vaccines, or 1 for the Johnson&Johnson vaccine)__ minimum 14 days before the date
+of travel, e.g., stamp in the yellow vaccination book and print out the
+international QR code from the CoronaCheck
+website: [https://coronacheck.nl/nl/print/](https://coronacheck.nl/nl/print/)
+
 - International travellers aged 0 – 17,99 are not required to show Covid-19 vaccination proof
-- Any proof of Covid-19 recovery __does not__ count as vaccination 
+- Any proof of Covid-19 recovery does not count as vaccination 
 
 3. Show proof of being in the possession of health insurance that covers medical expenses and Covid-19 treatment.
 
