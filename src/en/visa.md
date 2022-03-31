@@ -1,7 +1,7 @@
 ---
 title: Travel restrictions due to COVID-19
 layout: "single.njk"
-updated: 2022-03-24
+updated: 2022-03-31
 includeToc: True
 eleventyNavigation:
   key: Travel restrictions due to COVID-19
@@ -28,48 +28,48 @@ the following conditions:
 
 ### Eligible nationalities:
 
-- Argentina
-- Australia
-- Belgium
-- Brazil
-- Brunei Darussalam
-- Cambodia
-- Canada
-- China
-- Denmark
-- Finland
-- France
-- Germany
-- Hungary
-- India
-- Italy
-- Japan
-- Laos
-- Malaysia
-- Mexico
-- Myanmar
-- Netherlands
-- New Zealand
-- Norway
-- Philippines
-- Poland
-- Qatar
-- Saudi Arabia
-- Seychelles
-- Singapore
-- South Africa
-- South Korea
-- Spain
-- Sweden
-- Switzerland
-- Taiwan
-- Thailand
-- Tunisia
-- Turkiye (Turkey)
-- United Arab Emirates
-- United Kingdom
-- United States of America
-- Vietnam
+1. Argentina
+2. Australia
+3. Belgium
+4. Brazil
+5. Brunei Darussalam
+6. Cambodia
+7. Canada
+8. China
+9. Denmark
+10. Finland
+11. France
+12. Germany
+13. Hungary
+14. India
+15. Italy
+16. Japan
+17. Laos
+18. Malaysia
+19. Mexico
+20. Myanmar
+21. Netherlands
+22. New Zealand
+23. Norway
+24. Philippines
+25. Poland
+26. Qatar
+27. Saudi Arabia
+28. Seychelles
+29. Singapore
+30. South Africa
+31. South Korea
+32. Spain
+33. Sweden
+34. Switzerland
+35. Taiwan
+36. Thailand
+37. Tunisia
+38. Turkiye (Turkey)
+39. United Arab Emirates
+40. United Kingdom
+41. United States of America
+42. Vietnam
 
 The Visa on Arrival costs Rp. 500.000 and is valid for 30 days. The Visa on
 Arrival can get extended once, with 30 days, at a local Immigration Office in
@@ -81,7 +81,7 @@ permit.
 - Official national passport with a minimum validity of 6 months from the entry date
 - Copy of a return ticket, or ticket continuing the journey to another country
 - Documents required in accordance with the provisions of the Indonesian Health Protocol issued by the Covid-19 Task Force.
-  In case of a governmental visit, the traveller must also attach an invitation letter regarding the attending of a meeting / conference issued by the Indonesian Ministry / Department / Institutions concerned 
+- In case of a governmental visit, the traveller must also attach an invitation letter regarding the attending of a meeting / conference issued by the Indonesian Ministry / Department / Institutions concerned 
 
 While it is only possible to enter the country with a Visa On Arrival through I
 Gusti Ngurah Rai International Airport (Bali), the foreigner can exit the
@@ -191,31 +191,31 @@ in the Batam and Bintan region, under the following conditions:
 
 #### Eligible nationalities
 
-- Australia
-- Brunei Darussalam
-- Cambodia
-- Canada
-- China
-- France
-- Germany
-- India
-- Italy
-- Japan
-- Laos
-- Malaysia
-- Mexico
-- Myanmar
-- Netherlands
-- Philippines
-- Saudi Arabia
-- Singapore
-- South Korea
-- Spain
-- Taiwan
-- Thailand
-- United Kingdom
-- United States of America
-- Vietnam
+1. Australia
+2. Brunei Darussalam
+3. Cambodia
+4. Canada
+5. China
+6. France
+7. Germany
+8. India
+9. Italy
+10. Japan
+11. Laos
+12. Malaysia
+13. Mexico
+14. Myanmar
+15. Netherlands
+16. Philippines
+17. Saudi Arabia
+18. Singapore
+19. South Korea
+20. Spain
+21. Taiwan
+22. Thailand
+23. United Kingdom
+24. United States of America
+25. Vietnam
 
 The Visa on Arrival costs Rp. 500.000 and is valid for 30 days. The Visa on
 Arrival can get extended once, with 30 days, at a local Immigration Office in
@@ -228,12 +228,11 @@ permit.
 - Copy of a return ticket, or ticket continuing the journey to another country
 - Documents required in accordance with the provisions of the Indonesian Health Protocol issued by the Covid-19 Task Force
 - Permanent Residence Permit in Singapore (except for Singapore nationals)
-- In case of a governmental visit, the traveller must also attach an invitation letter regarding the attending of a meeting / conference issued by 
-  the Indonesian Ministry Department / Institutions concerned
+- In case of a governmental visit, the traveller must also attach an invitation letter regarding the attending of a meeting / conference issued by the Indonesian Ministry Department / Institutions concerned
 
-### Visa Exemption (Free Visa)
+## Visa Exemption (Free Visa)
 
-#### Eligible nationalities
+### Eligible nationalities
 
 - Brunei Darussalam
 - Cambodia
@@ -248,7 +247,7 @@ permit.
 Visa exemption (Free Visa) is valid for a __maximum of 14 days__ and cannot get
 extended nor converted into another type of stay permit.
 
-#### Requirements
+### Requirements
 
 - Official national passport with a minimum validity of 6 months from the entry date
 - Copy of a return ticket, or ticket continuing the journey to another country
@@ -267,33 +266,34 @@ The Indonesian government has issued a special health protocol for international
 before the date of travel, e.g., stamp in the yellow vaccination book and print
 out the international QR code from the CoronaCheck website:
 [https://coronacheck.nl/nl/print/](https://coronacheck.nl/nl/print/)
+- International travellers aged 0 – 17,99 are not required to show Covid-19 vaccination proof
+- Any proof of Covid-19 recovery __does not__ count as vaccination 
 
-3. Show proof of being in the possession of health insurance that covers medical expenses and Covid-19 treatment with a minimum coverage of USD 25.000.
+3. Show proof of being in the possession of health insurance that covers medical expenses and Covid-19 treatment.
 
-4. Show proof of a __hotel booking__:
+4. Show proof of booking of accommodation:
+- You can find a [list of hotels in Bali here](https://www.welcomebacktobali.com/blog/travellers-info/chse-certified-hotels-in-bali)
+- Bearers of an Indonesian residence permit (KITAS/P), or Indonesians, who do domicile in Bali, Batam or Bintan, can go to their homes after their PCR test.
 
-* Indonesians and bearers of an Indonesian visa or residence permit (KITAS/P),
-who __do not domicile in Bali, Batam or Bintan__ must have a hotel booking for __at least 4 days & 3 nights stay__. You can find [a list of CHSE certified hotels in Bali here](https://www.welcomebacktobali.com/blog/travellers-info/chse-certified-hotels-in-bali)
+5. Undergo a PCR test on arrival. The traveller must stay inside the hotel room
+or their own accommodation until receiving the PCR test result. If the PCR test
+is negative, the traveller is allowed to go outside of the hotel’s premises and
+travel within either the Bali, Batam or Bintan region.  If the PCR test was
+positive, travellers with mild or no symptoms have to continue the quarantine in
+the accommodation and it is recommended to continue with the self-quarantine for
+5 days. The travellers with severe symptoms will be treated in the hospital. The
+hospital cost for foreign citizens will be borne by themselves, and for
+Indonesian citizens will be borne by the Indonesian Government. On day 5, the
+traveller must undergo a second PCR test. If the test result is negative, the
+traveller can continue their travel activities on day 6.
 
-* Indonesians and bearers of an Indonesian residence permit (KITAS/P), who __do domicile in Bali, Batam or Bintan__, can go to their homes after their PCR test
-
-5. Undergo a PCR test on arrival. The traveller must stay inside the hotel room until receiving the PCR test result. If the PCR test is negative, the traveller is allowed to go outside of the hotel’s premises and travel within either the Bali, Batam or Bintan region. If the PCR test was positive, travellers with mild or no symptoms have to continue the quarantine in the accommodation and it is recommended to continue with the self-quarantine for 14 days. The travellers with severe symptoms will be treated in the hospital. The hospital cost for foreign citizens will be borne by themselves, and for Indonesian citizens will be borne by the Indonesian Government.
-
-6. On the third day after the arrival, they must undergo another PCR test at the
-accommodation. If the PCR test is negative, the traveller can continue their
-activities on Bali, Batam or Bintan.
-
-7.	On the fourth day after the arrival, and after receiving a negative test
-result on the third day, the traveller is allowed to travel to other islands
-outside of the Bali, Batam, or Bintan region.
-
-8.	Register the vaccination received abroad through the following website of the
-Indonesian Ministry of Health:
-[https://vaksinln.dto.kemkes.go.id/sign/in](https://vaksinln.dto.kemkes.go.id/sign/in)
-and upload this data in the Peduli Lindungi app. You will receive a QR Code
-which can be scanned, for example if you want to enter malls, restaurants and
-other public places.
-
+6. Register the vaccination received abroad through the following website of the
+Indonesian Ministry of
+Health: [https://vaksinln.dto.kemkes.go.id/sign/in](https://vaksinln.dto.kemkes.go.id/sign/in) and
+upload this data in the Peduli Lindungi app. You will receive a QR Code which
+can be scanned, for example if you want to enter malls, restaurants and other
+public places. Ground staff at the airport can help to intergrate the data in
+the Peduli Lindungi app
 
 ### Health protocol and quarantine regulations for other Indonesian regions
 
@@ -304,43 +304,51 @@ quarantine regulations. The international traveller must:
 1. Show a result of negative PCR Test that was taken maximum **48 hours before
    departure**.
 
+2. Show proof/certificate of a __full dose COVID-19 vaccination (at least 2
+vaccines,or 1 for the Johnson&Johnson vaccine)__ minimum 14 days before the date
+of travel, e.g., stamp in the yellow vaccination book and print out the
+international QR code from the CoronaCheck
+website: [https://coronacheck.nl/nl/print/](https://coronacheck.nl/nl/print/) 
+
+-International travellers aged 0 – 17,99 are not required to show Covid-19
+vaccination proof 
+- Any proof of Covid-19 recovery __does not__ count as vaccination
+
 2. Show proof/certificate of a **full dose COVID-19 vaccination** minimum
    14 days before the date of travel, e.g., stamp in the yellow vaccination book
    and print out the international QR code from the CoronaCheck website:
    [https://coronacheck.nl/nl/print/](https://coronacheck.nl/nl/print/)
 
-3. Show proof of hotel booking. You can find [a list of CHSE certified hotels here](https://quarantinehotelsjakarta.com/).
+3. Show proof of hotel booking. You can find a list of hotels [here](https://quarantinehotelsjakarta.com/)
 
-4. Show proof of being in the possession of health insurance that covers medical expenses and Covid-19 treatment with a minimum coverage of USD 25.000.
+4. Show proof of being in the possession of health insurance that covers medical expenses and Covid-19 treatment.
 
 5. Undergo a PCR test on arrival. 
 
-6.	Follow the mandatory procedures at the hotel near your point of entry, under the following conditions:
--	__Quarantine for 5 days__ for those who have only received 1 dose of COVID-19 Vaccines 
--	Those who have received 2 and 3 doses of COVID-19 Vaccines must stay inside their hotel room until receiving the  PCR test result. If the PCR test result is negative the traveller can continue their journey;
--	For foreign travellers under 18 years the duration of quarantine follows provisions that apply to parents or caregiver/travel companion.
+6. Follow the mandatory procedures at the hotel near your point of entry, under the following conditions:
 
+- Quarantine for 5 days for those who have only received 1 dose of COVID-19 Vaccines 
 
-7. The traveller must retake a PCR Test on the fourth day __(for 5 days
-quarantine)__. If the PCR test is negative, the traveller can continue their
-journey. 
+- Those who have received 2 and 3 doses of COVID-19 Vaccines must stay inside their hotel room until receiving the  PCR test result. If the PCR test result is negative the traveller can continue their journey;
 
-8. If the PCR test is positive, travellers with mild or no symptoms have to
-continue the quarantine in the accommodation and it is recommended to continue
-with the self-quarantine for 14 days. The travellers with severe symptoms will
-be treated in the hospital. The hospital cost for foreign citizens will be borne
-by themselves, and for Indonesian citizens will be borne by the Indonesian
-Government.
+7. The traveller must retake a PCR Test on the fourth day (for 5 days
+quarantine). If the PCR test is negative, the traveller can continue their
+journey.  If the PCR test is positive, travellers with mild or no symptoms have
+to continue the quarantine in the accommodation and it is recommended to
+continue with the self-quarantine for 14 days. The travellers with severe
+symptoms will be treated in the hospital. The hospital cost for foreign citizens
+will be borne by themselves, and for Indonesian citizens will be borne by the
+Indonesian Government.
 
-9.Register the vaccination received abroad through the following website of the
-Indonesian Ministry of Health:
-[https://vaksinln.dto.kemkes.go.id/sign/in](https://vaksinln.dto.kemkes.go.id/sign/in)
-and upload this data in the Peduli Lindungi app. You will receive a QR Code
-which can be scanned, for example if you want to enter malls, restaurants and
-other public places.
+8. Register the vaccination received abroad through the following website of the
+Indonesian Ministry of
+Health: [https://vaksinln.dto.kemkes.go.id/sign/in](https://vaksinln.dto.kemkes.go.id/sign/in) and
+upload this data in the Peduli Lindungi app. You will receive a QR Code which
+can be scanned, for example if you want to enter malls, restaurants and other
+public places. Ground staff at the airport can help to intergrate the data in
+the Peduli Lindungi app.
 
-Detailed explanation of the Indonesian health protocol can be viewed
-[https://kemlu.go.id/thehague/en/lists/covid-19/792/etc-category-menu](https://kemlu.go.id/thehague/en/lists/covid-19/792/etc-category-menu)
+Detailed explanation of the [Indonesian health protocol can be viewed here](https://kemlu.go.id/thehague/en/lists/covid-19/792/etc-category-menu).
 
 ## KITAS/KITAP Extension
 
