@@ -1,14 +1,14 @@
 ---
-  title: Membuat paspor pertama untuk anak 
+  title: Membuat atau memperbaharui paspor untuk anak dibawah 17 tahun
   includeToc: true
   eleventyNavigation:
-    key: Membuat paspor pertama untuk anak
+    key: Membuat atau memperbaharui paspor untuk anak dibawah 17 tahun 
     parent: Layanan Paspor
-    excerpt: Layanan ini ditunjukkan untuk WNI yang ingin membuat paspor baru untuk anak baru lahir. 
+    excerpt: Layanan ini ditunjukkan untuk WNI yang ingin membuat atau memperbaharui paspor baru untuk anak.
     order: 2
 ---
 
-Halaman ini adalah mengenai membuat permohonan untuk paspor Indonesia pertama anak.
+Layanan ini ditunjukkan untuk WNI yang ingin membuat paspor baru untuk anak baru lahir dan/atau penggantian paspor RI anak dibawah 17 tahun.
 
 ## Biaya
 
@@ -31,6 +31,12 @@ Anda perlu menyediakan semua dokumen yang diperlukan dalam permohonan Anda. Seba
 - Fotocopy kutipan akte kelahiran (geboorteakte) anak
 - Surat keterangan sebagai penduduk di suatu Gemeente (GBA)
 - Paspor asing anak jika memiliki kewarganegaraan ganda
+
+<div class="kbrinl-inset-text">
+  Untuk anak kewarganegaraan ganda yang lahir sebelum 1
+  Agustus 2006, WAJIB membawa fotocopy SK Menteri Hukum dan HAM RI
+</div>
+
 
 ## Mulai permohonan Anda
 
