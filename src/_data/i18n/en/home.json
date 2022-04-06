@@ -6,9 +6,9 @@
     "text": "For Indonesian citizens with emergencies, please call:"
   },
   "alert": {
-    "enabled": "false",
-    "text": "Read the latest health protocols due to COVID-19 before travelling to Indonesia.",
-    "href": "/en/the-latest-health-protocol-on-international-travel-to-indonesia-during-covid-19-pandemic/",
+    "enabled": "true",
+    "text": "There are updates on International Travels to Indonesia during COVID-19 Pandemic.",
+    "href": "https://kemlu.go.id/thehague/en/read/protokol-kesehatan-terbaru-perjalanan-internasional-ke-indonesia-di-masa-pandemi-covid-19/4454/etc-menu",
     "moreInformation": "More information"
   },
   "services": {
