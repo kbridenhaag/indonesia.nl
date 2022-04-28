@@ -9,20 +9,23 @@
 {% block main %}
   <main class="app-main-wrapper app-main-wrapper--home" id="main-content">
     {% include "home-hero.njk" %}
-
     <div class="kbrinl-width-container">
-    {% if alertText %}
-        <div class="kbrinl-warning-text kbrinl-!-margin-bottom-8">
-          <span class="kbrinl-warning-text__icon" aria-hidden="true">!</span>
-          <strong class="kbrinl-warning-text__text cms-content">
-            <span class="kbrinl-warning-text__assistive">Note</span>
-            {{ alertText }}
-            {% if alertHref %}
-              <a class="kbrinl-link" href="{{alertHref}}">{{ 'home.alert.moreInformation' | i18n }}</a>
-            {% endif %}
-          </strong>
-        </div>
-      {% endif %}
+    {% if alerts[locale] | length %}
+      <div class="kbrinl-!-margin-bottom-8">
+        {% for alert in (alerts[locale]) %}
+          <div class="kbrinl-warning-text">
+            <span class="kbrinl-warning-text__icon" aria-hidden="true">!</span>
+            <strong class="kbrinl-warning-text__text cms-content">
+              <span class="kbrinl-warning-text__assistive">Note</span>
+              {{ alert.text }}
+              {% if alert.href %}
+                <a class="kbrinl-link" href="{{alert.href}}">{{ 'home.alert.moreInformation' | i18n }}</a>
+              {% endif %}
+            </strong>
+          </div>
+        {% endfor %}
+      </div>
+    {% endif %}
 
       <h2 class="kbrinl-heading-l">{{ 'home.openingHoursAndHolidays.title' | i18n }}</h2>
       <div class="kbrinl-grid-row">
