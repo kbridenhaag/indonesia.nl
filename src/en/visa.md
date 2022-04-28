@@ -1,7 +1,7 @@
 ---
 title: Travel restrictions due to COVID-19
 layout: "single.njk"
-updated: 2022-04-07
+updated: 2022-04-28
 includeToc: True
 eleventyNavigation:
   key: Travel restrictions due to COVID-19
@@ -14,7 +14,7 @@ Due to the covid-19 pandemic the Embassy of the Republic of Indonesia in The Hag
 
 ## Visa on Arrival (VOA) for foreign travellers
 
-The Indonesian Government has reopened its Visa on Arrival services for tourism or governmental visit, at the following entry points:
+The Indonesian Government has reopened its Visa on Arrival services for __tourism or governmental visit__, at the following entry points:
 
 ### Airports
 
@@ -48,47 +48,65 @@ The Indonesian Government has reopened its Visa on Arrival services for tourism 
 
 1. Argentina
 2. Australia
-3. Belgium
-4. Brazil
-5. Brunei Darussalam
-6. Cambodia
-7. Canada
-8. China
-9. Denmark
-10. Finland
-11. France
-12. Germany
-13. Hungary
-14. India
-15. Italy
-16. Japan
-17. Laos
-18. Malaysia
-19. Mexico
-20. Myanmar
-21. Netherlands
-22. New Zealand
-23. Norway
-24. Philippines
-25. Poland
-26. Qatar
-27. Saudi Arabia
-28. Seychelles
-29. Singapore
-30. South Africa
-31. South Korea
-32. Spain
-33. Sweden
-34. Switzerland
-35. Taiwan
-36. Thailand
-37. Timor Leste
-38. Tunisia
-39. Turkiye (Turkey)
-40. United Arab Emirates
-41. United Kingdom
-42. United States of America
-43. Vietnam
+3. Austria
+4. Belgium
+5. Brazil
+6. Brunei
+7. Darussalam
+8. Bulgaria
+9. Cambodia
+10. Canada
+11. China
+12. Croatia
+13. Cyprus
+14. Czech Republic
+15. Denmark
+16. Estonia
+17. Finland
+18. France
+19. Germany
+20. Greece
+21. Hong Kong
+22. Hungary
+23. India
+24. Ireland
+25. Italy
+26. Japan
+27. Laos
+28. Latvia
+29. Lithuania
+30. Luxembourg
+31. Malaysia
+32. Malta
+33. Mexico
+34. Myanmar
+35. Netherlands
+36. New Zealand
+37. Norway
+38. Philippines
+39. Poland
+40. Portugal
+41. Qatar
+42. Rumania
+43. Saudi Arabia 
+44. Seychelles
+45. Singapore
+46. Slovakia
+47. Slovenia
+48. South Africa 
+49. South Korea
+50. Spain
+51. Sweden
+52. Switzerland
+53. Taiwan
+54. Thailand
+55. Timor Leste
+56. Tunisia
+57. Turkey
+58. United Arab Emirates
+59. United Kingdom
+60. United States of America 
+61. Vietnam
 
 The Visa on Arrival costs Rp. 500.000 and is valid for 30 days. The Visa on
 Arrival can get extended once, with 30 days, at a local Immigration Office in
@@ -105,7 +123,7 @@ permit.
 
 ## Visa exemption (Free visa < 30 days)
 
-The Indonesian Government has also reopened its Visa Exemption Services for tourism and governmental visit at the same entry points as mentioned above. Only the following nationalities are eligible for the Visa Exemption:
+The Indonesian Government has also reopened its Visa Exemption Services for tourism and governmental visit at the same entry points as mentioned __above__. Only the following nationalities are eligible for the Visa Exemption:
 
 1. Brunei Darussalam
 2. Cambodia 
@@ -191,8 +209,8 @@ Indonesia, must follow the following health protocols and quarantine
 regulations. The international traveller must:
 
 1. Show proof of being in the possession of health/travel insurance that covers
-medical expenses and Covid-19 treatment while abroad.  2. Show a result of
-negative PCR test that was taken maximum __48 hours before departure__.
+medical expenses and Covid-19 treatment while abroad.  
+2. Show a result of negative PCR test that was taken maximum __48 hours before departure__.
 3. Show proof/certificate of a __full dose COVID-19 vaccination (at least 2 vaccines,or 1
 for the Johnson&Johnson vaccine)__ minimum 14 days before the date of travel,
 e.g., stamp in the yellow vaccination book and print out the international QR
@@ -211,15 +229,15 @@ departure.
 Indonesian Ministry of Health: [https://vaksinln.dto.kemkes.go.id/sign/in](https://vaksinln.dto.kemkes.go.id/sign/in) and
 upload this data in the Peduli Lindungi app. You will receive a QR Code which
 can be scanned, for example if you want to enter malls, restaurants and other
-public places. Ground staff at the airport can help to intergrate the data in
-the Peduli Lindungi app.
+public places. __Ground staff at the airport can help to intergrate the data in
+the Peduli Lindungi app__.
 5. Upon arrival International travellers are submitted to a health check.
 
 - Those who have received __2 and 3 doses__ of COVID-19 vaccines and have passed the health check are allowed to continue their travels
 - For those who have not received or only received 1 dose of COVID-19 Vaccines, they have to undergo __quarantine for 5 days__ at their own expense
-- If the traveller has Covid related symptoms and/or their body temperature is higher than 37,5 degrees during the health check, they must retake a PCR test at the airport and wait for their result. After receiving a negative PCR test result the traveller is allowed to continue their activities. If the PCR test is positive, travellers with mild or no symptoms have to quarantine for 5 days in their accomodation
-- To those who undergo the 5 days quarantine, travellers must retake another PCR test on the fourth day.
-- International travellers under 18 follow the provisions applied to their parents/caregiver or travel companion.
+-. If the traveller has Covid related symptoms and/or their body temperature is higher than 37,5 degrees during the health check, they must retake a PCR test at the airport and wait for their result. After receiving a negative PCR test result the traveller is allowed to continue their activities. If the PCR test is positive, travellers with mild or no symptoms have to quarantine for 5 days in their accommodation
+-. To those who undergo the 5 days quarantine, travellers must retake another PCR test on the fourth day.
+-. International travellers under 18 follow the provisions applied to their parents/caregiver or travel companion.
 
 ## KITAS/KITAP Extension
 
