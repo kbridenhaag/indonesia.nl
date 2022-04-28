@@ -1,9 +1,28 @@
-<div class="app-crisis-banner">
-  <div class="kbrinl-width-container app-crisis-banner__content app-cms-content">
-    <span class="app-crisis-banner__title">COVID-19 notice</span>
-    <p>
-    Lorem ipsum dolor sit amet consectetur adipisicing elit. Quas id sint voluptas illo exercitationem, eum vitae. <a href="/">More information</a>
-    </p>
-    <span class="app-crisis-banner__updated">Terakhir diperbarui: 1 Mei 2021 jam 21:54</span>
+{% set crisisInfo = crisis[locale] %}
+
+{% if crisisInfo %}
+  {% set crisisBannerModifierClass %}
+    {% if crisisInfo.level == 'medium' %}
+      app-crisis-banner--medium
+    {% elseif crisisInfo.level == 'critical' %}
+      app-crisis-banner--critical
+    {% endif %}
+  {% endset %}
+
+  <div class="app-crisis-banner {{ crisisBannerModifierClass }}">
+    <div class="kbrinl-width-container app-crisis-banner__content app-cms-content">
+      <h2 class="app-crisis-banner__title">{{ crisisInfo.title }}</h2>
+      {{ crisisInfo.content | safe }}
+
+      {% set lastUpdated %}
+        {% if locale == "en" %}
+          {{ crisisInfo.updatedAt | formatDateEn }} at {{ crisisInfo.updatedAt | formatTime }}
+        {% else %}
+          {{ crisisInfo.updatedAt | formatDateEn }} jam {{ crisisInfo.updatedAt | formatTime }}
+        {% endif %}
+      {% endset %}
+
+      <span class="app-crisis-banner__updated">{{ 'common.lastUpdated' | i18n }}: {{ lastUpdated }}</span>
+    </div>
   </div>
-</div>
+{% endif %}

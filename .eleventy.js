@@ -67,6 +67,12 @@ module.exports = (eleventyConfig) => {
     })
   });
 
+  eleventyConfig.addNunjucksFilter("formatTime", (date) => {
+    return dateFns.format(new Date(date), "HH:mm", {
+      locale: idLocale
+    })
+  });
+
   return {
     markdownTemplateEngine: 'njk',
     dir: {
