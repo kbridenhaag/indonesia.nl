@@ -1,6 +1,6 @@
 {% set crisisInfo = crisis[locale] %}
 
-{% if crisisInfo %}
+{% if crisisInfo.level %}
   {% set crisisBannerModifierClass %}
     {% if crisisInfo.level == 'medium' %}
       app-crisis-banner--medium
@@ -13,16 +13,18 @@
     <div class="kbrinl-width-container app-crisis-banner__content app-cms-content">
       <h2 class="app-crisis-banner__title">{{ crisisInfo.title }}</h2>
       {{ crisisInfo.content | safe }}
+      
+      {% if crisisInfo.updatedAt %}
+        {% set lastUpdated %}
+          {% if locale == "en" %}
+            {{ crisisInfo.updatedAt | formatDateEn }} at {{ crisisInfo.updatedAt | formatTime }}
+          {% else %}
+            {{ crisisInfo.updatedAt | formatDateEn }} jam {{ crisisInfo.updatedAt | formatTime }}
+          {% endif %}
+        {% endset %}
 
-      {% set lastUpdated %}
-        {% if locale == "en" %}
-          {{ crisisInfo.updatedAt | formatDateEn }} at {{ crisisInfo.updatedAt | formatTime }}
-        {% else %}
-          {{ crisisInfo.updatedAt | formatDateEn }} jam {{ crisisInfo.updatedAt | formatTime }}
-        {% endif %}
-      {% endset %}
-
-      <span class="app-crisis-banner__updated">{{ 'common.lastUpdated' | i18n }}: {{ lastUpdated }}</span>
+        <span class="app-crisis-banner__updated">{{ 'common.lastUpdated' | i18n }}: {{ lastUpdated }}</span>
+      {% endif %}
     </div>
   </div>
 {% endif %}
