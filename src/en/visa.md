@@ -8,6 +8,17 @@ eleventyNavigation:
   parent: Home
 ---
 
+There are still travel restrictions for foreign nationals into the territory of
+the Republic of Indonesia. Those who are in the possession of a valid Indonesian
+residence permit (KITAS / KITAP), or (electronic) Visa are allowed to enter the
+country.
+
+Due to the covid-19 pandemic the Embassy of the Republic of Indonesia in The
+Hague cannot issue regular visas. (e)Visa applications must be submitted by the
+Indonesian sponsor to the Directorate General of Immigration – Jakarta:
+[https://visa-online.imigrasi.go.id/](https://visa-online.imigrasi.go.id/)
+
+
 At the moment there are still travel restrictions for foreign nationals into the territory of the Republic of Indonesia. Those who are in the possession of a valid Indonesian residence permit (KITAS / KITAP), or (electronic) Visa are allowed to enter the country.
 
 Due to the covid-19 pandemic the Embassy of the Republic of Indonesia in The Hague is not authorized to issue regular visas until the pandemic is declared over. 
@@ -112,19 +123,18 @@ The Indonesian Government has reopened its Visa on Arrival services for __touris
 59.	United States of America 
 60.	Vietnam
 
-
 The Visa on Arrival costs Rp. 500.000 and is valid for 30 days. The Visa on
 Arrival can get extended once, with 30 days, at a local Immigration Office in
-Indonesia. The Visa on Arrival cannot be converted into another type of stay
-permit.
+Indonesia with an extension fee of Rp. 500.000. The Visa on Arrival cannot be
+converted into another type of stay permit.
 
 ### Requirements
 
-1. Official national passport with a minimum validity of 6 months from the entry date
-2. Copy of a return ticket, or ticket continuing the journey to another country
-3. Show proof of being in the possession of health insurance that covers medical expenses and Covid-19 treatment.
-4. Documents required in accordance with the provisions of the Indonesian Health Protocol issued by the Covid-19 Task Force.
-5. In case of a governmental visit, the traveller must also attach an invitation letter regarding the attending of a meeting / conference issued by the Indonesian Ministry / Department / Institutions concerned
+1.	Official national passport with a minimum validity of 6 months from the entry date
+2.	Copy of a return ticket, or ticket continuing the journey to another country
+3.	Show proof of being in the possession of health insurance that covers medical expenses and Covid-19 treatment.
+4.	Documents required in accordance with the provisions of the Indonesian Health Protocol issued by the Covid-19 Task Force.
+5.	In case of a governmental visit, the traveller must also attach an invitation letter regarding the attending of a meeting / conference issued by the Indonesian Ministry / Department / Institutions concerned
 
 ## Visa exemption (Free visa < 30 days)
 
@@ -152,12 +162,13 @@ The Visa Exemption is valid for a maximum of 30 days, and cannot get extended no
 
 ## Electronic Visa (eVisa) from the Directorate General of Immigration – Jakarta
 
-If you are not eligible for a Visa on Arrival or wish to stay longer than 60
-days, your Indonesian sponsor has to submit a visa application through the
-website of the Directorate General of Immigration - Jakarta,
-via: [https://visa-online.imigrasi.go.id/](https://visa-online.imigrasi.go.id/). Tourist visa applications must be
-submitted by an Indonesian visa/travel agent or hotel. An E-Visa will be issued
-for the following purposes:
+If you are not eligible for a Visa on Arrival and/or have a visiting purpose
+matching the ones mentioned below, your Indonesian sponsor has to submit a visa
+application through the website of the Directorate General of Immigration -
+Jakarta, via:
+[https://visa-online.imigrasi.go.id/](https://visa-online.imigrasi.go.id/).
+Tourist visa applications must be submitted by an Indonesian visa/travel agent
+or hotel. An E-Visa will be issued for the following purposes:
 
 ### Visit Visa (B211 - 60 days; extendable up to 4 times (30 days/extension)
 
