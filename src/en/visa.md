@@ -8,15 +8,15 @@ eleventyNavigation:
   parent: Home
 ---
 
+There are still travel restrictions for foreign nationals into the territory of
+the Republic of Indonesia. Those who are in the possession of a valid Indonesian
+residence permit (KITAS / KITAP), or (electronic) Visa are allowed to enter the
+country.
+
 Due to the covid-19 pandemic the Embassy of the Republic of Indonesia in The
 Hague cannot issue regular visas. (e)Visa applications must be submitted by the
 Indonesian sponsor to the Directorate General of Immigration – Jakarta:
 [https://visa-online.imigrasi.go.id/](https://visa-online.imigrasi.go.id/)
-
-
-At the moment there are still travel restrictions for foreign nationals into the territory of the Republic of Indonesia. Those who are in the possession of a valid Indonesian residence permit (KITAS / KITAP), or (electronic) Visa are allowed to enter the country.
-
-Due to the covid-19 pandemic the Embassy of the Republic of Indonesia in The Hague is not authorized to issue regular visas until the pandemic is declared over. 
 
 ## Visa on Arrival (VOA) for foreign travellers
 
