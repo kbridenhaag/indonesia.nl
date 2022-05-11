@@ -1,7 +1,7 @@
 ---
 title: Travel restrictions due to COVID-19
 layout: "single.njk"
-updated: 2022-04-28
+updated: 2022-05-11
 includeToc: True
 eleventyNavigation:
   key: Travel restrictions due to COVID-19
@@ -25,17 +25,22 @@ The Indonesian Government has reopened its Visa on Arrival services for __touris
 5. Hasanuddin, South Sulawesi
 6. Sam Ratulangi, North Sulawesi
 7. Yogyakarta, Special Region of Yogyakarta
+8. Zainuddin Abdul Majid, West Nusa Tenggara
+9. Hang Nadim, Riau Islands
 
 ### Seaports
 
-1. Nongsa Terminal Bahari, Riau Islands
-2. Batam Centre, Riau Islands
-3. Sekupang, Riau Islands
-4. Citra Tri Tunas, Riau Islands
-5. Marina Teluk Senimba, Riau Islands
-6. Bandar Bentan Telani Lagoi, Riau Islands
-7. Bandar Seri Udana Lobam, Riau Islands
-8. Sri Bintan Pura, Riau Islands
+1. Benoa, Bali
+2. Dumai, Pekanbaru
+3. Nongsa Terminal Bahari, Riau Islands
+4. Batam Centre, Riau Islands
+5. Sekupang, Riau Islands
+6. Citra Tri Tunas, Riau Islands
+7. Marina Teluk Senimba, Riau Islands
+8. Bandar Bentan Telani Lagoi, Riau Islands
+9. Bandar Seri Udana Lobam, Riau Islands
+10. Sri Bintan Pura, Riau Islands
+11. Tanjung Balai Karimun, Riau Islands
 
 ### Cross-border posts
 
@@ -51,62 +56,62 @@ The Indonesian Government has reopened its Visa on Arrival services for __touris
 3. Austria
 4. Belgium
 5. Brazil
-6. Brunei
-7. Darussalam
-8. Bulgaria
-9. Cambodia
-10. Canada
-11. China
-12. Croatia
-13. Cyprus
-14. Czech Republic
-15. Denmark
-16. Estonia
-17. Finland
-18. France
-19. Germany
-20. Greece
-21. Hong Kong
-22. Hungary
-23. India
-24. Ireland
-25. Italy
-26. Japan
-27. Laos
-28. Latvia
-29. Lithuania
-30. Luxembourg
-31. Malaysia
-32. Malta
-33. Mexico
-34. Myanmar
-35. Netherlands
-36. New Zealand
-37. Norway
-38. Philippines
-39. Poland
-40. Portugal
-41. Qatar
-42. Rumania
-43. Saudi Arabia 
-44. Seychelles
-45. Singapore
-46. Slovakia
-47. Slovenia
-48. South Africa 
-49. South Korea
-50. Spain
-51. Sweden
-52. Switzerland
-53. Taiwan
-54. Thailand
-55. Timor Leste
-56. Tunisia
-57. Turkey
-58. United Arab Emirates
-59. United Kingdom
-60. United States of America 
-61. Vietnam
+6. Brunei Darussalam
+7. Bulgaria
+8. Cambodia
+9. Canada
+10.	China
+11.	Croatia
+12.	Cyprus
+13.	Czech Republic
+14.	Denmark
+15.	Estonia
+16.	Finland
+17.	France
+18.	Germany
+19.	Greece
+20.	Hong Kong
+21.	Hungary
+22.	India
+23.	Ireland
+24.	Italy
+25.	Japan
+26.	Laos
+27.	Latvia
+28.	Lithuania
+29.	Luxembourg
+30.	Malaysia
+31.	Malta
+32.	Mexico
+33.	Myanmar
+34.	Netherlands
+35.	New Zealand
+36.	Norway
+37.	Philippines
+38.	Poland
+39.	Portugal
+40.	Qatar
+41.	Rumania
+42.	Saudi Arabia 
+43.	Seychelles
+44.	Singapore
+45.	Slovakia
+46.	Slovenia
+47.	South Africa 
+48.	South Korea
+49.	Spain
+50.	Sweden
+51.	Switzerland
+52.	Taiwan
+53.	Thailand
+54.	Timor Leste
+55.	Tunisia
+56.	Turkey
+57.	United Arab Emirates
+58.	United Kingdom
+59.	United States of America 
+60.	Vietnam
+
 
 The Visa on Arrival costs Rp. 500.000 and is valid for 30 days. The Visa on
 Arrival can get extended once, with 30 days, at a local Immigration Office in
@@ -158,18 +163,31 @@ for the following purposes:
 
 #### B211A
 
-- tourism;
-- an emergency and essential work;
-- a business meeting;
-- purchase of goods;
-- a medical, food, and humanitarian aid worker; and
-- a crew member who joins the vessel in Indonesia;
+-	tourism;
+-	medical assistance, food support, and humanitarian aid; 
+-	business meeting at a head-, or representative office (not to supervise production activities of producers/sellers);
+-	business discussion, negotiation, signing business contract (not to supervise production activities of producers/sellers);
+-	purchase of goods (not to supervise production activities of producers/sellers);
+-	a governmental visit;
+-	visiting places or activities in the framework of official government duties related to the G20;
+-	a crew member who joins the vessel in Indonesia;
+-	transit;
+-	participating in sport related activities at the invitation of the Indonesian government, international championships, or sport related activities by international sports organizations.
+
 
 #### B211B
-- a probationary period for foreign workers;
+-	probationary period for foreign workers;
+-	essential work/emergency: to carry out unplanned work that cannot be delegated/authorized to other people in the context of dealing with incidents caused by, natural disasters, main engine damage, or riots and are required to be handled immediately to avoid fatal losses for the company and/or the community in general
 
 ####  B211C
 - journalism / making a movie
+
+#### Additional information
+
+-	Single-Entry Visitor Visa (Index B211A, B211B, B211C) __issued before 16 April 2022__ can only be granted a __one-time extension__ of the Stay Permit with a maximum of 60 (sixty) days. The applicant must apply at the immigration office and pay a Stay Permit fee of IDR 2,000,000.
+-	Single-Entry Visitor Visa (Index B211A, B211B, B211C) __issued from 16 April 2022__ (valid for a stay of 60 or 180 days) __cannot be granted a Stay Permit extension__.
+-	Foreigners or Sponsors can still apply for a Visitor Visa within the Indonesian Territory (onshore visa) through the [Online Visa Approval application](https://visa-online.imigrasi.go.id/).
+
 
 ### Temporary stay visa (12 months)
 
@@ -193,14 +211,26 @@ A temporary stay visa will be granted to foreigners for a work activity and/or n
 - foreign investment (1 year);
 - foreign investment (2 years);
 
+##### C315
+
+- training
+
 ##### C316
 
 - study
 
 ##### C317
 
-- Family Reunification (Indonesian spouse, dependents of a foreigner who holds
-KITAS/KITAP, children from mixed marriage
+-	reunification with Indonesian spouse;
+-	joining a foreign spouse who holds an Indonesian residence permit (KITAS/KITAP);
+-	children from a mixed marriage (foreigner-indonesian) joining their parents;
+-	unmarried children under 18 from joining their foreign mother/father married to an Indonesian national;
+-	unmarried children under 18 joining their parents who hold an Indonesian residence permit (KITAS/KITAP);
+-	children who have a legal family relationship with the father/mother who has Indonesian nationality
+
+##### C318
+
+- repatriation for ex-Indonesian nationals who wish to live in Indonesia
 
 ## Health protocol and quarantine regulations
 
