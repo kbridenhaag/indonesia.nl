@@ -171,9 +171,11 @@ If you are not eligible for a Visa on Arrival and/or have a visiting purpose mat
 
 #### Additional information
 
-- Single-Entry Visitor Visa (Index B211A, B211B, B211C) issued before 16 April 2022 can only be granted a  **one-time extension**  of the Stay Permit with a maximum of 60 (sixty) days. The applicant must apply at the immigration office and pay a Stay Permit fee of IDR 2,000,000.
-- Single-Entry Visitor Visa (Index B211A, B211B, B211C) issued from 16 April 2022 (valid for a stay of 60 or 180 days) **cannot be granted a Stay Permit extension.**
-- Foreigners or Sponsors can still apply for a Visitor Visa within the Indonesian Territory (onshore visa) through the [Online Visa Approval](https://visa-online.imigrasi.go.id/) application.
+- Single-Entry Visitor Visa (Index B211A, B211B, B211C) issued __before 16 April 2022__, can still be granted 4 time extension of the Stay Permit, until a maximum stay of 180 days.
+- Single-Entry Visitor Visa (Index B211A, B211B, B211C) issued __from 16 April 2022__ valid for a maximum stay of 60 days, can be granted a 2 time Stay Permit extension (60 days/extension), until a maximum stay of 180 days.
+- Single-Entry Visitor Visa (Index B211A, B211B, B211C) issued __from 16 April 2022__ valid for a maximum stay of 180 days cannot be granted extension of the Stay Permit
+- The applicant must apply for the Stay Permit extension at the local immigration office and pay a fee of IDR 2.000.000.
+- Foreigners or Sponsors can still apply for a Visitor Visa within the Indonesian Territory (onshore visa) through the [Online Visa Approval](https://visa-online.imigrasi.go.id/) application. 
 
 ### 2. Temporary stay visa (12 months)
 
@@ -220,11 +222,12 @@ International travellers arriving into the territory of the Republic of Indonesi
   3. International travellers that have been tested positive for Covid-19 (max. 30 days prior to departure) and are not contagious, do not have to show proof of a full dose Covid-19 vaccination or negative PCR test prior to departure, under the condition that they must undergo a PCR test upon arrival and attach an **International Recovery Certificate** or doctor&#39;s certificate from their country of departure.
 4. Register the vaccination received abroad through the following website of the Indonesian Ministry of Health: [https://vaksinln.dto.kemkes.go.id/sign/in](https://vaksinln.dto.kemkes.go.id/sign/in) and upload this data in the Peduli Lindungi app. You will receive a QR Code which can be scanned, for example if you want to enter malls, restaurants and other public places. **Ground staff at the airport can help to integrate the data in the Peduli Lindungi app.**
 5. Upon arrival International travellers are submitted to a health check.
-  1. Those who have received **2 and 3 doses** of COVID-19 vaccines and have passed the health check are allowed to continue their travels
-  2. For those who have only received 1 dose of COVID-19 Vaccines, must undergo **quarantine for 5 days** at their own expense
-  3. If the traveller has Covid related symptoms and/or their body temperature is higher than 37,5 degrees during the health check, they must retake a PCR test at the airport and wait for their result. After receiving a negative PCR test result the traveller is allowed to continue their activities. If the PCR test is positive, travellers with mild or no symptoms have to quarantine for 5 days in their accommodation
-  4. To those who undergo the 5 days quarantine, travellers must retake another PCR test on the fourth day.
-  5. International travellers under 18 follow the provisions applied to their parents/caregiver or travel companion.
+
+- Those who have received **2 and 3 doses** of COVID-19 vaccines and have passed the health check are allowed to continue their travels
+- For those who have only received 1 dose of COVID-19 Vaccines, must undergo **quarantine for 5 days** at their own expense
+- If the traveller has Covid related symptoms and/or their body temperature is higher than 37,5 degrees during the health check, they must retake a PCR test at the airport and wait for their result. After receiving a negative PCR test result the traveller is allowed to continue their activities. If the PCR test is positive, travellers with mild or no symptoms have to quarantine for 5 days in their accommodation
+- To those who undergo the 5 days quarantine, travellers must retake another PCR test on the fourth day.
+- International travellers under 18 follow the provisions applied to their parents/caregiver or travel companion.
 
 ## KITAS/KITAP Extension
 
