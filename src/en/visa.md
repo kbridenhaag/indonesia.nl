@@ -1,22 +1,22 @@
 ---
 title: Travel restrictions during the Covid-19 pandemic
 layout: "single.njk"
-updated: 2022-05-12
+updated: 2022-05-18
 includeToc: True
 eleventyNavigation:
   key: Travel restrictions during the Covid-19 pandemic
   parent: Home
 ---
 
-There are still travel restrictions for foreign nationals into the territory of the Republic of Indonesia. Those who are in the possession of a valid Indonesian residence permit (KITAS / KITAP), or (electronic) Visa are allowed to enter the country.
+There are still travel restrictions for foreign nationals entering the territory of the Republic of Indonesia. Those who are in the possession of a valid Indonesian residence permit (KITAS / KITAP), or (electronic) Visa are allowed to enter the country.
 
-Due to the covid-19 pandemic the Embassy of the Republic of Indonesia in The Hague cannot issue regular visas. (e)Visa applications must be submitted by the Indonesian sponsor to the Directorate General of Immigration – Jakarta: [https://visa-online.imigrasi.go.id/](https://visa-online.imigrasi.go.id/)
+Due to the covid-19 pandemic the Embassy of the Republic of Indonesia in The Hague cannot issue regular visas. (e)Visa applications must be submitted by the Indonesian sponsor to the Directorate General of Immigration – Jakarta:[https://visa-online.imigrasi.go.id/](https://visa-online.imigrasi.go.id/)
 
-## Visa on Arrival (VOA) for foreign travellers
+## Visa on Arrival (VOA) for foreign travellers**
 
 The Indonesian Government has reopened its Visa on Arrival services for **tourism or governmental visit** , at the following entry points:
 
-### Airports
+### Airports**
 
 1. Soekarno Hatta, Banten
 2. Ngurah Rai, Bali
@@ -150,79 +150,122 @@ The Visa Exemption is valid for a maximum of 30 days, and cannot get extended no
 
 If you are not eligible for a Visa on Arrival and/or have a visiting purpose matching the ones mentioned below, your Indonesian sponsor has to submit a visa application through the website of the Directorate General of Immigration - Jakarta, via: [https://visa-online.imigrasi.go.id/](https://visa-online.imigrasi.go.id/). **Tourist visa applications must be submitted by an Indonesian visa/travel agent or hotel**. An E-Visa will be issued for the following purposes:
 
-### 1. Visit Visa (B211 - 60 days)
+**1.**** Visit Visa (B211 - 60 days)**
 
 - **B211A**
-  - tourism;
-  - medical assistance, food support, and humanitarian aid;
-  - business meeting at a head-, or representative office (not to supervise production activities of producers/sellers);
-  - business discussion, negotiation, signing business contract (not to supervise production activities of producers/sellers);
-  - purchase of goods (not to supervise production activities of producers/sellers);
-  - a governmental visit;
-  - visiting places or activities in the framework of official government duties related to the _G20;_
-  - a crew member who joins the vessel in Indonesia;
-  - transit;
-  - participating in sport related activities at the invitation of the Indonesian government, international championships, or sport related activities by international sports organizations.
+
+o tourism;
+
+o medical assistance, food support, and humanitarian aid;
+
+o business meeting at a head-, or representative office (not to supervise production activities of producers/sellers);
+
+o business discussion, negotiation, signing business contract (not to supervise production activities of producers/sellers);
+
+o purchase of goods (not to supervise production activities of producers/sellers);
+
+o a governmental visit;
+
+o visiting places or activities in the framework of official government duties related to the G20;
+
+o a crew member who joins the vessel in Indonesia;
+
+o transit;
+
+o participating in sport related activities at the invitation of the Indonesian government, international championships, or sport related activities by international sports organizations.
+
 - **B211B**
-  - probationary period for foreign workers;
-  - essential work/emergency: to carry out unplanned work that cannot be delegated/authorized to other people in the context of dealing with incidents caused by, natural disasters, main engine damage, or riots and are required to be handled immediately to avoid fatal losses for the company and/or the community in general
+
+o probationary period for foreign workers;
+
+o essential work/emergency: to carry out unplanned work that cannot be delegated/authorized to other people in the context of dealing with incidents caused by, natural disasters, main engine damage, or riots and are required to be handled immediately to avoid fatal losses for the company and/or the community in general
+
 - **B211C**
-  - Journalism/making a movie
 
-#### Additional information
+o Journalism/making a movie
 
-- Single-Entry Visitor Visa (Index B211A, B211B, B211C) issued __before 16 April 2022__, can still be granted 4 time extension of the Stay Permit, until a maximum stay of 180 days.
-- Single-Entry Visitor Visa (Index B211A, B211B, B211C) issued __from 16 April 2022__ valid for a maximum stay of 60 days, can be granted a 2 time Stay Permit extension (60 days/extension), until a maximum stay of 180 days.
-- Single-Entry Visitor Visa (Index B211A, B211B, B211C) issued __from 16 April 2022__ valid for a maximum stay of 180 days cannot be granted extension of the Stay Permit
+**\*Additional information\***
+
+- Single-Entry Visitor Visa (Index B211A, B211B, B211C) issued **before 16 April 2022,** can still be granted 4 time extension of the Stay Permit, until a maximum stay of 180 days.
+- Single-Entry Visitor Visa (Index B211A, B211B, B211C) issued **from 16 April 2022** valid for a maximum stay of 60 days, can be granted a 2 time Stay Permit extension (60 days/extension), until a maximum stay of 180 days.
+- Single-Entry Visitor Visa (Index B211A, B211B, B211C) issued **from 16 April 2022** valid for a maximum stay of 180 days cannot be granted extension of the Stay Permit
 - The applicant must apply for the Stay Permit extension at the local immigration office and pay a fee of IDR 2.000.000.
-- Foreigners or Sponsors can still apply for a Visitor Visa within the Indonesian Territory (onshore visa) through the [Online Visa Approval](https://visa-online.imigrasi.go.id/) application. 
+- Foreigners or Sponsors can still apply for a Visitor Visa within the Indonesian Territory (onshore visa) through the [Online Visa Approval](https://visa-online.imigrasi.go.id/) application.
 
-### 2. Temporary stay visa (12 months)
+**2.**** Temporary stay visa (12 months)**
 
 A temporary stay visa will be granted to foreigners for a work activity and/or non-work activity. This visa can be converted into an Indonesian Temporary Residence Permit (KITAS).
 
 - **Temporary stay visa for the work activity is granted to a foreign worker (C312)**
-  - as a professional or expert;
-  - who joins to work on ships, on vessels, or installations operating in the Indonesian maritime zone, territorial sea, continental shelf, and Indonesian Exclusive Economic Zone;
-  - whose job is quality control of goods or products;
-  - who conducts workplace inspections and audit;
-  - whose work with an after sales service;
-  - who installs and repairs machines;
-  - with a non-permanent work in constructions;
-  - with a probationary period for skilled works.
 
-Temporary stay visa for the non-work activity is granted to a foreigner for:
+o as a professional or expert;
+
+o who joins to work on ships, on vessels, or installations operating in the Indonesian maritime zone, territorial sea, continental shelf, and Indonesian Exclusive Economic Zone;
+
+o whose job is quality control of goods or products;
+
+o who conducts workplace inspections and audit;
+
+o whose work with an after sales service;
+
+o who installs and repairs machines;
+
+o with a non-permanent work in constructions;
+
+o with a probationary period for skilled works.
+
+- **Temporary stay visa for the non-work activity is granted to a foreigner for:**
 
 - **C313 – C314**
-  - foreign investment (1 year);
-  - foreign investment (2 years);
+
+o foreign investment (1 year);
+
+o foreign investment (2 years);
+
 - **C315**
-  - scientific training and research;
+
+o scientific training and research;
+
 - **C316**
-  - study/attend education at an educational institution;
+
+o study/attend education at an educational institution;
+
 - **C317**
-  - reunification with Indonesian spouse;
-  - joining a foreign spouse who holds an Indonesian residence permit (KITAS/KITAP);
-  - children from a mixed marriage (foreigner-indonesian) joining their parents;
-  - unmarried children under 18 from joining their foreign mother/father married to an Indonesian national;
-  - unmarried children under 18 joining their parents who hold an Indonesian residence permit (KITAS/KITAP);
-  - children who have a legal family relationship with the father/mother who has Indonesian nationality
+
+o reunification with Indonesian spouse;
+
+o joining a foreign spouse who holds an Indonesian residence permit (KITAS/KITAP);
+
+o children from a mixed marriage (foreigner-Indonesian) joining their parents;
+
+o unmarried children under 18 from joining their foreign mother/father married to an Indonesian national;
+
+o unmarried children under 18 joining their parents who hold an Indonesian residence permit (KITAS/KITAP);
+
+o children who have a legal family relationship with the father/mother who has Indonesian nationality
+
 - **C318**
-  - Repatriation for ex-Indonesian nationals who wish to live in Indonesia
+
+o Repatriation for ex-Indonesian nationals who wish to live in Indonesia
 
 ## Health protocol and quarantine regulations
 
 International travellers arriving into the territory of the Republic of Indonesia, must follow the following health protocols and quarantine regulations. The international traveller must:
 
 1. Show proof of being in the possession of health/travel insurance that covers medical expenses and Covid-19 treatment while abroad.
-2. Show a result of negative PCR test that was taken maximum  **48 hours before departure**.
-3. Show proof/certificate of a **full dose COVID-19 vaccination (at least 2 vaccines, or 1 for the Johnson&amp;Johnson vaccine)** minimum 14 days before the date of travel, e.g., stamp in the yellow vaccination book and print out the international QR code from the CoronaCheck website: [https://coronacheck.nl/nl/print/](https://coronacheck.nl/nl/print/)
-  1. International travellers under 18 are not required to show Covid-19 vaccination proof
-  2. International travellers who cannot get vaccinated due to medical reasons, must show an official statement letter from their physician
-  3. International travellers that have been tested positive for Covid-19 (max. 30 days prior to departure) and are not contagious, do not have to show proof of a full dose Covid-19 vaccination or negative PCR test prior to departure, under the condition that they must undergo a PCR test upon arrival and attach an **International Recovery Certificate** or doctor&#39;s certificate from their country of departure.
-4. Register the vaccination received abroad through the following website of the Indonesian Ministry of Health: [https://vaksinln.dto.kemkes.go.id/sign/in](https://vaksinln.dto.kemkes.go.id/sign/in) and upload this data in the Peduli Lindungi app. You will receive a QR Code which can be scanned, for example if you want to enter malls, restaurants and other public places. **Ground staff at the airport can help to integrate the data in the Peduli Lindungi app.**
-5. Upon arrival International travellers are submitted to a health check.
 
+2. Show proof/certificate of a **full dose of COVID-19 vaccination** (at least 2 vaccines, or 1 for the Johnson&amp;Johnson vaccine) minimum 14 days before the date of travel, e.g., stamp in the yellow vaccination book and print out the international QR code from the CoronaCheck website: [https://coronacheck.nl/nl/print/](https://coronacheck.nl/nl/print/)
+- International travellers under 18 are not required to show Covid-19 vaccination proof
+- International travellers who cannot get vaccinated due to medical reasons, must show an official statement letter from their physician
+
+3. International travellers having received a **full dose of COVID-19 vaccination** (at least 2 vaccines, or 1 for the Johnson&amp;Johnson vaccine) do **not** have to show a negative PCR test upon arrival anymore
+- International travellers that have been tested positive for Covid-19 (max. 30 days prior to departure) and are not contagious, do not have to show proof of a full dose Covid-19 vaccination or negative PCR test prior to departure, under the condition that they must undergo a PCR test upon arrival and attach an **International Recovery Certificate** or doctor&#39;s certificate from their country of departure.
+
+4. Register the vaccination received abroad through the following website of the Indonesian Ministry of Health: [https://vaksinln.dto.kemkes.go.id/sign/in](https://vaksinln.dto.kemkes.go.id/sign/in) and upload this data in the Peduli Lindungi app. You will receive a QR Code which can be scanned, for example if you want to enter malls, restaurants and other public places.
+  - **Ground staff at the airport can also help to integrate the data in the Peduli Lindungi app.**
+  - For more inquiries please contact: dto@kemkes.go.id
+
+5. Upon arrival International travellers are submitted to a health check.
 - Those who have received **2 and 3 doses** of COVID-19 vaccines and have passed the health check are allowed to continue their travels
 - For those who have only received 1 dose of COVID-19 Vaccines, must undergo **quarantine for 5 days** at their own expense
 - If the traveller has Covid related symptoms and/or their body temperature is higher than 37,5 degrees during the health check, they must retake a PCR test at the airport and wait for their result. After receiving a negative PCR test result the traveller is allowed to continue their activities. If the PCR test is positive, travellers with mild or no symptoms have to quarantine for 5 days in their accommodation
