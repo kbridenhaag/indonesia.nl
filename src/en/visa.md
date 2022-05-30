@@ -1,7 +1,7 @@
 ---
 title: Travel restrictions during the Covid-19 pandemic
 layout: "single.njk"
-updated: 2022-05-18
+updated: 2022-05-30
 includeToc: True
 eleventyNavigation:
   key: Travel restrictions during the Covid-19 pandemic
@@ -12,11 +12,11 @@ There are still travel restrictions for foreign nationals entering the territory
 
 Due to the covid-19 pandemic the Embassy of the Republic of Indonesia in The Hague cannot issue regular visas. (e)Visa applications must be submitted by the Indonesian sponsor to the Directorate General of Immigration – Jakarta:[https://visa-online.imigrasi.go.id/](https://visa-online.imigrasi.go.id/)
 
-## Visa on Arrival (VOA) for foreign travellers**
+## Visa on Arrival (VOA) for foreign travellers
 
 The Indonesian Government has reopened its Visa on Arrival services for **tourism or governmental visit** , at the following entry points:
 
-### Airports**
+### Airports
 
 1. Soekarno Hatta, Banten
 2. Ngurah Rai, Bali
@@ -51,66 +51,78 @@ The Indonesian Government has reopened its Visa on Arrival services for **touris
 
 ### Eligible nationalities
 
-1. Argentina
-2. Australia
-3. Austria
-4. Belgium
-5. Brazil
-6. Brunei Darussalam
-7. Bulgaria
-8. Cambodia
-9. Canada
-10. China
-11. Croatia
-12. Cyprus
-13. Czech Republic
-14. Denmark
-15. Estonia
-16. Finland
-17. France
-18. Germany
-19. Greece
-20. Hong Kong
-21. Hungary
-22. India
-23. Ireland
-24. Italy
-25. Japan
-26. Laos
-27. Latvia
-28. Lithuania
-29. Luxembourg
-30. Malaysia
-31. Malta
-32. Mexico
-33. Myanmar
-34. Netherlands
-35. New Zealand
-36. Norway
-37. Philippines
-38. Poland
-39. Portugal
-40. Qatar
-41. Rumania
-42. Saudi Arabia
-43. Seychelles
-44. Singapore
-45. Slovakia
-46. Slovenia
-47. South Africa
-48. South Korea
-49. Spain
-50. Sweden
-51. Switzerland
-52. Taiwan
-53. Thailand
-54. Timor Leste
-55. Tunisia
-56. Turkey
-57. United Arab Emirates
-58. United Kingdom
-59. United States of America
-60. Vietnam
+1.	Argentina
+2.	Australia
+3.	Austria
+4.	Bahrain
+5.	Belarus
+6.	Belgium
+7.	Bosnia and Herzegovina
+8.	Brazil
+9.	Brunei Darussalam
+10.	Bulgaria
+11.	Cambodia
+12.	Canada
+13.	China
+14.	Croatia
+15.	Cyprus
+16.	Czech Republic
+17.	Denmark
+18.	Egypt
+19.	Estonia
+20.	Finland
+21.	France
+22.	Germany
+23.	Greece
+24.	Hong Kong
+25.	Hungary
+26.	India
+27.	Ireland
+28.	Italy
+29.	Japan
+30.	Jordan
+31.	Kuwait
+32.	Laos
+33.	Latvia
+34.	Lithuania
+35.	Luxembourg
+36.	Malaysia
+37.	Malta
+38.	Mexico
+39.	Morocco
+40.	Myanmar
+41.	Netherlands
+42.	New Zealand
+43.	Norway
+44.	Oman
+45.	Peru
+46.	Philippines
+47.	Poland
+48.	Portugal
+49.	Qatar
+50.	Rumania
+51.	Russia
+52.	Saudi Arabia
+53.	Serbia
+54.	Seychelles
+55.	Singapore
+56.	Slovakia
+57.	Slovenia
+58.	South Africa
+59.	South Korea
+60.	Spain
+61.	Sweden
+62.	Switzerland
+63.	Taiwan
+64.	Thailand
+65.	Timor Leste
+66.	Tunisia
+67.	Turkey
+68.	Ukraine
+69.	United Arab Emirates
+70.	United Kingdom
+71.	United States of America
+72.	Vietnam 
 
 The Visa on Arrival costs Rp. 500.000 and is valid for 30 days. The Visa on Arrival can get extended once, with 30 days, at a local Immigration Office in Indonesia with an extension fee of Rp. 500.000. The Visa on Arrival cannot be converted into another type of stay permit.
 
@@ -150,7 +162,7 @@ The Visa Exemption is valid for a maximum of 30 days, and cannot get extended no
 
 If you are not eligible for a Visa on Arrival and/or have a visiting purpose matching the ones mentioned below, your Indonesian sponsor has to submit a visa application through the website of the Directorate General of Immigration - Jakarta, via: [https://visa-online.imigrasi.go.id/](https://visa-online.imigrasi.go.id/). **Tourist visa applications must be submitted by an Indonesian visa/travel agent or hotel**. An E-Visa will be issued for the following purposes:
 
-**1.**** Visit Visa (B211 - 60 days)**
+**1. Visit Visa (B211 - 60 days)**
 
 - **B211A**
 
@@ -192,7 +204,7 @@ o Journalism/making a movie
 - The applicant must apply for the Stay Permit extension at the local immigration office and pay a fee of IDR 2.000.000.
 - Foreigners or Sponsors can still apply for a Visitor Visa within the Indonesian Territory (onshore visa) through the [Online Visa Approval](https://visa-online.imigrasi.go.id/) application.
 
-**2.**** Temporary stay visa (12 months)**
+**2.Temporary stay visa (12 months)**
 
 A temporary stay visa will be granted to foreigners for a work activity and/or non-work activity. This visa can be converted into an Indonesian Temporary Residence Permit (KITAS).
 
