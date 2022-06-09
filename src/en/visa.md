@@ -1,7 +1,7 @@
 ---
 title: Travel restrictions during the Covid-19 pandemic
 layout: "single.njk"
-updated: 2022-05-30
+updated: 2022-06-09
 includeToc: True
 eleventyNavigation:
   key: Travel restrictions during the Covid-19 pandemic
@@ -196,7 +196,7 @@ o essential work/emergency: to carry out unplanned work that cannot be delegated
 
 o Journalism/making a movie
 
-**\*Additional information\***
+### Additional information
 
 - Single-Entry Visitor Visa (Index B211A, B211B, B211C) issued **before 16 April 2022,** can still be granted 4 time extension of the Stay Permit, until a maximum stay of 180 days.
 - Single-Entry Visitor Visa (Index B211A, B211B, B211C) issued **from 16 April 2022** valid for a maximum stay of 60 days, can be granted a 2 time Stay Permit extension (60 days/extension), until a maximum stay of 180 days.
@@ -264,20 +264,18 @@ o Repatriation for ex-Indonesian nationals who wish to live in Indonesia
 
 International travellers arriving into the territory of the Republic of Indonesia, must follow the following health protocols and quarantine regulations. The international traveller must:
 
-1. Show proof of being in the possession of health/travel insurance that covers medical expenses and Covid-19 treatment while abroad.
-
-2. Show proof/certificate of a **full dose of COVID-19 vaccination** (at least 2 vaccines, or 1 for the Johnson&amp;Johnson vaccine) minimum 14 days before the date of travel, e.g., stamp in the yellow vaccination book and print out the international QR code from the CoronaCheck website: [https://coronacheck.nl/nl/print/](https://coronacheck.nl/nl/print/)
+1. Show proof/certificate of a **full dose of COVID-19 vaccination** (at least 2 vaccines, or 1 for the Johnson&amp;Johnson vaccine) minimum 14 days before the date of travel, e.g., stamp in the yellow vaccination book and print out the international QR code from the CoronaCheck website: [https://coronacheck.nl/nl/print/](https://coronacheck.nl/nl/print/)
 - International travellers under 18 are not required to show Covid-19 vaccination proof
 - International travellers who cannot get vaccinated due to medical reasons, must show an official statement letter from their physician
 
-3. International travellers having received a **full dose of COVID-19 vaccination** (at least 2 vaccines, or 1 for the Johnson&amp;Johnson vaccine) do **not** have to show a negative PCR test upon arrival anymore
+2. International travellers having received a **full dose of COVID-19 vaccination** (at least 2 vaccines, or 1 for the Johnson&amp;Johnson vaccine) do **not** have to show a negative PCR test upon arrival anymore
 - International travellers that have been tested positive for Covid-19 (max. 30 days prior to departure) and are not contagious, do not have to show proof of a full dose Covid-19 vaccination or negative PCR test prior to departure, under the condition that they must undergo a PCR test upon arrival and attach an **International Recovery Certificate** or doctor&#39;s certificate from their country of departure.
 
-4. Register the vaccination received abroad through the following website of the Indonesian Ministry of Health: [https://vaksinln.dto.kemkes.go.id/sign/in](https://vaksinln.dto.kemkes.go.id/sign/in) and upload this data in the Peduli Lindungi app. You will receive a QR Code which can be scanned, for example if you want to enter malls, restaurants and other public places.
+3. Register the vaccination received abroad through the following website of the Indonesian Ministry of Health: [https://vaksinln.dto.kemkes.go.id/sign/in](https://vaksinln.dto.kemkes.go.id/sign/in) and upload this data in the Peduli Lindungi app. You will receive a QR Code which can be scanned, for example if you want to enter malls, restaurants and other public places.
   - **Ground staff at the airport can also help to integrate the data in the Peduli Lindungi app.**
   - For more inquiries please contact: dto@kemkes.go.id
 
-5. Upon arrival International travellers are submitted to a health check.
+4. Upon arrival International travellers are submitted to a health check.
 - Those who have received **2 and 3 doses** of COVID-19 vaccines and have passed the health check are allowed to continue their travels
 - For those who have only received 1 dose of COVID-19 Vaccines, must undergo **quarantine for 5 days** at their own expense
 - If the traveller has Covid related symptoms and/or their body temperature is higher than 37,5 degrees during the health check, they must retake a PCR test at the airport and wait for their result. After receiving a negative PCR test result the traveller is allowed to continue their activities. If the PCR test is positive, travellers with mild or no symptoms have to quarantine for 5 days in their accommodation
