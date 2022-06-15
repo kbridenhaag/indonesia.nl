@@ -130,9 +130,8 @@ The Visa on Arrival costs Rp. 500.000 and is valid for 30 days. The Visa on Arri
 
 1. Official national passport with a minimum validity of 6 months from the entry date
 2. Copy of a return ticket, or ticket continuing the journey to another country
-3. Show proof of being in the possession of health insurance that covers medical expenses and Covid-19 treatment.
-4. Documents required in accordance with the provisions of the Indonesian Health Protocol issued by the Covid-19 Task Force.
-5. In case of a governmental visit, the traveller must also attach an invitation letter regarding the attending of a meeting / conference issued by the Indonesian Ministry / Department / Institutions concerned
+3. Documents required in accordance with the provisions of the Indonesian Health Protocol issued by the Covid-19 Task Force.
+4. In case of a governmental visit, the traveller must also attach an invitation letter regarding the attending of a meeting / conference issued by the Indonesian Ministry / Department / Institutions concerned
 
 ## Visa Exemption (Free Visa < 30 days)
 
@@ -154,9 +153,8 @@ The Visa Exemption is valid for a maximum of 30 days, and cannot get extended no
 
 1. Official national passport with a minimum validity of 6 months from the entry date
 2. Copy of a return ticket, or ticket continuing the journey to another country
-3. Show proof of being in the possession of health insurance that covers medical expenses and Covid-19 treatment.
-4. Documents required in accordance with the provisions of the Indonesian Health Protocol issued by the Covid-19 Task Force.
-5. In case of a governmental visit, the traveller must also attach an invitation letter regarding the attending of a meeting / conference issued by the Indonesian Ministry / Department / Institutions concerned
+3. Documents required in accordance with the provisions of the Indonesian Health Protocol issued by the Covid-19 Task Force.
+4. In case of a governmental visit, the traveller must also attach an invitation letter regarding the attending of a meeting / conference issued by the Indonesian Ministry / Department / Institutions concerned
 
 ## Electronic Visa (eVisa) from the Directorate General of Immigration – Jakarta
 
