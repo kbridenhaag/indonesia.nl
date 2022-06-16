@@ -8,15 +8,13 @@ const path = require('path')
 const purgeCssPlugin = require('eleventy-plugin-purgecss')
 const selectorReplace = require('postcss-replace')
 const merge = require('deepmerge')
-const rollup = require('rollup')
-const { nodeResolve } = require('@rollup/plugin-node-resolve');
 const dateFns = require('date-fns')
 const { idLocale } = require('date-fns/locale/id')
 const pluginTOC = require('eleventy-plugin-toc')
 const markdownIt = require('markdown-it')
 const markdownItAnchor = require('markdown-it-anchor')
 const criticalCss = require("eleventy-critical-css");
-const commonjs = require('@rollup/plugin-commonjs')
+const esbuild = require('esbuild')
 
 module.exports = (eleventyConfig) => {
   eleventyConfig.setUseGitIgnore(false)
@@ -86,10 +84,12 @@ module.exports = (eleventyConfig) => {
 
 function processSass (cssPath) {
   console.log('compiling CSS')
-  const { css } = sass.renderSync({
-    file: cssPath,
-    sourceMap: false
+  const { css } = sass.compile(cssPath, {
+    sourceMap: false,
+    loadPaths: ['./'],
+    quietDeps: true
   }) 
+
   console.log('CSS compiled')
   
   console.log('Optimizing CSS')
@@ -109,18 +109,13 @@ function processSass (cssPath) {
 
 async function processJs (jsPath) {
   console.log('Compiling JS')
-  const bundle = await rollup.rollup({
-    input: jsPath,
-    plugins: [nodeResolve(), commonjs()]
-  }) 
-
-  await bundle.write({
-    name: 'App',
-    format: 'umd',
-    file: './dist/public/app.js'
+  await esbuild.build({
+    entryPoints: [jsPath],
+    bundle: true,
+    outfile: './dist/public/app.js',
+    resolveExtensions: ['.js', '.mjs'],
+    globalName: 'App'
   })
-  await bundle.close()
-  // fs.outputFileSync('./dist/public/app.js', output.code)
 }
 
 function compileLanguageDictionary (lang) {
