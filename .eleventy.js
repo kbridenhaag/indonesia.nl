@@ -13,7 +13,6 @@ const { idLocale } = require('date-fns/locale/id')
 const pluginTOC = require('eleventy-plugin-toc')
 const markdownIt = require('markdown-it')
 const markdownItAnchor = require('markdown-it-anchor')
-const criticalCss = require("eleventy-critical-css");
 const esbuild = require('esbuild')
 
 module.exports = (eleventyConfig) => {
@@ -47,8 +46,6 @@ module.exports = (eleventyConfig) => {
       '*': 'id'
     }
   });
-
-  eleventyConfig.addPlugin(criticalCss);
 
   eleventyConfig.addPlugin(pluginTOC, {
     tags: ['h2'],
