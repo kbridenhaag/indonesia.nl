@@ -39,9 +39,21 @@ Anda perlu menyediakan semua dokumen yang diperlukan dalam permohonan Anda. Seba
 -	Kutipan akte kelahiran/akte perkawinan/fotocopy ijazah
 -	Surat keterangan kehilangan dari kantor polisi setempat jika paspor Anda hilang atau dicuri
 
-## Mulai permohonan
+## Start your application online
 
 Anda dapat menggunakan layanan online untuk memulai permohonan pembaharuan atau penggantian paspor. 
 
 <a href="https://aplikasi.imigrasi.indonesia.nl/paspor" class="kbrinl-button kbrinl-button--start">Mulai permohonan <svg class="kbrinl-button__start-icon" xmlns="http://www.w3.org/2000/svg" width="17.5" height="19" viewBox="0 0 33 40" aria-hidden="true" focusable="false"> <path fill="currentColor" d="M0 0h13l20 20-20 20H0l20-20z" /> </svg>
 </a>
+
+## Start your application with a paper form
+
+You can also download, print and fill in your application form below instead of using the online form.
+You are responsible to print the form yourself and to fill it in accurately. You must come to the Embassy to 
+submit your form by [making an appointment](/id/paspor/buat-janji/).
+
+### Download an application form
+
+- [Application form to renew your expired passport](https://aplikasi.imigrasi.indonesia.nl/formulir/paspor/memperbaharui)
+- [Application form to replace a stolen passport](https://aplikasi.imigrasi.indonesia.nl/formulir/paspor/dicuri-atau-hilang)
+- [Application form to replace a damaged passport](https://aplikasi.imigrasi.indonesia.nl/formulir/paspor/rusak)
