@@ -26,10 +26,10 @@ Besar Republik Indonesia.
 
 ## Berapa lama waktu yang dibutuhkan
 
-Setelah permohonan dikirimkan, proses akan membutuhkan 10 hari kerja sampai
+Setelah permohonan diterima di Kedutan Besar Republik Indonesia, proses akan membutuhkan 10 hari kerja sampai
 paspor baru Anda siap untuk diambil di Kedutan Besar Republik Indonesia. 
 
-## Dokumen yang di butuhkan
+## Dokumen yang dibutuhkan
 
 Anda perlu menyediakan semua dokumen yang diperlukan dalam permohonan Anda. Sebagai berikut:
 
@@ -39,20 +39,31 @@ Anda perlu menyediakan semua dokumen yang diperlukan dalam permohonan Anda. Seba
 -	Kutipan akte kelahiran/akte perkawinan/fotocopy ijazah
 -	Surat keterangan kehilangan dari kantor polisi setempat jika paspor Anda hilang atau dicuri
 
-## Start your application online
+## Ways to apply
+
+You can start your application online or download a paper form and fill it in yourself. After filling in an online or paper form,
+you must make an appointment at the Embassy in The Hague to submit your documents. It is faster to start your application online.
+
+If you are unable to come to the Embassy due to chronic illness or disability, we can 
+[collect your documents personally at your home or residence](/id/paspor/disability).
+
+If you live far away from The Hague and you struggle to make an appointment on a day and time that suits you, you can see if and when
+the Embassy will come to an area near you via our outreach program [Eazy Passport](/id/paspor/eazy-passport).
+
+### Mulai permohonan secara online
 
 Anda dapat menggunakan layanan online untuk memulai permohonan pembaharuan atau penggantian paspor. 
 
 <a href="https://aplikasi.imigrasi.indonesia.nl/paspor" class="kbrinl-button kbrinl-button--start">Mulai permohonan <svg class="kbrinl-button__start-icon" xmlns="http://www.w3.org/2000/svg" width="17.5" height="19" viewBox="0 0 33 40" aria-hidden="true" focusable="false"> <path fill="currentColor" d="M0 0h13l20 20-20 20H0l20-20z" /> </svg>
 </a>
 
-## Start your application with a paper form
+### Start your application with a paper form
 
-You can also download, print and fill in your application form below instead of using the online form.
+You can download, print and fill in your application form below instead of using the online form.
 You are responsible to print the form yourself and to fill it in accurately. You must come to the Embassy to 
 submit your form by [making an appointment](/id/paspor/buat-janji/).
 
-### Download an application form
+#### Download an application form
 
 - [Application form to renew your expired passport](https://aplikasi.imigrasi.indonesia.nl/formulir/paspor/memperbaharui)
 - [Application form to replace a stolen passport](https://aplikasi.imigrasi.indonesia.nl/formulir/paspor/dicuri-atau-hilang)
