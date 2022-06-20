@@ -25,9 +25,16 @@ De Ambassade van de Republiek Indonesië<br/>
 Tobias Asserlaan 8<br/>
 2517 KC  Den Haag
 
-## Mulai permohonan Anda
+## Start your application online
 
 Anda dapat menggunakan layanan online untuk memulai permohonan Anda.
 
 <a href="https://aplikasi.imigrasi.indonesia.nl/lepaskan-kewarganegaraan-indonesia" class="kbrinl-button kbrinl-button--start">Mulai permohonan <svg class="kbrinl-button__start-icon" xmlns="http://www.w3.org/2000/svg" width="17.5" height="19" viewBox="0 0 33 40" aria-hidden="true" focusable="false"> <path fill="currentColor" d="M0 0h13l20 20-20 20H0l20-20z" /> </svg>
 </a>
+
+## Start your application with a paper form
+
+You can also download, print and fill in your application form below instead of using the online form.
+You are responsible to print the form yourself and to fill it in accurately.
+
+[Download form to report that you have changed nationality](https://aplikasi.imigrasi.indonesia.nl/formulir/lepaskan-kewarganegaraan-indonesia)

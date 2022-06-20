@@ -38,9 +38,17 @@ Anda perlu menyediakan semua dokumen yang diperlukan dalam permohonan Anda. Seba
 </div>
 
 
-## Mulai permohonan Anda
+## Start your application online
 
 Layanan ini ditunjukkan untuk WNI yang ingin membuat paspor baru untuk anak baru lahir dan/atau penggantian paspor RI anak dibawah 17 tahun. 
 
 <a href="https://aplikasi.imigrasi.indonesia.nl/paspor" class="kbrinl-button kbrinl-button--start">Mulai permohonan <svg class="kbrinl-button__start-icon" xmlns="http://www.w3.org/2000/svg" width="17.5" height="19" viewBox="0 0 33 40" aria-hidden="true" focusable="false"> <path fill="currentColor" d="M0 0h13l20 20-20 20H0l20-20z" /> </svg>
 </a>
+
+## Start your application with a paper form
+
+You can also download, print and fill in your application form below instead of using the online form.
+You are responsible to print the form yourself and to fill it in accurately. You must come to the Embassy to 
+submit your form by [making an appointment](/id/paspor/buat-janji/).
+
+[Download application form to renew or replace a child's passport](https://aplikasi.imigrasi.indonesia.nl/paspor/formulir/anak)
