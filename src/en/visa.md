@@ -1,7 +1,7 @@
 ---
 title: Travel restrictions during the Covid-19 pandemic
 layout: "single.njk"
-updated: 2022-06-09
+updated: 2022-07-12
 includeToc: True
 eleventyNavigation:
   key: Travel restrictions during the Covid-19 pandemic
@@ -51,78 +51,78 @@ The Indonesian Government has reopened its Visa on Arrival services for **touris
 
 ### Eligible nationalities
 
-1.	Argentina
-2.	Australia
-3.	Austria
-4.	Bahrain
-5.	Belarus
-6.	Belgium
-7.	Bosnia and Herzegovina
-8.	Brazil
-9.	Brunei Darussalam
-10.	Bulgaria
-11.	Cambodia
-12.	Canada
-13.	China
-14.	Croatia
-15.	Cyprus
-16.	Czech Republic
-17.	Denmark
-18.	Egypt
-19.	Estonia
-20.	Finland
-21.	France
-22.	Germany
-23.	Greece
-24.	Hong Kong
-25.	Hungary
-26.	India
-27.	Ireland
-28.	Italy
-29.	Japan
-30.	Jordan
-31.	Kuwait
-32.	Laos
-33.	Latvia
-34.	Lithuania
-35.	Luxembourg
-36.	Malaysia
-37.	Malta
-38.	Mexico
-39.	Morocco
-40.	Myanmar
-41.	Netherlands
-42.	New Zealand
-43.	Norway
-44.	Oman
-45.	Peru
-46.	Philippines
-47.	Poland
-48.	Portugal
-49.	Qatar
-50.	Rumania
-51.	Russia
-52.	Saudi Arabia
-53.	Serbia
-54.	Seychelles
-55.	Singapore
-56.	Slovakia
-57.	Slovenia
-58.	South Africa
-59.	South Korea
-60.	Spain
-61.	Sweden
-62.	Switzerland
-63.	Taiwan
-64.	Thailand
-65.	Timor Leste
-66.	Tunisia
-67.	Turkey
-68.	Ukraine
-69.	United Arab Emirates
-70.	United Kingdom
-71.	United States of America
-72.	Vietnam 
+1. Argentina
+2. Australia
+3. Austria
+4. Bahrain
+5. Belarus
+6. Belgium
+7. Bosnia and Herzegovina
+8. Brazil
+9. Brunei Darussalam
+10. Bulgaria
+11. Cambodia
+12. Canada
+13. China
+14. Croatia
+15. Cyprus
+16. Czech Republic
+17. Denmark
+18. Egypt
+19. Estonia
+20. Finland
+21. France
+22. Germany
+23. Greece
+24. Hong Kong
+25. Hungary
+26. India
+27. Ireland
+28. Italy
+29. Japan
+30. Jordan
+31. Kuwait
+32. Laos
+33. Latvia
+34. Lithuania
+35. Luxembourg
+36. Malaysia
+37. Malta
+38. Mexico
+39. Morocco
+40. Myanmar
+41. Netherlands
+42. New Zealand
+43. Norway
+44. Oman
+45. Peru
+46. Philippines
+47. Poland
+48. Portugal
+49. Qatar
+50. Rumania
+51. Russia
+52. Saudi Arabia
+53. Serbia
+54. Seychelles
+55. Singapore
+56. Slovakia
+57. Slovenia
+58. South Africa
+59. South Korea
+60. Spain
+61. Sweden
+62. Switzerland
+63. Taiwan
+64. Thailand
+65. Timor Leste
+66. Tunisia
+67. Turkey
+68. Ukraine
+69. United Arab Emirates
+70. United Kingdom
+71. United States of America
+72. Vietnam
 
 The Visa on Arrival costs Rp. 500.000 and is valid for 30 days. The Visa on Arrival can get extended once, with 30 days, at a local Immigration Office in Indonesia with an extension fee of Rp. 500.000. The Visa on Arrival cannot be converted into another type of stay permit.
 
@@ -158,9 +158,9 @@ The Visa Exemption is valid for a maximum of 30 days, and cannot get extended no
 
 ## Electronic Visa (eVisa) from the Directorate General of Immigration – Jakarta
 
-If you are not eligible for a Visa on Arrival and/or have a visiting purpose matching the ones mentioned below, your Indonesian sponsor has to submit a visa application through the website of the Directorate General of Immigration - Jakarta, via: [https://visa-online.imigrasi.go.id/](https://visa-online.imigrasi.go.id/). **Tourist visa applications must be submitted by an Indonesian visa/travel agent or hotel**. An E-Visa will be issued for the following purposes:
+If you are not eligible for a Visa on Arrival, wish to travel longer than 60 days, and/or have a visiting purpose matching the ones mentioned below, your Indonesian sponsor has to submit a visa application through the website of the Directorate General of Immigration - Jakarta, via: [https://visa-online.imigrasi.go.id/](https://visa-online.imigrasi.go.id/). **Tourist visa applications must be submitted by an Indonesian visa/travel agent or hotel**. An E-Visa will be issued for the following purposes:
 
-**1. Visit Visa (B211 - 60 days)**
+**1.Visit Visa (B211 - 60 days)**
 
 - **B211A**
 
@@ -260,13 +260,17 @@ o Repatriation for ex-Indonesian nationals who wish to live in Indonesia
 
 ## Health protocol and quarantine regulations
 
+### Regulations for international travelling
+
 International travellers arriving into the territory of the Republic of Indonesia, must follow the following health protocols and quarantine regulations. The international traveller must:
 
 1. Show proof/certificate of a **full dose of COVID-19 vaccination** (at least 2 vaccines, or 1 for the Johnson&amp;Johnson vaccine) minimum 14 days before the date of travel, e.g., stamp in the yellow vaccination book and print out the international QR code from the CoronaCheck website: [https://coronacheck.nl/nl/print/](https://coronacheck.nl/nl/print/)
+
 - International travellers under 18 are not required to show Covid-19 vaccination proof
 - International travellers who cannot get vaccinated due to medical reasons, must show an official statement letter from their physician
 
 2. International travellers having received a **full dose of COVID-19 vaccination** (at least 2 vaccines, or 1 for the Johnson&amp;Johnson vaccine) do **not** have to show a negative PCR test upon arrival anymore
+
 - International travellers that have been tested positive for Covid-19 (max. 30 days prior to departure) and are not contagious, do not have to show proof of a full dose Covid-19 vaccination or negative PCR test prior to departure, under the condition that they must undergo a PCR test upon arrival and attach an **International Recovery Certificate** or doctor&#39;s certificate from their country of departure.
 
 3. Register the vaccination received abroad through the following website of the Indonesian Ministry of Health: [https://vaksinln.dto.kemkes.go.id/sign/in](https://vaksinln.dto.kemkes.go.id/sign/in) and upload this data in the Peduli Lindungi app. You will receive a QR Code which can be scanned, for example if you want to enter malls, restaurants and other public places.
@@ -274,11 +278,36 @@ International travellers arriving into the territory of the Republic of Indonesi
   - For more inquiries please contact: dto@kemkes.go.id
 
 4. Upon arrival International travellers are submitted to a health check.
+
 - Those who have received **2 and 3 doses** of COVID-19 vaccines and have passed the health check are allowed to continue their travels
+
 - For those who have only received 1 dose of COVID-19 Vaccines, must undergo **quarantine for 5 days** at their own expense
+
 - If the traveller has Covid related symptoms and/or their body temperature is higher than 37,5 degrees during the health check, they must retake a PCR test at the airport and wait for their result. After receiving a negative PCR test result the traveller is allowed to continue their activities. If the PCR test is positive, travellers with mild or no symptoms have to quarantine for 5 days in their accommodation
+
 - To those who undergo the 5 days quarantine, travellers must retake another PCR test on the fourth day.
+
 - International travellers under 18 follow the provisions applied to their parents/caregiver or travel companion.
+
+### Regulations for domestic travelling
+
+Every individual who carries out a trip is obliged to apply, and comply with the following health protocols:
+
+1. use a 3-ply cloth mask or medical mask that covers the nose, mouth and chin while indoors or when in crowds;
+2. replace masks regularly every four hours, and dispose the waste in the places provided;
+3. wash hands regularly by using water and soap or hand sanitizer;
+4. social distance with a minimum of 1,5m; and
+5. advised not to have an in-person/telephone conversation while using any mode of public transportation.
+
+Domestic travellers using all modes of private/public transportation between different regions/provinces throughout Indonesia, also must comply with the following provisions:
+
+1. Use the PeduliLindungi App as proof of vaccination while travelling;
+2. Domestic travellers who have received the third vaccination dose (booster) are not required to show a negative PCR or Rapid test result;
+3. Domestic travellers who have received 2 dose of COVID-19 vaccination must show a negative Rapid test result, taken within 24 hours before departure, or negative PCR test result, taken within 72 hours before departure. They can receive an on-site booster vaccination upon departure;
+4. Domestic travellers who have only received 1 dose of COVID-19 vaccination must show a negative PCR test result, taken within 72 hours before departure;
+5. Domestic travellers who cannot get vaccinated due to medical reasons, must show an official doctor&#39;s certificate from their physician/hospital which states that the person concerned cannot get vaccinated and why;
+6. Domestic travellers aged between 6 – 17 years must show proof of having received 2 dose of COVID-19 vaccination, but are not required to show a negative PCR or Rapid test result;
+7. Domestic travellers aged under 6 years are exempted from the mandatory COVID-19 vaccination, and are not required to show a negative PCR or Rapid test result. They must travel with their parent(s)/caregiver(s) or travel companion who has complied with the vaccination requirements and health protocols.
 
 ## KITAS/KITAP Extension
 
